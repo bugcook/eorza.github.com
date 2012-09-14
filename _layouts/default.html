@@ -6,6 +6,24 @@
 		<link rel="stylesheet" href="/assets/stylesheets/style.css" type="text/css" />
 	</head>
 	<body>
-		{{ content }}
+		<header id="masthead" class="site-header">
+			<h1><a href="/">Dobila</a></h1>
+			<nav>
+				<ul>
+					<li><a href="#">Archives</a></li>
+					<li><a href="#">Categories</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<div id="main" class="site-wrapper">
+			{{ content }}
+		</div>
+
+		<footer id="colophon" class="site-footer">
+			<div class="site-info">
+				Created using Jekyll.
+			</div>
+		</footer>
 	</body>
 </html>

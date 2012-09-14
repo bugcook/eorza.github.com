@@ -2,24 +2,30 @@
 layout: default
 ---
 
-<header id="masthead" class="site-header">
-	<hgroup>
-		<h1><a href="/">Dobila</a></h1>
-	</hgroup>
-	<nav>
-		<ul>
-			<li><a href="#">Archives</a></li>
-			<li><a href="#">Categories</a></li>
-		</ul>
-	</nav>
-</header>
+<article id="primary">
+	<header class="page-header">
+		<h1>{{ page.title }}</h1>
+	</header>
 
-<div id="main" class="wrapper">
-	{{ content }}
-</div>
-
-<footer id="colophon">
-	<div class="site-info">
-		The footer things.
+	<div class="page-content">
+		{{ content }}
 	</div>
-</footer>
+
+	<footer class="page-footer">
+		This entry was posted in
+		{% for category in page.categories %}
+			<a href="">{{ page.category }}</a>
+		{% endfor %}
+
+		and tagged
+		{% for tag in page.tags %}
+			<a href="{{ tag.url }}">{{ tag }}</a>
+			{% if tag.last %}
+			,
+			{% endif %}
+		{% endfor %}
+
+		on date <a href="">{{ page.date | date: "%B %d, %Y" }}</a>
+	</footer>
+</article>
+
