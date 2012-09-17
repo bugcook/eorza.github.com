@@ -19,8 +19,8 @@ layout: default
 
 		and tagged
 		{% for tag in page.tags %}
-			<a href="{{ tag.url }}">{{ tag }}</a>
-			{% if tag.last %}
+			<a href="{{ BASE_PATH }}{{ tag.url }}">{{ tag }}</a>
+			{% if !forloop.last %}
 			,
 			{% endif %}
 		{% endfor %}
