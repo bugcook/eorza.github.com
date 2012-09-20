@@ -10,8 +10,9 @@
 			<h1><a href="/">Dobila</a></h1>
 			<nav>
 				<ul>
-					<li><a href="{{ BASE_PATH }}/archive.html">Archive</a></li>
-					<li><a href="{{ BASE_PATH }}/categories.html">Categories</a></li>
+					{% assign node_list = site.pages %}
+					{% assign group = 'navigation' %}
+					{% include node_list %}
 				</ul>
 			</nav>
 		</header>

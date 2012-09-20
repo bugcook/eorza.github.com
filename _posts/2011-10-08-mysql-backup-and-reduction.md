@@ -1,0 +1,38 @@
+---
+layout: post
+title: mysql备份还原
+slug: mysql-backup-and-reduction
+date: 2011-10-08 11:15:51 +0800
+excerpt: 本博客使命之mysql数据库的备份还原。其实写这些东西怪丢人的，很多人会说你连这个都记不住吗？我只好一句话不说，我确实记不住。
+categories:
+- note
+- material
+tags:
+- mysql
+more_categories:
+- slug: note
+  name: 学习笔记
+- slug: material
+  name: 学习资料
+more_tags:
+- slug: mysql
+  name: mysql
+---
+
+本博客使命之mysql数据库的备份还原。其实写这些东西怪丢人的，很多人会说你连这个都记不住吗？我只好一句话不说，我确实记不住。
+
+## 1 导出所有数据库
+
+	mysqldump -u username -p password –all-databases > all.sql
+
+## 2 导出一个数据库
+
+	mysqldump -u username -p password somedatabase > all.sql
+
+## 3 导入
+
+进入mysql -u username -p password
+
+	source all.sql
+
+命令很多，但是有这几条就暂时够用了。

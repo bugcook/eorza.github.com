@@ -1,2 +1,9 @@
 safe: false
 permalink: none
+
+# The following is custom defined by hass
+path:
+  archive: /archive.html
+  categories: /categories.html
+  tags: /tags.html
+  uploads: http://202.136.62.195:9099/uploads/

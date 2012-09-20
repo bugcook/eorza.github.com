@@ -1,0 +1,23 @@
+---
+layout: post
+title: 为什么是make mrproper
+slug: why-is-make-mrproper
+date: 2012-09-12 16:05:22 +0800
+excerpt: make mrproper is a command in the Linux kernel build system, used to clean up all files from past builds and restore the build directory to its original clean state. The reason make mrproper is used instead of make mrclean is because Linus Torvalds, the father of Linux, was familiar with the name Mr. Proper as this is the brand widely known in Europe.
+categories:
+- material
+tags:
+- linux
+more_categories:
+- slug: material
+  name: 学习资料
+more_tags:
+- slug: linux
+  name: linux
+---
+
+无意中闲逛，看到有人解释在清理内核源代码的时候用的是make mrproper，这个mrproper是设么意思呢？
+
+> "make mrproper" is a command in the Linux kernel build system, used to "clean up" all files from past builds and restore the build directory to its original clean state. The reason "make mrproper" is used instead of "make mrclean" is because Linus Torvalds, the father of Linux, was familiar with the name "Mr. Proper" as this is the brand widely known in Europe."
+
+

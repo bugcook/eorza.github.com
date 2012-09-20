@@ -1,0 +1,16 @@
+{% if tag_list.first[0] == null %}
+	{% for tag in tag_list %}
+		<li>
+			<a href="{{ site.path.tags }}#{{ tag }}-ref">
+				{{ tag }} <span>{{ site.tags[tag].size }}</span>
+			</a>
+		</li>
+	{% endfor %}
+{% else %}
+	{% for tag in tag_list %}
+		<li>
+			<a href="{{ site.path.tags }}#{{ tag[0] }}-ref">
+				{{ tag[0] }} <span>{{ tag[1].size }}</span></a>
+		</li>
+	{% endfor %}
+{% endif %}
