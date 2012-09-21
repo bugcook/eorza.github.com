@@ -24,7 +24,7 @@ more_tags:
 
 一、日和动漫之平田的世界
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/pingtians-world.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/pingtians-world.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
@@ -33,7 +33,7 @@ more_tags:
 
 二、日和动漫之世界末日
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/the-end-of-world.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/the-end-of-world.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
@@ -41,7 +41,7 @@ more_tags:
 
 三、日和动漫之贴纸
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/stickers.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/stickers.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
@@ -49,7 +49,7 @@ more_tags:
 
 四、日和动漫之旅行的终点
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/destination-of-travel.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/destination-of-travel.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

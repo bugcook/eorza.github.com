@@ -27,7 +27,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -198,6 +198,14 @@ a:hover {
 	line-height: 22px;
 }
 
+.page-content video {
+	display: block;
+	max-width: 480px;
+	margin: 20px auto;
+}
+.page-content audio {
+	display: block;
+}
 .page-content ul {
 	list-style: disc inside;
 	margin-left: 10px;

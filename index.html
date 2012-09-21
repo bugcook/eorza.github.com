@@ -21,13 +21,13 @@ layout: default
 
 		and tagged
 		{% for tag in post.tags %}
-			<a href="{{ BASE_PATH }}{{ tag.url }}">{{ tag }}</a>
+			<a href="{{ site.path.tags }}#{{ tag }}-ref">{{ tag }}</a>
 			{% if !forloop.last %}
 			,
 			{% endif %}
 		{% endfor %}
 
-		on date <a href="">{{ post.date | date: "%B %d, %Y" }}</a>
+		on date <a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a>
 	</footer>
 </article>
 

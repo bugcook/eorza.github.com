@@ -14,18 +14,15 @@ layout: default
 	<footer class="page-footer">
 		This entry was posted in
 		{% for category in page.categories %}
-			<a href="">{{ page.category }}</a>
+			<a href="{{ site.path.categories}}#{{ category }}-ref">{{ category }}</a>{% unless forloop.last %},{% endunless %}
 		{% endfor %}
 
 		and tagged
 		{% for tag in page.tags %}
-			<a href="{{ BASE_PATH }}{{ tag.url }}">{{ tag }}</a>
-			{% if !forloop.last %}
-			,
-			{% endif %}
+			<a href="{{ site.path.tags }}#{{ tag }}-ref">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
 		{% endfor %}
 
-		on date <a href="">{{ page.date | date: "%B %d, %Y" }}</a>
+		on date <a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a>
 	</footer>
 </article>
 
