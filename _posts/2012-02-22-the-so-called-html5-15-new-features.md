@@ -27,11 +27,7 @@ HTML5想必大家都很熟悉了，因为太多的媒体在讨论这一技术。
 
 目前许多网页还在使用XHTML 1.0 并且要在第一行像这样声明文档类型：
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-
-</pre>
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 在HTML5中，上面那种声明方式将失效。下面是HTML5中的声明方式：
 
@@ -93,25 +89,18 @@ HTML5想必大家都很熟悉了，因为太多的媒体在讨论这一技术。
 
 在HTML4或XHTML中，下面的这些代码被用来修饰图片的注释。
 
-<img src="path/to/image" alt="About image" />
-
-<p>Image of Mars. 
-
-</pre>
+	<img src="path/to/image" alt="About image" />
+	<p>Image of Mars.</p>
 
 然而，上述代码没有将文字和图片内在联系起来。因此，HTML5引入了figure元素。当和figcaption结合起来后，我们可以语义化地将注释和相应的图片联系起来。
 
-<figure>
+	<figure>
+		<img src="path/to/image" alt="About image" />
+		<figcaption>
+			<p>This is an image of something interesting.
+		</figcaption>
+	</figure>
 
-<img src="path/to/image" alt="About image" />
-
-<figcaption>
-
-<p>This is an image of something interesting. 
-
-</figcaption>
-</figure>
-</pre>
 
 ## 7.重新定义small (Small Element redefined)
 
@@ -126,11 +115,9 @@ HTML5想必大家都很熟悉了，因为太多的媒体在讨论这一技术。
 
 HTML5中的新属性“required”指定了某一输入是否必需。有两种方法声明这一属性。
 
-<input type="text" name="someInput" required>
+	<input type="text" name="someInput" required>
+	<input type="text" name="someInput" required="required">
 
-<input type="text" name="someInput" required="required">
-
-</pre>
 
 当文本框被指定必需时，如果空白的话表格就不能提交。下面是一个如何使用的例子。
 
@@ -153,21 +140,21 @@ HTML5中的新属性“required”指定了某一输入是否必需。有两种�
 目前我们需要依靠第三方插件来渲染音频。然而在HTML5中，audio元素被引进来了。
 
 	<audio autoplay="autoplay" controls="controls">
-	<source src="file.ogg" />
-	<source src="file.mp3" />
-	Download this file.
+		<source src="file.ogg" />
+		<source src="file.mp3" />
+		Download this file.
 	</audio>
 
-当使用<audio>元素时请记得包含两种音频格式。FireFox想要.ogg格式的文件，而Webkit浏览器则需要.mp3格式的。和往常一样，IE是不支持的，且Opera 10及以下版本只支持.wav格式。
+当使用`<audio>`元素时请记得包含两种音频格式。FireFox想要.ogg格式的文件，而Webkit浏览器则需要.mp3格式的。和往常一样，IE是不支持的，且Opera 10及以下版本只支持.wav格式。
 
 ## 12.Video 支持 (Video Support)
 
-HTML5中不仅有<audio>元素，而且还有video。然而，和<audio>类似，HTML5中并没有指定视频解码器，它留给了浏览器来决定。虽然Safari和Internet Explorer9可以支持H.264格式的视频，Firefox和Opera是坚持开源Theora 和Vorbis格式。因此，指定HTML5的视频时，你必须提供这两种格式。
+HTML5中不仅有`<audio>`元素，而且还有`<video>`。然而，和`<audio>`类似，HTML5中并没有指定视频解码器，它留给了浏览器来决定。虽然Safari和Internet Explorer9可以支持H.264格式的视频，Firefox和Opera是坚持开源Theora 和Vorbis格式。因此，指定HTML5的视频时，你必须提供这两种格式。
 
 	<video controls preload>
-	<source src="cohagenPhoneCall.ogv" type="video/ogg; codecs='vorbis, theora'" />
-	<source src="cohagenPhoneCall.mp4" type="video/mp4; 'codecs='avc1.42E01E, mp4a.40.2'" />
-	<p> Your browser is old. Download this video instead. 
+		<source src="cohagenPhoneCall.ogv" type="video/ogg; codecs='vorbis, theora'" />
+		<source src="cohagenPhoneCall.mp4" type="video/mp4; 'codecs='avc1.42E01E, mp4a.40.2'" />
+		<p> Your browser is old. Download this video instead.
 	</video>
 
 ## 13.视频预载 (Preload attribute in Videos element)
@@ -187,15 +174,9 @@ HTML5中不仅有<audio>元素，而且还有video。然而，和<audio>类似�
 在HTML4或XHTML中，你需要用一些正规表达式来验证特定的文本。而HTML5中新的pattern属性让我们能够在标签处直接插入一个正规表达式。
 
 	<form action="" method="post">
-	<label for="username">Create a Username: </label>
-	<input type="text"
-	name="username"
-	id="username"
-	placeholder="4 <> 10"
-	pattern="[A-Za-z]{4,10}"
-	autofocus
-	required>
-	<button type="submit">Go </button>
+		<label for="username">Create a Username: </label>
+		<input type="text" name="username" id="username" placeholder="4 <> 10" pattern="[A-Za-z]{4,10}" autofocus required />
+		<button type="submit">Go </button>
 	</form>
 
 ## 结论：

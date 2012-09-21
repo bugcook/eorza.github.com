@@ -122,6 +122,6 @@ window maker，after step，blackbox，fvwm，fvwm2，等等都是常用的优�
 
 七.linux图形界面层次关系总结
 
-linux本身-->X服务器<-[通过X协议交谈]->窗口管理器(综合桌面环境)-->X应用程序。
+linux本身-->X服务器<-通过X协议交谈->窗口管理器(综合桌面环境)-->X应用程序。
 
 

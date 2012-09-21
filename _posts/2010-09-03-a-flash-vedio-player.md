@@ -26,21 +26,14 @@ more_tags:
 
 试用了一下，又发现一个比较烦人的毛病，就是它总是把你的视频给变成16：9比例的，正好有源代码，我看了看f4文件夹下面的player.as文件，发现一段代码，大概在150行左右。
 
-//  if(Width > int(Height * 1.7777)){ // 1.3333 => 4/3 || 1.7777 => 16/9 format
+	//if(Width > int(Height * 1.7777)){ // 1.3333 => 4/3 || 1.7777 => 16/9 format
+		//player.screen.width = int(Height * 1.7777);
+		player.screen.height = Height;
+	//} else {
+		player.screen.width = Width;
+		//player.screen.height = int(Width * .5625); // .75 => 4/3 || .5625 => 16/9 format
+	//}
 
-//    player.screen.width = int(Height * 1.7777);
-
-player.screen.height = Height;
-
-//  } else {
-
-player.screen.width = Width;
-
-//     player.screen.height = int(Width * .5625); // .75 => 4/3 || .5625 => 16/9 format
-
-//  }
-
-</pre>
 
 源文件里面是没注释的，这里倍我注释了几行，兄弟你懂得。
 
@@ -51,21 +44,21 @@ player.screen.width = Width;
 	<div id='player' align='center'></div>
 	<p><script type="text/javascript" src="http://dobila.info/wp-content/themes/twentyten/dbl_src/mootools.txt"></script><br />
 	<script type="text/javascript">
-	var player = new Swiff('http://dobila.info/wp-content/themes/twentyten/dbl_src/f4player.swf', {
-	id: 'f4player',
-	width: 480,
-	height: 360,
-	params: {
-	wmode: 'window',
-	allowFullScreen: 'true'
-	},
-	vars: {
-	skin: 'http://dobila.info/wp-content/themes/twentyten/dbl_src/f4dark.swf',
-	screenshot: 'http://dobila.info/wp-content/uploads/2010/09/x4end.jpg',
-	flv: 'http://dobila.info/wp-content/uploads/2010/09/x4end.mp4'
-	}
-	});
-	player.inject('player');
+		var player = new Swiff('http://dobila.info/wp-content/themes/twentyten/dbl_src/f4player.swf', {
+			id: 'f4player',
+			width: 480,
+			height: 360,
+			params: {
+				wmode: 'window',
+				allowFullScreen: 'true'
+			},
+			vars: {
+				skin: 'http://dobila.info/wp-content/themes/twentyten/dbl_src/f4dark.swf',
+				screenshot: 'http://dobila.info/wp-content/uploads/2010/09/x4end.jpg',
+				flv: 'http://dobila.info/wp-content/uploads/2010/09/x4end.mp4'
+			}
+		});
+		player.inject('player');
 	</script>
 
 这里解释一下，第二行是加载了一个js框架，mootools，其实不用js也行，写一段ie和其他浏览器通用的代码就行，因为太懒了就懒的写了。还有就是如果插入多个视频的话，别忘了只留一个mootools。

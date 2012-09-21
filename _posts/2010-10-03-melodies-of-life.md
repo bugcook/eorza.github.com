@@ -25,7 +25,7 @@ more_tags:
 	Your browser does not support the video tag.
 </video>
 
-<p>很好听的一首歌，承载了年少时期的很多记忆。不过好像没有玩过9的。嘿嘿。
+很好听的一首歌，承载了年少时期的很多记忆。不过好像没有玩过9的。嘿嘿。
 
 <video width="480" height="360" controls="controls">
 	<source src="{{ site.path.uploads }}2010/10/03/melodies-of-life/ffx.webm" type="video/webm" />
@@ -33,5 +33,5 @@ more_tags:
 	Your browser does not support the video tag.
 </video>
 
-<p>最喜欢的就是Tidus走的那一瞬间。
+最喜欢的就是Tidus走的那一瞬间。
 

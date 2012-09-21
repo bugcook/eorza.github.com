@@ -34,9 +34,9 @@ more_tags:
 
 在ubuntu下找到/etc/mysql/my.cnf文件，做如下修改：
 
-> 找到客户端配置[client] 在下面添加
+> 找到客户端配置`[client]` 在下面添加
 > default-character-set=utf8 默认字符集为utf8
-> 在找到[mysqld] 添加
+> 在找到`[mysqld]` 添加
 > default-character-set=utf8 默认字符集为utf8
 > init_connect='SET NAMES utf8' （设定连接mysql数据库时使用utf8编码，以让mysql数据库为utf8运行）
 

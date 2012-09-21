@@ -41,7 +41,7 @@ more_tags:
 
 让浏览器再次以新的URI发出请求(R=301或者R=302，临时的或是永久的重定向)如：一个网站有正规的URL和别名URL，对别名URL进行重定向到正规URL，或者网站改换成了新的域名则把旧的域名重定向到新的域名(Redirect)
 
-2) 也可能是由Apache内部子请求代理产生新的内容送回给客户[P,L]
+2) 也可能是由Apache内部子请求代理产生新的内容送回给客户`[P,L]`
 
 这是Apache内部根据重写后的URI内部通过代理模块请求内容并送回内容给客户，而客户端浏览器并不知道，浏览器中的URI不会被重写。但实际内容被Apache根据重写规则后的URI得到。如：在公司防火墙上运行的Apache启动这种代理重写规则，代理对内部网段上的WEB服务器的请求。
 
@@ -133,7 +133,7 @@ NameVirtualhost 1.2.3.4
 	proxyrequest on
 	rewriterule ^/(.*)$ http://192.168.1.3/$1 [P,L]
 
-注：当外部浏览器请求www.domain.com时被解析到IP地址1.2.3.4 ,Apache 交出mod_rewrite处理转换成http://192.168.1.3/$1后再交由代理模块mod_proxy得到内容后传送回用户的浏览器。
+注：当外部浏览器请求 www.domain.com 时被解析到IP地址1.2.3.4 ,Apache 交出mod_rewrite处理转换成 http://192.168.1.3/$1 后再交由代理模块mod_proxy得到内容后传送回用户的浏览器。
 
 4) 基本预先设定的转换MAP表进行重写 rewritemap
 
