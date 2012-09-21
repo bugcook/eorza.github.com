@@ -284,3 +284,9 @@ a:hover {
 	vertical-align: super;
 	font-size: 0.8em;
 }
+
+/* =Comment
+-------------------------------------------------------------- */
+#comments {
+	padding: 20px;
+}
