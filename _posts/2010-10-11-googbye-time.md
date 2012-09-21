@@ -32,7 +32,9 @@ more_tags:
 
 有很多次，委屈的她刚流过眼泪，喝完粥，听见他来楼下接她，就微笑着说，我原谅他了。我走了。
 
-<img class="aligncenter size-medium wp-image-735" title="得之我幸，失之我命" src="http://dobila.info/wp-content/uploads/2010/10/top-450x300.jpg" alt="" width="450" height="300" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/top.jpg" alt="得之我幸，失之我命" />
+</figure>
 
 她就那样轻轻地原谅了他，恍若什么事情也不曾发生过。留下我们愤愤，她却一如既往。
 
@@ -64,7 +66,9 @@ more_tags:
 
 是他静静地说的那句：我不会在一开始，就莫名其妙地对一个女人好。
 
-<img class="aligncenter size-medium wp-image-736" title="我拿流年，乱了浮生" src="http://dobila.info/wp-content/uploads/2010/10/middle-450x300.jpg" alt="" width="450" height="300" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/middle.jpg" alt="我拿流年，乱了浮生" />
+</figure>
 
 其实我们早该明白，这年头，在谈恋爱这件事面前，谁都不是善男信女。
 
@@ -152,7 +156,9 @@ more_tags:
 
 选老婆，选老公，不是选PSP，好看立马拎回家，结果发现摔不得划不得吼不得，最后觉得不好玩了马上换一个，型号过时了再买一个。
 
-<img class="aligncenter size-medium wp-image-737" title="再见时光" src="http://dobila.info/wp-content/uploads/2010/10/bottom-450x299.jpg" alt="" width="450" height="299" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/bottom.jpg" alt="再见时光" />
+</figure>
 
 过日子的那个人是冰箱，宁可逛得久一点，要选经久耐用几十年不坏的那一个。
 

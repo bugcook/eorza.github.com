@@ -24,7 +24,12 @@ more_tags:
 
 <span style="color: #99cc00;">我们去淮南八公山玩的，回来之后，我就玩了仙剑奇侠传4，后来才明白，原来八公山这么有名啊，原来“风声鹤唳，草木皆兵”就是说的这里啊。</span>
 
-<img class="aligncenter size-medium wp-image-415" title="很有感觉吧" src="http://dobila.info/wp-content/uploads/2010/08/feel-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/08/bagong-moutain-of-huainan/feel.jpg" alt="很有感觉吧" />
+	<figcaption>
+		应该是下午的时候，快傍晚了，太有感觉了。
+	</figcaption>
+</figure>
 
 应该是下午的时候，快傍晚了，太有感觉了。
 

@@ -24,11 +24,15 @@ more_tags:
 
 <span style="color: #993300;">几米的照相本子,很喜欢,似乎那些许久以前的回忆全被他拿出来暴晒在阳光里,有时候真觉的他好残忍:曾经我真的以为我把他们全忘了</span>
 
-<img class="aligncenter size-full wp-image-82" title="z01" src="http://dobila.info/wp-content/uploads/2008/03/z01.jpg" alt="" width="280" height="281" />
+<figure>
+	<img src="{{ site.path.uploads }}2007/03/19/the-photo-book/z01.jpg" alt="z01" />
+</figure>
 
 第一次看到大雪飞，兴奋的叫笑。眼镜被呼出的热气弄得什么也看不清。蹒跚的走过泾滑的雪地，坚持照相留念。青春得意的神情，被御寒的衣物包裹着什么也看不情楚。我在大雪里什么也看不情楚，却觉得好美。
 
-<img class="aligncenter size-full wp-image-95" title="z02" src="http://dobila.info/wp-content/uploads/2008/03/z02.jpg" alt="" width="254" height="258" />
+<figure>
+	<img src="{{ site.path.uploads }}2007/03/19/the-photo-book/z02.jpg" alt="z02" />
+</figure>
 
 天几乎要暗了。还残留最后一点夕阳的余光，那场球赛　我们一败涂地。大家垂头丧气默默的离开。我们还是举出胜利的手势吧。多年以后，谁会记住这个令人丧志的黄昏呢？他们将会看见，我们如阳光般灿烂的笑容。
 

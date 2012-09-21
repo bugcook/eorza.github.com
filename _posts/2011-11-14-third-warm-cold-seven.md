@@ -24,43 +24,81 @@ more_tags:
 
 这个秋天，好像跟上一个秋天不一样，或者说我已经忘记上一个秋天是怎么样，每一个秋天对我来说都是全新的，好让我重新去感受。早晚冷得裹上大衣，任冷风从我双肩掠过；当午间的阳光落下，洒落我窗台一帘温暖。如果让我在这个季节遇见你，是不是注定有着寂寞又美好的结局......
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/110-150x150.jpg" class="attachment-thumbnail" alt="1" title="1">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/110.jpg" alt="1" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/26-150x150.jpg" class="attachment-thumbnail" alt="2" title="2">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/26.jpg" alt="2" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/31-150x150.jpg" class="attachment-thumbnail" alt="3" title="3">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/31.jpg" alt="3" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/41-150x150.jpg" class="attachment-thumbnail" alt="4" title="4">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/41.jpg" alt="4" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/51-150x150.jpg" class="attachment-thumbnail" alt="5" title="5">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/51.jpg" alt="5" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/61-150x150.jpg" class="attachment-thumbnail" alt="6" title="6">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/61.jpg" alt="6" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/71-150x150.jpg" class="attachment-thumbnail" alt="7" title="7">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/71.jpg" alt="7" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/81-150x150.jpg" class="attachment-thumbnail" alt="8" title="8">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/81.jpg" alt="8" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/91-150x150.jpg" class="attachment-thumbnail" alt="9" title="9">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/91.jpg" alt="9" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/101-150x150.jpg" class="attachment-thumbnail" alt="10" title="10">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/101.jpg" alt="10" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/111-150x150.jpg" class="attachment-thumbnail" alt="11" title="11">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/111.jpg" alt="11" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/121-150x150.jpg" class="attachment-thumbnail" alt="12" title="12">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/121.jpg" alt="12" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/131-150x150.jpg" class="attachment-thumbnail" alt="13" title="13">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/131.jpg" alt="13" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/141-150x150.jpg" class="attachment-thumbnail" alt="14" title="14">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/141.jpg" alt="14" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/151-150x150.jpg" class="attachment-thumbnail" alt="15" title="15">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/151.jpg" alt="15" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/161-150x150.jpg" class="attachment-thumbnail" alt="16" title="16">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/161.jpg" alt="16" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/171-150x150.jpg" class="attachment-thumbnail" alt="17" title="17">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/171.jpg" alt="17" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/181-150x150.jpg" class="attachment-thumbnail" alt="18" title="18">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/181.jpg" alt="18" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2011/11/191-150x150.jpg" class="attachment-thumbnail" alt="19" title="19">
+<figure>
+	<img src="{{ site.path.uploads }}2011/11/14/third-warm-cold-seven/191.jpg" alt="19" />
+</figure>
 
 
 

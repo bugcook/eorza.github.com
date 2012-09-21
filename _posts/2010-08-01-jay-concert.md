@@ -21,24 +21,49 @@ more_tags:
 
 晚上跟朋友一起看了周杰伦的演唱会，场面挺火爆的，诺大的一个足球场几乎爆满。
 
-<img class="aligncenter size-medium wp-image-402" title="演唱会门口" src="http://dobila.info/wp-content/uploads/2010/08/door-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/01/jay-concert/door.jpg" alt="演唱会门口" />
+	<figcaption>
+		这个是门口吧。这个时候已经人不多了。
+	</figcaption>
+</figure>
 
 这个是门口吧，我们拿着从小黄那拿的票很激动的冲了进去。
 
 
-<img class="aligncenter size-medium wp-image-403" title="内场" src="http://dobila.info/wp-content/uploads/2010/08/inside1-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/01/jay-concert/inside1.jpg" alt="内场" />
+	<figcaption>
+		这是在内场，因为没有钱，就只好买了，看着有我小指头大小的jay，我同样也是一阵激动。
+	</figcaption>
+</figure>
 
 这是在内场，因为没有钱，就只好买了，看着有我小指头大小的jay，我同样也是一阵激动。
 
-<img class="aligncenter size-medium wp-image-404" title="灯光" src="http://dobila.info/wp-content/uploads/2010/08/light-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/01/jay-concert/light.jpg" alt="灯光" />
+	<figcaption>
+		灯光很耀眼。
+	</figcaption>
+</figure>
 
 灯光很耀眼，好像在唱简单爱。
 
-<img class="aligncenter size-medium wp-image-405" title="我啊" src="http://dobila.info/wp-content/uploads/2010/08/iam-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/01/jay-concert/iam.jpg" alt="我啊" />
+	<figcaption>
+		没有别的，代表真的去看了。
+	</figcaption>
+</figure>
 
 没有别的，我留了一张纪念，当老的时候来看看。
 
-<img class="aligncenter size-medium wp-image-406" title="离开" src="http://dobila.info/wp-content/uploads/2010/08/after-450x337.jpg" alt="" width="450" height="337" />
+<figure>
+	<img src="{{ site.path.uploads }}2010/08/01/jay-concert/after.jpg" alt="离开" />
+	<figcaption>
+		结束了，大家都走了。
+	</figcaption>
+</figure>
 
 散场了，我还沉浸在体育场内巨大的合唱声中。
 

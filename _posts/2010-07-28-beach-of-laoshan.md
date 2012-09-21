@@ -21,12 +21,29 @@ more_tags:
 
 第一次去海边玩，虽然来青岛好长时间了，总感觉一个人不想出去，或许是太懒了吧。
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/07/beach-150x150.jpg" class="attachment-thumbnail" alt="beach" title="beach">
+<figure>
+	<img src="{{ site.path.uploads }}2010/07/28/beach-of-laoshan/beach.jpg" alt="beach" />
+	<figcaption>
+		沙滩，人挺少的，我就乐呵呵的跑到海里，忽然我就发现为什么人少了，因为谁太凉了。
+	</figcaption>
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/07/hotel1-150x150.jpg" class="attachment-thumbnail" alt="hotel1" title="hotel1">
+<figure>
+	<img src="{{ site.path.uploads }}2010/07/28/beach-of-laoshan/hotel1.jpg" alt="hotel1" />
+	<figcaption>
+		如果你使劲往前看，再往前看好几公里，你就会发现我住的宾馆。
+	</figcaption>
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/07/pipi-150x150.jpg" class="attachment-thumbnail" alt="pipi" title="pipi">
+<figure>
+	<img src="{{ site.path.uploads }}2010/07/28/beach-of-laoshan/pipi.jpg" alt="pipi" />
+	<figcaption>
+		我同事的屁股太淫荡了，我不想说什么了。
+	</figcaption>
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/07/howto-150x150.jpg" class="attachment-thumbnail" alt="howto" title="howto">
+<figure>
+	<img src="{{ site.path.uploads }}2010/07/28/beach-of-laoshan/howto.jpg" alt="howto" />
+</figure>
 
 

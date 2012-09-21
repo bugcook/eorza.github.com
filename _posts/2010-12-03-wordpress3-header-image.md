@@ -25,60 +25,116 @@ more_tags:
 
 闲话不多说，直接上图，大家可以下载之。
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/agirl-150x150.jpg" class="attachment-thumbnail" alt="agirl" title="agirl">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/agirl.jpg" alt="agirl" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/bad-150x150.jpg" class="attachment-thumbnail" alt="bad" title="bad">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/bad.jpg" alt="bad" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/blackeye-150x150.jpg" class="attachment-thumbnail" alt="blackeye" title="blackeye">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/blackeye.jpg" alt="blackeye" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/chair1-150x150.jpg" class="attachment-thumbnail" alt="chair" title="chair">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/chair1.jpg" alt="chair" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/couple-150x150.jpg" class="attachment-thumbnail" alt="couple" title="couple">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/couple.jpg" alt="couple" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/darksky-150x150.jpg" class="attachment-thumbnail" alt="darksky" title="darksky">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/darksky.jpg" alt="darksky" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/dawn1-150x150.jpg" class="attachment-thumbnail" alt="dawn1" title="dawn1">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/dawn1.jpg" alt="dawn1" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/fangzi-150x150.jpg" class="attachment-thumbnail" alt="fangzi" title="fangzi">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/fangzi.jpg" alt="fangzi" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/fengche-150x150.jpg" class="attachment-thumbnail" alt="fengche" title="fengche">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/fengche.jpg" alt="fengche" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/float-150x150.jpg" class="attachment-thumbnail" alt="float" title="float">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/float.jpg" alt="float" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/flowers1-150x150.jpg" class="attachment-thumbnail" alt="flowers1" title="flowers1">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/flowers1.jpg" alt="flowers1" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/gray-150x150.jpg" class="attachment-thumbnail" alt="gray" title="gray">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/gray.jpg" alt="gray" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/green1-150x150.jpg" class="attachment-thumbnail" alt="green" title="green">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/green1.jpg" alt="green" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/kidsky-150x150.jpg" class="attachment-thumbnail" alt="kidsky" title="kidsky">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/kidsky.jpg" alt="kidsky" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/line1-150x150.jpg" class="attachment-thumbnail" alt="line1" title="line1">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/line1.jpg" alt="line1" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/oneperson-150x150.jpg" class="attachment-thumbnail" alt="oneperson" title="oneperson">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/oneperson.jpg" alt="oneperson" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/seadawn-150x150.jpg" class="attachment-thumbnail" alt="seadawn" title="seadawn">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/seadawn.jpg" alt="seadawn" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/sky-150x150.jpg" class="attachment-thumbnail" alt="sky" title="sky">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/sky.jpg" alt="sky" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/sky2-150x150.jpg" class="attachment-thumbnail" alt="sky2" title="sky2">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/sky2.jpg" alt="sky2" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/sunshine-150x150.jpg" class="attachment-thumbnail" alt="sunshine" title="sunshine">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/sunshine.jpg" alt="sunshine" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/tree1-150x150.jpg" class="attachment-thumbnail" alt="tree" title="tree">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/tree1.jpg" alt="tree" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/two-150x150.jpg" class="attachment-thumbnail" alt="two" title="two">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/two.jpg" alt="two" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/umb-150x150.jpg" class="attachment-thumbnail" alt="umb" title="umb">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/umb.jpg" alt="umb" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/umbrella1-150x150.jpg" class="attachment-thumbnail" alt="umbrella" title="umbrella">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/umbrella1.jpg" alt="umbrella" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/umbrella2-150x150.jpg" class="attachment-thumbnail" alt="umbrella2" title="umbrella2">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/umbrella2.jpg" alt="umbrella2" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/umbrella3-150x150.jpg" class="attachment-thumbnail" alt="umbrella3" title="umbrella3">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/umbrella3.jpg" alt="umbrella3" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/umbrella4-150x150.jpg" class="attachment-thumbnail" alt="umbrella4" title="umbrella4">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/umbrella4.jpg" alt="umbrella4" />
+</figure>
 
-<img width="150" height="150" src="http://dobila.info/wp-content/uploads/2010/12/walkdown-150x150.jpg" class="attachment-thumbnail" alt="walkdown" title="walkdown">
+<figure>
+	<img src="{{ site.path.uploads }}2010/12/03/wordpress3-header-image/walkdown.jpg" alt="walkdown" />
+</figure>
 
 
