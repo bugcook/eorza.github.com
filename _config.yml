@@ -1,5 +1,6 @@
 safe: false
 permalink: none
+markdown: kramdown
 
 # The following is custom defined by hass
 path:

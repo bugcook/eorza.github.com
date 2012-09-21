@@ -4,60 +4,13 @@ Author URI: http://dobila.info
 Description: Basicly this is my first css.
 */
 
-/* =Reset. From: http://meyerweb.com/eric/tools/css/reset/
--------------------------------------------------------------- */
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-
 /* =Basic structure
 -------------------------------------------------------------- */
 body {
 	background: #EEE url('../images/top-bg.png') repeat-x;
 	font-size: 14px;
 	font-family: helvetica, arial, clean, sans-serif;
-	color: #333;
+	margin: 0;
 }
 
 .site-header,
@@ -82,7 +35,7 @@ body {
 -------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6 {
 	font-weight: bold;
-	color: #333;
+	color: #222;
 }
 a {
 	color: #08C;
@@ -102,6 +55,9 @@ a:hover {
 .site-header a:hover {
 	text-decoration: none;
 }
+.site-header h1 {
+	margin: 0;
+}
 .site-header h1 a {
 	display: block;
 	padding: 0 20px;
@@ -117,6 +73,10 @@ a:hover {
 }
 .site-header nav {
 	float: left;
+}
+.site-header nav ul {
+	margin: 0;
+	list-style: none;
 }
 .site-header nav li {
 	float: left;
@@ -139,21 +99,18 @@ a:hover {
 .page-header {
 	background: whiteSmoke;
 	border-bottom: 1px solid #EEE;
-	height: 58px;
-	padding-left: 20px;
+	padding: 20px 0 15px 20px;
 }
 
 .page-header h1 {
-	float: left;
+	display: inline-block;
 	font-size: 30px;
-	line-height: 62px;
-	padding-bottom: 10px;
+	margin: 0;
 }
 .page-header h2 {
-	float: left;
+	display: inline-block;
 	font-size: 18px;
 	font-weight: normal;
-	line-height: 66px;
 	margin-left: 30px;
 	color: #BFBFBF;
 }
@@ -163,26 +120,7 @@ a:hover {
 	padding: 0 20px;
 }
 
-.page-content > p,
-.page-content > ul,
-.page-content > pre,
-.page-content > blockquote,
-.page-content > hgroup,
-.page-content > figure,
-.page-content > video,
-.page-content > audio,
-.page-content > h1,
-.page-content > h2,
-.page-content > h3,
-.page-content > h4,
-.page-content > h5,
-.page-content > h6 {
-	margin: 20px 0;
-}
-
-
 .page-content h2 {
-	font-size: 24px;
 	border-bottom: 1px solid #ddd;
 	padding-bottom: 10px;
 	margin-top: 40px;
@@ -204,21 +142,18 @@ a:hover {
 .page-content p,
 .page-content li,
 .page-content figcaption {
-	line-height: 22px;
+	line-height: 26px;
+	color: #333;
 }
 
 .page-content video {
 	display: block;
 	max-width: 480px;
-	margin: 20px auto;
 }
 .page-content audio {
 	display: block;
 }
-.page-content ul {
-	list-style: disc inside;
-	margin-left: 10px;
-}
+
 .page-content ul li {
 	color: gray;
 }
@@ -266,6 +201,9 @@ a:hover {
 -------------------------------------------------------------- */
 .tag-box {
 	overflow: hidden;
+}
+.tag-box {
+	padding: 0;
 }
 .tag-box li {
 	float: left;
