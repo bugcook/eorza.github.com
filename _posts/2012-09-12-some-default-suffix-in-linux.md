@@ -52,61 +52,61 @@ Linux下文件的类型是不依赖于其后缀名的，但一般来讲：
 
 以.a为扩展名的文件:
 
-	#tar xv file.a
+	# tar xv file.a
 
 以.z为扩展名的文件:
 
-	#uncompress file.Z
+	# uncompress file.Z
 
 以.gz为扩展名的文件:
 
-	#gunzip file.gz
+	# gunzip file.gz
 
 以.bz2为扩展名的文件:
 
-	#bunzip2 file.bz2
+	# bunzip2 file.bz2
 
 以.tar.Z为扩展名的文件:
 
-	#tar xvZf file.tar.Z
-	#compress -dc file.tar.Z | tar xvf -
+	# tar xvZf file.tar.Z
+	# compress -dc file.tar.Z | tar xvf -
 
 以.tar.gz/.tgz为扩展名的文件:
 
-	#tar xvzf file.tar.gz
-	#gzip -dc file.tar.gz | tar xvf -
+	# tar xvzf file.tar.gz
+	# gzip -dc file.tar.gz | tar xvf -
 
 以.tar.bz2为扩展名的文件:
 
-	#tar xvIf file.tar.bz2
-	#bzip2 -dc file.tar.bz2 | xvf -
+	# tar xvIf file.tar.bz2
+	# bzip2 -dc file.tar.bz2 | xvf -
 
 以.cpio.gz/.cgz为扩展名的文件:
 
-	#gzip -dc file.cgz | cpio -div
+	# gzip -dc file.cgz | cpio -div
 
 以.cpio/cpio为扩展名的文件:
 
-	#cpio -div file.cpio
-	#cpio -divc file.cpio
+	# cpio -div file.cpio
+	# cpio -divc file.cpio
 
 以.rpm为扩展名的文件安装:
 
-	#rpm -i file.rpm
+	# rpm -i file.rpm
 
 以.rpm为扩展名的文件解压缩：
 
-	#rpm2cpio file.rpm | cpio -div
+	# rpm2cpio file.rpm | cpio -div
 
 以.deb为扩展名的文件安装：
 
-	#dpkg -i file.deb
+	# dpkg -i file.deb
 
 以.deb为扩展名的文件解压缩:
 
-	#dpkg-deb --fsys-tarfile file.deb | tar xvf - ar p
-	file.deb data.tar.gz | tar xvzf -
+	# dpkg-deb --fsys-tarfile file.deb | tar xvf - ar p
+	# file.deb data.tar.gz | tar xvzf -
 
 以.zip为扩展名的文件:
 
-	#unzip file.zip
+	# unzip file.zip

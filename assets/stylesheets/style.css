@@ -4,20 +4,29 @@ Author URI: http://dobila.info
 Description: Basicly this is my first css.
 */
 
+/* =Reset
+-------------------------------------------------------------- */
+blockquote {
+    margin: 1em 0;
+}
+ul {
+    padding: 1em;
+    list-style-position:inside;
+}
+
 /* =Basic structure
 -------------------------------------------------------------- */
 body {
 	background: #EEE url('../images/top-bg.png') repeat-x;
-	font-size: 14px;
-	font-family: helvetica, arial, clean, sans-serif;
+	font-size: 13px;
 	margin: 0;
 }
 
 .site-header,
 .site-wrapper,
 .site-footer {
-	max-width: 860px;
-	margin: auto;
+	max-width: 780px;
+	margin: 0 auto;
 }
 
 .site-wrapper {
@@ -33,10 +42,6 @@ body {
 
 /* =Common things
 -------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-	color: #222;
-}
 a {
 	color: #08C;
 	text-decoration: none;
@@ -45,8 +50,13 @@ a:hover {
 	color: #00438A;
 	text-decoration: underline;
 }
-
-
+pre,
+code {
+	font: 12px Consolas, Monaco, Andale Mono, Courier New, monospace;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
 /* =Header
 -------------------------------------------------------------- */
 .site-header {
@@ -55,37 +65,39 @@ a:hover {
 .site-header a:hover {
 	text-decoration: none;
 }
+/* h1 */
 .site-header h1 {
 	margin: 0;
+    float: left;
 }
 .site-header h1 a {
 	display: block;
 	padding: 0 20px;
 	color: #EFEFEF;
 	font-weight: bold;
-	float: left;
-	font-size: 20px;
 	line-height: 40px;
+    font-size: 22px;
 	text-transform: uppercase;
 }
 .site-header h1 a:hover {
 	background: rgba(255, 255, 255, 0.05)
 }
+/* nav */
 .site-header nav {
-	float: left;
+    float: left;
 }
 .site-header nav ul {
 	margin: 0;
+    padding: 0;
 	list-style: none;
 }
-.site-header nav li {
-	float: left;
+.site-header nav ul li {
+    float: left;
 }
 .site-header nav a {
 	display: block;
 	color: #AAA;
 	line-height: 40px;
-	font-size: 14px;
 	padding: 0 10px;
 }
 .site-header nav a:hover,
@@ -99,20 +111,11 @@ a:hover {
 .page-header {
 	background: whiteSmoke;
 	border-bottom: 1px solid #EEE;
-	padding: 20px 0 15px 20px;
+    padding: 1em 0 .7em 20px;
 }
-
 .page-header h1 {
-	display: inline-block;
-	font-size: 30px;
-	margin: 0;
-}
-.page-header h2 {
-	display: inline-block;
-	font-size: 18px;
-	font-weight: normal;
-	margin-left: 30px;
-	color: #BFBFBF;
+    font-size: 24px;
+    margin: 0;
 }
 
 /* layout */
@@ -127,22 +130,12 @@ a:hover {
 }
 .page-content h3 {
 	margin-top: 30px;
-	font-size: 18px;
-}
-.page-content h4 {
-	font-size: 16px;
-}
-.page-content h5 {
-	font-size: 14px;
-}
-.page-content h6 {
-	font-size: 13px;
 }
 
 .page-content p,
 .page-content li,
 .page-content figcaption {
-	line-height: 26px;
+	line-height: 22px;
 	color: #333;
 }
 
@@ -158,16 +151,12 @@ a:hover {
 	color: gray;
 }
 .page-content pre {
-	padding: 10px;
+	padding: .5em 1em;
 	background: whiteSmoke;
 	border: 1px solid #EEE;
 	line-height: 18px;
 	border-radius: 2px;
-	color: #777;
-}
-.page-content pre code {
-	font-family: Consolas, Monaco, Andale Mono, Courier New, monospace;
-	font-size: 12px;
+	color: #555;
 }
 
 .page-content blockquote {
