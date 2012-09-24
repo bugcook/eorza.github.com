@@ -1,6 +1,7 @@
 safe: false
 permalink: none
-markdown: kramdown
+# markdown: kramdown
+markdown: maruku
 
 # The following is custom defined by hass
 path:
