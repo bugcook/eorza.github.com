@@ -113,61 +113,6 @@ more_tags:
 
 <figure>
 	<img src="{{ site.path.uploads }}2010/08/31/pictures-to-cause-your-lewd-smile/yd16.jpg" alt="yd16" />
-	<figcaption>
-		[#Beginning of Shooting Data Section]
-Nikon D2Xs
-2010/02/23 15:44:09.00
-World Time:
-RAW (12-bit)
-Image Size: L (4288 x 2848)
-Color
-Lens: 28-70mm F/2.8D
-Artist:
-Copyright:
-Focal Length: 65mm
-Exposure Mode: Manual
-Metering: Spot
-Shutter Speed: 1/125s
-Aperture: F/6.3
-Exposure Comp.: 0EV
-Exposure Tuning:
-ISO Sensitivity: ISO 100
-Optimize Image:
-White Balance: Auto, 0
-Focus Mode: AF-C
-AF-Area Mode: Single
-AF Fine Tune:
-VR:
-Long Exposure NR: OFF
-High ISO NR: OFF
-Color Mode: Mode III (sRGB)
-Color Space: sRGB
-Tone Comp.: Auto
-Hue Adjustment: 0??
-Saturation: Normal
-Sharpening: Auto
-Active D-Lighting:
-Vignette Control:
-Picture Control:
-Base:
-Quick Adjust:
-Sharpening:
-Contrast:
-Brightness:
-Saturation:
-Hue:
-Filter Effects:
-Toning:
-Flash Mode:  
-Flash Exposure Comp.:  
-Flash Sync Mode:  
-Colored Gel Filter:
-Map Datum:
-Image Authentication: OFF
-Dust Removal:
-Image Comment:                                     
-[#End of Shooting Data Section] 
-	</figcaption>
 </figure>
 
 17、警察蹲点
