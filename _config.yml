@@ -1,8 +1,8 @@
 safe: false
 permalink: none
-# markdown: kramdown
+markdown: kramdown
 # markdown: rdiscount
-markdown: redcarpet
+# markdown: redcarpet
 
 # The following is custom defined by hass
 path:
