@@ -57,10 +57,14 @@ code {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+
+
 /* =Header
 -------------------------------------------------------------- */
 .site-header {
 	height: 40px;
+	overflow: hidden;
 }
 .site-header a:hover {
 	text-decoration: none;
@@ -82,9 +86,10 @@ h1, h2, h3, h4, h5, h6 {
 .site-header h1 a:hover {
 	background: rgba(255, 255, 255, 0.05)
 }
+
 /* nav */
 .site-header nav {
-    float: left;
+	position: relative;
 }
 .site-header nav ul {
 	margin: 0;
