@@ -11,7 +11,7 @@
 			<h1><a href="/">Dobila</a></h1>
 			<nav>
 				<ul>
-					{% assign node_list = site.pages %}
+					{% assign node_list = site.pages | sort %}
 					{% assign group = 'navigation' %}
 					{% include node_list %}
 				</ul>
