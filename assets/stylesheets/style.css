@@ -135,10 +135,6 @@ h1, h2, h3, h4, h5, h6 {
 .page-content h2 {
 	border-bottom: 1px solid #ddd;
 	padding-bottom: 10px;
-	margin-top: 40px;
-}
-.page-content h3 {
-	margin-top: 30px;
 }
 
 .page-content p,
@@ -185,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 .page-content figure figcaption {
 	color: #555;
 	margin-top: 15px;
-	background: #f3f3f3;
+	background: #fafafa;
 	text-align: left;
 	padding: 5px;
 }
@@ -194,6 +190,18 @@ h1, h2, h3, h4, h5, h6 {
 .page-footer {
 	padding: 0 20px 20px 20px;
 	color: #777;
+}
+.page-meta {
+	display: inline-block;
+}
+#comments-toggle {
+	float: right;
+	padding-right: 5px;
+	color: #999;
+	cursor: pointer;
+}
+#comments-toggle:hover {
+	color: #555;
 }
 
 /* =Page
