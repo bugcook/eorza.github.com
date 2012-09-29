@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 
 ---
 
 {% assign post = site.posts.first %}
@@ -28,8 +29,6 @@ layout: default
 		{% endfor %}
 
 		on date <a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a>
-		|
-		<a href="{{ post.url }}#comments">Leave a reply</a>
 	</footer>
 </article>
 

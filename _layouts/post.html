@@ -25,24 +25,10 @@ layout: default
 
 			on date <a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a>
 		</div>
-
-		<div id="comments-toggle">Comments →</div>
-		<script>
-			var button = document.getElementById('comments-toggle');
-
-			button.onclick = function() {
-				var div = document.getElementById('comments');
-				if (div.style.display !== 'none') {
-					div.style.display = 'none';
-				} else {
-					div.style.display = 'block';
-				}
-			};
-		</script>
 	</footer>
 </article>
 
-<div id="comments" style="display: none;">
+<div id="comments">
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
 		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
