@@ -3,16 +3,19 @@ layout: post
 title: 总有那么一个人
 slug: there-is-always-one-people-there
 date: 2011-05-16 08:29:19 +0800
+bgsound: 2011/05/16/there-is-always-one-people-there/give-up.mp3
 excerpt: 我只想找一个在我失意时，可以承受我的眼泪；在我快乐时，可以让我咬一口肩膊的，这么一个人。我希望我爱你的日子里，你都在爱我，也希望这样的日子永远都不要过去；我希望陪你去世界的尽头，时间的尽头。我要的其实并不多，一杯清水，一片面包，一句我爱你，一个避风港……
 categories:
 - love
 tags:
+- bgsound
 - photo
 - classic
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: photo
   name: 图片
 - slug: classic
@@ -27,7 +30,6 @@ more_tags:
 		有些人不能在一起，可他们的心在一起； 有些人表面上在一起，心却无法在一起；有些人从没想过要在一起，却自然而然地在一起；有些人千辛万苦地终于在一起了，却发现他们并不适合在一起。就算最后，我们没有在一起，至少爱，还是会在一起。爱在一起，就在一起！
 	</figcaption>
 </figure>
-
 
 我只想找一个在我失意时，可以承受我的眼泪；在我快乐时，可以让我咬一口肩膊的，这么一个人。我希望我爱你的日子里，你都在爱我，也希望这样的日子永远都不要过去；我希望陪你去世界的尽头，时间的尽头。我要的其实并不多，一杯清水，一片面包，一句我爱你，一个避风港……
 
@@ -209,7 +211,3 @@ more_tags:
 	</figcaption>
 </figure>
 
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/05/16/there-is-always-one-people-there/give-up.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>

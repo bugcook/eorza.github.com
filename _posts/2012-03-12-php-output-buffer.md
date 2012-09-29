@@ -34,14 +34,21 @@ more_tags:
 
 于是php就研究出了output buffer来解决这个问题。output buffer时php的一个选型，如果你有权限，你可以直接修改php.ini文件来开启这个东西，也可以在程序里面动态的控制。下面4个函数就时用来控制的。
 
-	ob_start()
-	启用output buffering机制。 Output buffering支持多层次 -- 例如，可以多次调用ob_start() 函数。
-	ob_end_flush()
-	发送output buffer（输出缓冲）并禁用output buffering机制。
-	ob_end_clean()
-	清除output buffer但不发送，并禁用output buffering。
-	ob_get_contents()
-	将当前的output buffer返回成一个字符串。允许你处理脚本发出的任何输出。
+> `ob_start()`
+>
+> 启用output buffering机制。 Output buffering支持多层次 -- 例如，可以多次调用ob_start() 函数。
+>
+> `ob_end_flush()`
+>
+> 发送output buffer（输出缓冲）并禁用output buffering机制。
+>
+> `ob_end_clean()`
+>
+> 清除output buffer但不发送，并禁用output buffering。
+>
+> `ob_get_contents()`
+>
+> 将当前的output buffer返回成一个字符串。允许你处理脚本发出的任何输出。
 
 然后举两个例子，因为如果没有例子，那么很少人呢会懂。
 
@@ -54,6 +61,7 @@ Example 1
 	SetCookie("Wow", "This cookie has been set even though we've already emitted output!");
 	?>
 
+
 这里，尽管你已发送了输出(HTML 代码块中和 print 语句中)，也可以使用 SetCookie() 调用，而不会出错，真的要感谢output buffering机制。请注意使用output buffering机制用于这种目的会引起一定程度上的性能损失，因此最好缺省情况下不要启用此机制。但是，对于复杂一些的脚本，output buffering可以简化逻辑性。
 
 Example 2
@@ -64,6 +72,7 @@ Example 2
 	$length = strlen(ob_get_buffer());
 	ob_end_clean();
 	?>
+
 
 这个例子显示了一个效率很低的确定字符串长度的方法。它不是简单的使用strlen()函数处理，而是先启用 output buffering 机制，将字符串打印出来,然后再确定output buffer的长度。最后清除output buffer。
 

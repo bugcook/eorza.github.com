@@ -3,10 +3,12 @@ layout: post
 title: 写点什么
 slug: write-something
 date: 2010-09-02 21:05:03 +0800
+bgsound: 2010/09/02/write-something/thh.mp3
 excerpt: 跟同学聊天，大家都很没有方向，不知道自己在做什么，都感觉没有目标，我也是，真的不知道自己喜欢做什么。我想花一年的时间，在青岛这个地方好好想清楚自己要做点什么，自己想做什么。现在已经过去三分之二的时间了，还是没想清楚，也或者是世界上根本没有人去做真正喜欢做的事情，也或者是只有很少人能去追逐自己的梦想，更或者是大部分人心中的理想就是赚钱升官。
 categories:
 - lost
 tags:
+- bgsound
 - sts
 - care
 - heart
@@ -16,6 +18,7 @@ more_categories:
 - slug: lost
   name: 往事追忆
 more_tags:
+- bgsound
 - slug: sts
   name: 史铁生
 - slug: care
@@ -36,17 +39,11 @@ more_tags:
 
 有天晚上，我从外面吃饭回来，路上我抬头看看了天空，竟然发现青岛晚上有很多星星，看来天气真的不错，或者是这里的空气真的很干净。记得小时候我经常能看到天上的星星，根据小学课本上的星座满天空的找，还有依稀记忆中外婆给我讲的一个一个的故事，在在门口外面，听着听着故事，我在外婆扇出的轻微凉风中睡着了。
 
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/09/02/write-something/thh.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
-
 有时候自己常常想一些人生哲学的问题，想着想着就崩溃了，看来我不是思想家，也不是哲学家，更不是看透生死的那一类人。突然想起史铁生写的我与地坛，里面说，看穿了死是一件无需乎着急去做的事，是一件无论怎样耽搁也不会错过的事，便决定活下去试试?是的，至少这是很关健的因素。为什么要活下去试试呢?好像仅仅是因为不甘心，机会难得。反正已经活了，就要活下去看看会活出个什么样子来。后来我又总结出一个结论来，有什么想不清楚的时候就不要去想，总会有一天你会清楚。
 
 突然想起去年来了，去年我在合肥生活了一年，具体是怎样过得我都忘记了，就只记得自己玩了一款国内单机rpg游戏，仙剑奇侠传，玩完了感动的我死去活来的。这念头能感动人的东西太少了，不知道天河是死了还是没死，不知道那个墓是谁的，一百年之后梦璃回来之后，紫英只说了一句话...你回来了，他们等你很久了。对了，他还说，无所谓好或不好，人生一场虚幻大梦，韶华白首，不过转瞬，唯有天道恒在。
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/09/02/write-something/x4end.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/09/02/write-something/x4end.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

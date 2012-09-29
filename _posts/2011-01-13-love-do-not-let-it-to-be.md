@@ -3,16 +3,19 @@ layout: post
 title: 爱情，不要顺其自然
 slug: love-do-not-let-it-to-be
 date: 2011-01-13 17:21:41 +0800
+bgsound: 2011/01/13/love-do-not-let-it-to-be/soft-kiss.mp3
 excerpt: 我们总是以为，我们会找到一个自己很爱很爱的人。 可是当我们回首，才发觉自己曾经多么天真。 假如从来没有开始，你怎么知道自己会不会很爱很爱那个人呢？
 categories:
 - love
 tags:
+- bgsound
 - jimi
 - truelove
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: jimi
   name: 几米
 - slug: truelove
@@ -128,11 +131,6 @@ more_tags:
 
 > 女人不要说，你没有遇到你想遇到的人，你想嫁的人，如果你的容貌身材姿色收入家庭条件出生没有发生改变的话，按照常理和规律，你就应该和现在的人在一起。
 > 男人不要说，等我有了钱，等我成功了，等我有了权，如果你的相貌身材收入家庭姿色没有发生根本转变的话按照常理和规律，你就应该和现在的人在一起。你现在能遇到的，能交往的，就是你可以找到的人。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/01/13/love-do-not-let-it-to-be/soft-kiss.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 ## 所以，你不要想以后怎样，以后是以后的事情。人生不过百年，幕起幕落而已。
 

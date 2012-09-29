@@ -8,6 +8,7 @@ categories:
 - lost
 - entry
 tags:
+- video
 - memory
 - photo
 more_categories:
@@ -16,6 +17,7 @@ more_categories:
 - slug: entry
   name: 日志
 more_tags:
+- video
 - slug: memory
   name: 回忆
 - slug: photo
@@ -27,7 +29,6 @@ more_tags:
 <figure>
 	<img src="{{ site.path.uploads }}2011/01/23/2011-the-end-of-january/incere.jpg" alt="incere" />
 </figure>
-
 
 先上个自己喜欢的图，好多人都会觉得，哇，这不非主流吗？我想说的是TMD的你能告诉我你们这些自称非主流的SB们，谁给你们用非主流这个三个字做自己的标称的，谁规定TMD一首蛮好听的歌都要标榜成非主流音乐，谁规定我觉得一很有感觉的图片就是非主流的图片。总结我老师说的话就是：## 做作。90后的那一小部分自称非主流的SB们，你们就是太做作了。
 
@@ -49,7 +50,7 @@ more_tags:
 
 下面分享一个视频，就是力克的，就是失去双手那个人，是我从youtube上下载下来的，因为懒惰和执着，所以没有字幕。
 
-<video width="480" height="272" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2011/01/23/2011-the-end-of-january/nick.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2011/01/23/2011-the-end-of-january/nick.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

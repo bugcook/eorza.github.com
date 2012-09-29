@@ -3,16 +3,19 @@ layout: post
 title: 如幻的月光
 slug: dreamin-moonlight
 date: 2010-10-21 13:58:34 +0800
+bgsound: 2010/10/21/dreamin-moonlight/songs-from-a-secret-garden.mp3
 excerpt: 初升的月亮把阴影拉长了，林间小径好像一条银灰色的蛇躺着睡觉，矮橡丛弯弯曲曲的阴影成了蛇身的纹彩。路旁一块斑驳的花岗岩刚经雨淋湿，光亮得如同抽打磨过的青铜块。松林矗立山顶，饱受风霜与岁月的侵凌。松枝迎风摇曳，像是在抚摸月亮的脸，想抹掉那遮掩清光的灰色皱纹。
 categories:
 - love
 tags:
+- bgsound
 - heart
 - bbarticle
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: heart
   name: 心情
 - slug: bbarticle
@@ -22,12 +25,6 @@ more_tags:
 不知哪里的一只猫头鹰在啼叫；蝙蝠掠过夜空；东方的许多小星星在闪烁着；山肩浮现淡淡的白光。每逢月圆之夜，我都不会安然就寝；吸引潮涨的力量也将我诱出户外，沐浴在那清凉而神秘的光辉之中。
 
 初升的月亮把阴影拉长了，林间小径好像一条银灰色的蛇躺着睡觉，矮橡丛弯弯曲曲的阴影成了蛇身的纹彩。路旁一块斑驳的花岗岩刚经雨淋湿，光亮得如同抽打磨过的青铜块。松林矗立山顶，饱受风霜与岁月的侵凌。松枝迎风摇曳，像是在抚摸月亮的脸，想抹掉那遮掩清光的灰色皱纹。
-
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/10/21/dreamin-moonlight/songs-from-a-secret-garden.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 有人说隔树望月会带来不幸。我却认为，从没有在每根细枝都悬挂着钻石坠子般露珠的桦树秃枝，或正在抽芽的柔嫩柳条之间看过月华，才真的不幸。
 
@@ -46,5 +43,4 @@ more_tags:
 当秋风扫落了树叶，又急送浮云掠过天空之后，月亮便似乎在苍穹飞驰，闪烁的月光把神秘而又变幻莫测的大地照得乍隐乍现。这时，应该赶快找地方投宿了，因为古老的幽灵总在不远处，在忽明忽暗的夜色中更加如鱼得水。附近忽然响起嗦嗦声，心跳随即加剧，不过，恐惧却带着兴奋的心情和生之喜悦。
 
 每次浏览月下景色，都会平添一番记忆。也许，月亮最大魔力的明证，就是这些记忆隔了许多年仍不会淡忘。它们虽非松柏长青，但颇像纯银或纯金那样持久。
-
 

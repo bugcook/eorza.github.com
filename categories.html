@@ -4,16 +4,24 @@ title: Categories
 ---
 
 <ul class="tag-box">
-	{% assign category_list = site.categories %}
-	{% include category_list %}
+{% for category in site.categories %}
+	<li>
+		<a href="{{ site.path.category }}#{{ category[0] }}-ref">
+			{{ category[0] }} <span>{{ category[1].size }}</span>
+		</a>
+	</li>
+{% endfor %}
 </ul>
 
 
 {% for category in site.categories %}
 <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
 <ul>
-	{% assign node_list = category[1] %}
-	{% include node_list %}
+{% for node in category[1] %}
+	{% if node.title != null %}
+		<li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+	{% endif %}
+{% endfor %}
 </ul>
 {% endfor %}
 

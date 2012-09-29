@@ -3,26 +3,25 @@ layout: post
 title: 我与地坛
 slug: i-and-the-temple-of-earth
 date: 2010-07-20 19:18:20 +0800
+bgsound: 2010/07/20/i-and-the-temple-of-earth/Bandari-Star-Of-Baghdad.mp3
 excerpt: 要是有些事我没说，地坛，你别以为是我忘了，我什么也没忘，但是有些事只适合收藏。不能说，也不能想，却又不能忘。它们不能变成语言，它们无法变成语言，一旦变成语言就不再是它们了。它们是一片朦胧的温馨与寂寥，是一片成熟的希望与绝望，它们的领地只有两处：心与坟墓。比如说邮票，有些是用于寄信的，有些仅仅是为了收藏。
 categories:
 - love
 tags:
+- bgsound
 - sts
 - classic
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: sts
   name: 史铁生
 - slug: classic
   name: 经典
 ---
 
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/07/20/i-and-the-temple-of-earth/Bandari-Star-Of-Baghdad.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 一
 
 我在好几篇小说中都提到过一座废弃的古园，实际就是地坛。许多年前旅游业还没有开展，园子荒芜冷落得如同一片野地，很少被人记起。

@@ -3,10 +3,12 @@ layout: post
 title: California Dreamin
 slug: california-dreamin
 date: 2010-08-23 09:58:02 +0800
+bgsound: 2010/08/23/california-dreamin/California-Dreamin.mp3
 excerpt: 跟朋友去买手机，在一个小店了听到这首歌，感觉特别的熟悉，回家后到网上查了一下，才发现，原来我两部最喜欢的电影都是以它作为插曲的。《阿甘正传》，《重庆森林》。
 categories:
 - lost
 tags:
+- bgsound
 - heart
 - song
 - bad
@@ -14,6 +16,7 @@ more_categories:
 - slug: lost
   name: 往事追忆
 more_tags:
+- bgsound
 - slug: heart
   name: 心情
 - slug: song
@@ -21,11 +24,6 @@ more_tags:
 - slug: bad
   name: 难过
 ---
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/08/23/california-dreamin/California-Dreamin.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 跟朋友去买手机，在一个小店了听到这首歌，感觉特别的熟悉，回家后到网上查了一下，才发现，原来我两部最喜欢的电影都是以它作为插曲的。《阿甘正传》，《重庆森林》。
 

@@ -10,7 +10,8 @@
 	{% for tag in tag_list %}
 		<li>
 			<a href="{{ site.path.tags }}#{{ tag[0] }}-ref">
-				{{ tag[0] }} <span>{{ tag[1].size }}</span></a>
+				{{ tag[0] }} <span>{{ tag[1].size }}</span>
+			</a>
 		</li>
 	{% endfor %}
 {% endif %}

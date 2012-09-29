@@ -3,15 +3,18 @@ layout: post
 title: vim7.3任意字体
 slug: vim-73-any-fonts
 date: 2011-05-27 15:14:25 +0800
+bgsound: 2011/05/27/vim-73-any-fonts/noname.mp3
 excerpt: 这里提供的vim不光是任意字体，而且还取消了windows窗口的阴影边框（有的人叫3D边框），个人觉得那个边框好厚重一个，不美观，所以就去掉了，然后加了可以支持任意字体的东西。
 categories:
 - note
 tags:
+- bgsound
 - vim
 more_categories:
 - slug: note
   name: 学习笔记
 more_tags:
+- bgsound
 - slug: vim
   name: vim
 ---
@@ -20,13 +23,7 @@ more_tags:
 
 所以我还是要学着改一下的比较好，尤其是像我这种偶尔写写代码的人来说，尤其注意，世界上没有没有BUG的代码，没有不乱的代码，没有完美的程序。我一直这样劝解自己。
 
-
 回到主题，这里提供的vim不光是任意字体，而且还取消了windows窗口的阴影边框（有的人叫3D边框），个人觉得那个边框好厚重一个，不美观，所以就去掉了，然后加了可以支持任意字体的东西。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/05/27/vim-73-any-fonts/noname.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 说一下需要哪些东西，首先是去掉3D边框。下载下来源代码后找到gui_32w.c这个文件，打开，找到这两个地方。第一个地方是去掉边框，当去掉边框之后，默认窗口的大小就会多出2个像素，所以要修改第二个地方。
 

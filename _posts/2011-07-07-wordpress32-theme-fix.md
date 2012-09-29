@@ -3,16 +3,19 @@ layout: post
 title: wordpress3.2主题修改
 slug: wordpress32-theme-fix
 date: 2011-07-07 10:48:13 +0800
+bgsound: 2011/07/07/wordpress32-theme-fix/Chansondetoile.mp3
 excerpt: 记得刚开始接触wordpress的时候，我崇尚的是速度，追求所有的东西都要无插件实现，不过后来，我发现，改了一些东西之后我开始记不住我改在哪里了，我已经对它失去控制了，我想如果我升级的话，我有要改很多东西，于是我喜欢上了插件，于是我喜欢上了自己写插件。
 categories:
 - entry
 tags:
+- bgsound
 - wordpress
 - heart
 more_categories:
 - slug: entry
   name: 日志
 more_tags:
+- bgsound
 - slug: wordpress
   name: wordpress
 - slug: heart
@@ -24,7 +27,6 @@ more_tags:
 记得刚开始接触wordpress的时候，我崇尚的是速度，追求所有的东西都要无插件实现，不过后来，我发现，改了一些东西之后我开始记不住我改在哪里了，我已经对它失去控制了，我想如果我升级的话，我有要改很多东西，于是我喜欢上了插件，于是我喜欢上了自己写插件。
 
 当然自己写的东西很简易，只适合自己用，当然我可以给任何人，当然也很少人喜欢我的风格，比如我喜欢大的文字，比如我不喜欢粗体，比如最近我喜欢上了字体阴影，box阴影，不过我觉得twenty eleven的header图片太大了，我想，或许看时间长了我就习惯，本来想做一批header图片来着，想想还是算掉了。
-
 
 改了后台的东西，加了很多字体阴影，去掉了很多看起来很立体的东西，我还是比较喜欢直的东西，加了mp3和视频播放的两个按钮，本来的想法是用html5来实现，但是想想还是算了，原因嘛，就是比较懒惰比较不放心那个东西。
 
@@ -38,7 +40,3 @@ more_tags:
 
 很喜欢插入一首歌，那就插入一首吧，大家休闲一下。
 
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/07/07/wordpress32-theme-fix/Chansondetoile.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>

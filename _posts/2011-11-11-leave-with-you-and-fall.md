@@ -3,16 +3,19 @@ layout: post
 title: 你和秋天一同离去
 slug: leave-with-you-and-fall
 date: 2011-11-11 08:35:47 +0800
+bgsound: 2011/11/11/leave-with-you-and-fall/autumn_tale.mp3
 excerpt: 又是秋天，妹妹推我去北海看了菊花。黄色的花淡雅、白色的花高洁、紫红色的花热烈而深沉，泼泼洒洒，秋风中正开得烂漫。我懂得母亲没有说完的话。妹妹也懂。我俩在一块儿，要好好儿活……
 categories:
 - love
 tags:
+- bgsound
 - bbarticle
 - bad
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: bbarticle
   name: 美文
 - slug: bad
@@ -27,7 +30,6 @@ more_tags:
 </figure>
 
 春夏秋冬，经历一整个轮回。
-
 
 <figure>
 	<img src="{{ site.path.uploads }}2011/11/11/leave-with-you-and-fall/2.jpg" alt="一叶落" />
@@ -245,7 +247,3 @@ more_tags:
 
 等待下一个斑斓的秋天。
 
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/11/11/leave-with-you-and-fall/autumn_tale.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>

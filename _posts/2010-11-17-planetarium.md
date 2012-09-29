@@ -24,15 +24,13 @@ more_tags:
 
 昨天晚上做了一个梦，梦到这首歌，当然大冢爱是没有梦到的。梦中好像是一个很自恋的女孩子很喜欢唱这首歌，然后在很多场合他都唱了这首歌。其实也不是这首歌，是大冢爱在唱这首歌的那种吐字不清的语调，女孩子长的什么样子已经记不得了，好像还谈了恋爱，我很喜欢他，后来她喜欢上了我一个哥们，说他比我混的好，我当时很无奈，然后很无奈的起床了。
 
-
-<video width="480" height="272" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/11/17/planetarium/fandaoai.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/11/17/planetarium/fandaoai.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
 
 下面是歌词，歌词也很好的。歌词也很感人。
-
 
 > 夕阳的背后 月儿探出头 舍不得踏上 归途的孩童
 >
@@ -81,5 +79,4 @@ more_tags:
 > 当流星划过 黑夜的尽头 偷偷的许了个愿望藏进胸口
 >
 > 眼泪不停流 只能把所有想念留在这片星空里…
-
 

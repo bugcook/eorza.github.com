@@ -3,16 +3,19 @@ layout: post
 title: 最后悔的5件事
 slug: the-most-5-regret-things
 date: 2011-06-15 08:03:43 +0800
+bgsound: 2011/06/15/the-most-5-regret-things/Yellow.mp3
 excerpt: 心理学上有个理论，较之那些我们做过的事，人们后悔的往往是那些没做的事。所以当人们在生命尽头往回看时，往往会发现有好多梦想应该实现，却没有实现。你的生活方式、你的工作、你的感情、你的伴侣，其实我们多少人过着的是别人希望你过的生活，而不是自己真正想要的生活——又可能，一直以来你把别人希望你过的生活当作是你想要的生活。
 categories:
 - love
 tags:
+- bgsound
 - leave
 - speech
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: leave
   name: 散伙
 - slug: speech
@@ -21,7 +24,6 @@ more_tags:
 
 最近有一篇文章在Facebook, twitter上频频被转，Nurse reveals the top 5 regrets people make on their deathbed，它的原文是一名叫Bronnie Ware的护士写的。Bronnie Ware专门照顾那些临终病人，所以有机会听到很多人临终前说出他们一生里最后悔的事。她作了一个概括，有5件事是大多数人最后悔的。
 很好奇为什么这么多人转载它，也许，因为这是一种你永远无法提前经历的事吧。你不会时常面对别人的死亡，你更不怎么时常有机会听到一个临终前的人告诉你他最后悔的事是什么。而即便你听到，你又会觉得自己来日方长。我们似乎永远无法感同身受；也许，只有我们自己的生命到了尽头时，我们才会意识到自己究竟错过了什么，最后悔什么。
-
 
 ## 1. 我希望当初我有勇气过自己真正想要的生活，而不是别人希望我过的生活。
 
@@ -54,10 +56,5 @@ Ware说这是她照顾过的每一个男病人会说的话。因为工作，他�
 也许有点出乎意料，但这一条也在前5之中。很多人直到生命的最后才发现，“快乐是选择”。
 
 他们在自己既定习惯和生活方式中太久了，习惯了掩饰，习惯了伪装，习惯了在人前堆起笑脸。就像五月天的那首歌，“你不是真正的快乐，你的笑只是你给的保护色”。他们以为是生活让他们不快乐，其实是他们自己让自己不快乐了。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/06/15/the-most-5-regret-things/Yellow.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 是只有临终的时候才会发现，别人怎么看你又有什么关系呢，傻也好，怪也罢，能有真心的笑，比什么都值得。

@@ -3,16 +3,19 @@ layout: post
 title: Feed Your Mind
 slug: feed-your-mind
 date: 2011-04-18 15:17:47 +0800
+bgsound: 2011/04/18/feed-your-mind/Feed-Your-Mind.mp3
 excerpt: 分享几篇英文读音文章阅读，喜欢的英文的朋友可以听一听，看一看，背一背。听别人说学习英语就要背诵，我想也是。高中时候的英文还算可以，考试也过120分了，不过好几年不学了，已经忘记很多了。
 categories:
 - entry
 tags:
+- bgsound
 - bbarticle
 - english
 more_categories:
 - slug: entry
   name: 日志
 more_tags:
+- bgsound
 - slug: bbarticle
   name: 美文
 - slug: english
@@ -20,11 +23,6 @@ more_tags:
 ---
 
 分享几篇英文读音文章阅读，喜欢的英文的朋友可以听一听，看一看，背一背。听别人说学习英语就要背诵，我想也是。高中时候的英文还算可以，考试也过120分了，不过好几年不学了，已经忘记很多了。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/04/18/feed-your-mind/Feed-Your-Mind.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 > Since the pre-historic times, man has had an urge to satisfy his needs. Be it hunger, shelter or search for a mate, he has always manipulated the circumstances to the best of his advantages. Probably this might be the reason why we human are the most developed of all living species on the earth, and probably also in the universe. As we climbed the steps of evolution with giant leaps, we somehow left behind common sense and logical thinking — we forgot that we have stopped thinking ahead of times.
 

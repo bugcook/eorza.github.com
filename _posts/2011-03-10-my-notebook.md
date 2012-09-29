@@ -3,16 +3,19 @@ layout: post
 title: 我的笔记本
 slug: my-notebook
 date: 2011-03-10 14:29:08 +0800
+bgsound: 2011/03/10/my-notebook/ygy.mp3
 excerpt: 05年春节过后，我带着我心爱的笔记本去了学校，本来想大玩一番来着，结果因为一点小事耽误了。后来结束之后，我就开始使劲的遭疼我的电脑，其中换了一块电池，修了一次主板，换了两次电源接槽。
 categories:
 - lost
 tags:
+- bgsound
 - memory
 - bad
 more_categories:
 - slug: lost
   name: 往事追忆
 more_tags:
+- bgsound
 - slug: memory
   name: 回忆
 - slug: bad
@@ -20,7 +23,6 @@ more_tags:
 ---
 
 06年买的笔记本送人了，怀念一下，觉得有很多的感情。很多很多感情。5年时间，给了我太多的回忆。06年，我的ACER 3682NWXC，别了，我的笔记本，别了，我的情绪。
-
 
 <figure>
 	<img src="{{ site.path.uploads }}2011/03/10/my-notebook/notebook1.jpg" alt="我的笔记本" />
@@ -33,10 +35,5 @@ more_tags:
 </figure>
 
 05年春节过后，我带着我心爱的笔记本去了学校，本来想大玩一番来着，结果因为一点小事耽误了。后来结束之后，我就开始使劲的遭疼我的电脑，其中换了一块电池，修了一次主板，换了两次电源接槽。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/03/10/my-notebook/ygy.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 不想多说了，太伤感了。

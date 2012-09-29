@@ -3,16 +3,19 @@ layout: post
 title: 田横岛的故事
 slug: the-story-of-tianheng-island
 date: 2011-08-09 23:03:04 +0800
+bgsound: 2011/08/09/the-story-of-tianheng-island/mer-maid-song.mp3
 excerpt: 据史书记载，秦末汉初，群雄并起，逐鹿中原，刘邦手下大将韩信带兵攻打齐国，齐王田广被杀，齐相田横率五百将士退踞此岛。刘邦称帝后，遣使诏田横降，田横不从，称死不下鞍，于赴洛阳途中自刎。岛上五百将士闻此噩耗，集体挥刀殉节。世人惊感田横五百将士之忠烈，遂命名此岛为田横岛。
 categories:
 - qingdao
 tags:
+- bgsound
 - photo
 - qd
 more_categories:
 - slug: qingdao
   name: 在青岛
 more_tags:
+- bgsound
 - slug: photo
   name: 图片
 - slug: qd
@@ -37,7 +40,6 @@ more_tags:
 </figure>
 
 其实荷叶很常见，但是我看到这里的荷叶之后，我忽然发现我真的不常见荷叶，我一直觉得的常见好像在课本中常见，是不是呢？
-
 
 <figure>
 	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/nothing.jpg" alt="没有意思的图片" />
@@ -130,11 +132,6 @@ more_tags:
 于是田横拔剑自杀，两个门客和使者纵马奔驰，赶往洛阳。刘邦看到田横栩栩如生的头颅，流着泪说：“唉！田横真了不起！兄弟三人自布衣起家，先后都做了齐王，真是贤人啊！”刘邦封两个门客为都尉，用诸侯王的礼制埋葬了田横。
 
 葬礼完毕，两个门客在田横墓旁挖了两个洞，然后躺到洞里自杀而死。刘邦又派人去海岛上召余下的五百余人入朝，他们听说田横已死，皆自杀，追随田横的亡灵而去。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/mer-maid-song.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 上面就是田横和他的弟兄们的故事了，下面再贴一张令人无语的照片，他表明了我们5000年的文化实在是不堪一击。
 

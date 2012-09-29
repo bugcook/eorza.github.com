@@ -3,12 +3,14 @@ layout: post
 title: 我的大学之四人寝室
 slug: my-room-of-my-colleage
 date: 2011-07-30 13:47:36 +0800
+bgsound: 2011/07/30/my-room-of-my-colleage/our-memory.mp3
 excerpt: 一般的学校宿舍都是四个人一个房间，我们学校也不例外。我的宿舍，很普通，普通的无法用言语来表达了，但是对于我，对于gay，领导，小鸡都是很重要很重要的东西，那些可以值得称为回忆的东西。
 categories:
 - university
 - entry
 - alumn
 tags:
+- bgsound
 - memory
 - college
 - leave
@@ -20,6 +22,7 @@ more_categories:
 - slug: alumn
   name: 相册
 more_tags:
+- bgsound
 - slug: memory
   name: 回忆
 - slug: college
@@ -35,7 +38,6 @@ more_tags:
 </figure>
 
 我不知道为什么会有这样的想法，我想一切皆是偶然，所有的相遇皆是缘分。刚上大一那会，我没有手机，我只好拿gay的手机去泡妞。第一天我看到领导在看红楼梦，看到gay的木头拖鞋，我想，这将是一个不平凡的四年。
-
 
 大一大二是在room517寝室，北区。寝室是那种地面上满是灰尘的水泥构成，我心爱的笔记本基本上要每天清洁一次。当阳光透过窗户透进来，我想，这都是灰尘的功劳。
 
@@ -64,11 +66,6 @@ room517是个值得怀念的地方，那里曾经留下了小鸡从上铺呕吐�
 在我那破电脑里面，我开始看《越狱》，我开始看《火影忍者》，我开始在那台破电脑上装上red hat，那是我第一次装xwindow，兴奋的我好几天谁不着，后来电脑卖给了领导，领导后来当废弃品卖掉了。
 
 我们经常做的事情就是买点烧烤，买点啤酒，然后在宿舍关上门（以防他人进来噌饭噌酒），然后打扑克喝酒，大家都喝的很high，小鸡那一次呈抛物线的喷射就是在那个时候。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/07/30/my-room-of-my-colleage/our-memory.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 我最喜欢的是我们四个人去网吧通宵之后回宿舍睡觉的时候，那么的舒服，那么的宁静，大家都在睡觉，一点没有失眠的样子。
 

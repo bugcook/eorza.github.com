@@ -3,16 +3,19 @@ layout: post
 title: 让人流泪的微型小说
 slug: micro-fiction-that-make-you-cry
 date: 2011-04-06 17:11:16 +0800
+bgsound: 2011/04/06/micro-fiction-that-make-you-cry/water-lily.mp3
 excerpt: 电话里面This is a wrong number.Please check up and take the telephone number again…….；电话外面孩子，你为什么每天都说外语，妈听不懂，但是妈想你……..
 categories:
 - love
 tags:
+- bgsound
 - moving
 - bad
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: moving
   name: 感动
 - slug: bad
@@ -20,7 +23,6 @@ more_tags:
 ---
 
 1.电话里面“This is a wrong number.Please check up and take the telephone number again…….”；电话外面“孩子，你为什么每天都说外语，妈听不懂，但是妈想你……..”
-
 
 2.美国。“嗯……妈，有事吗？”“没事，就是挺想你”“好啦好啦，很困，这边是凌晨，说多少次了，有时差。”“哦，我忘了，你接着睡，接着睡……”5分钟后。“哎呀，谁啊又打电话！”“妞妞，我是你舅舅，你妈妈住的胶州路楼房着火了！”回拨。“妈！妈！快接电话啊！”“嘟嘟嘟嘟嘟……”
 
@@ -41,11 +43,6 @@ more_tags:
 8.那年她高考失利，灰心丧气，家中死气沉沉。一天午后她坐在院中摇椅上午睡，感觉自己伴着仙乐飘摇，久违的轻快。母亲：“她笑了她笑了，她小时候一听到摇篮曲就算睡着也会笑，没想到现在还是”“小声点儿，这孩子很多天没笑了，你别停啊”——刚睡醒的她闭眼含泪继续微笑：十八年了，我都忘了。
 
 9.没人知道他大闹天空的原因。他爱上了观音。就像捣蛋的孩子，想要母亲关注。如果金箍不是她给的，老和尚念咒时，早就被一棒打死。金箍寸寸收紧，痛的不是头，是心。那些妖怪他一只手指就能捏死，假装打不过才能和她亲近。有时南风吹来，八戒问他因何流泪，他说五百年前的烟火熏伤了火眼金睛。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/04/06/micro-fiction-that-make-you-cry/water-lily.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 10.妻子的病要花很多钱。女儿五岁了，会做饭，会收拾屋子，会照顾妈妈。他在工地里摔断了腿，工头逃走了，只能在地铁里跪着乞讨。假的乞丐太多，没人相信他的故事。他决定抢劫。他被枪毙的那天傍晚，妻子偷偷跳进了江里。女儿拿着妈妈的信，哭着在街上四处寻找。她还不识字，但她已经认识人生。
 

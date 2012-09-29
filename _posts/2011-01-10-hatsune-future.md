@@ -24,12 +24,11 @@ more_tags:
 
 初音未来是世界上第一个使用全息投影技术举办演唱会的虚拟偶像。迄今为止，初音共举行过两次全息投影演唱会，分别为初音未来Fes'09（夏）和初音未来日的感谢祭。
 
-<video width="480" height="272" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2011/01/10/hatsune-future/crazy2.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2011/01/10/hatsune-future/crazy2.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
-
 
 ## 一、初音未来Fes'09（夏）
 
@@ -45,7 +44,7 @@ more_tags:
 
 后来，应广大狂热爱好者的强烈要求，终于在2010年9月发售了演唱会的DVD版和蓝光版。
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2011/01/10/hatsune-future/crazy.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2011/01/10/hatsune-future/crazy.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

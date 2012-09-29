@@ -3,16 +3,19 @@ layout: post
 title: 关于音乐
 slug: about-music
 date: 2011-04-04 20:45:02 +0800
+bgsound: 2011/04/04/about-music/Yesterday.mp3
 excerpt: 第一次听就喜欢上的歌曲很少，第一次听就喜欢上而且长时间一直喜欢的歌曲更少，其中一首是这个《yesterday》。不知道为什么会第一次听就喜欢，我想原因大概是这首音乐的旋律是很久以前听过的或者是听过相似的歌曲。听多了之后，你就会放弃对原来觉得类似的旋律的探索。
 categories:
 - entry
 tags:
+- bgsound
 - song
 - speech
 more_categories:
 - slug: entry
   name: 日志
 more_tags:
+- bgsound
 - slug: song
   name: 歌曲
 - slug: speech
@@ -22,12 +25,6 @@ more_tags:
 题目有点大。其实原来想好的题目是《我对音乐的想法》，又一想，这个貌似更显得太专业了，所有就放弃。毕竟自己的专业不是音乐，写些这些东西，真是贻笑大方了。很多人说如果自己不专业的东西不要妄加评论。但是如果是这样的话，整个世界都会变的沉默了。
 
 写这个东西的原因是看到朋友博客的一篇文章的背景音乐。名字叫做《yesterday》，点开听了之后，感觉这么熟悉，好像很久以前听到的歌曲。上网查过后知道是LG的一款叫闪耀的手机的广告曲。好像是05年吧，或者是06年，那个时候刚上大学，一切都那么新奇，一切都那么激情和懒惰，当时，我不知道是选择慵懒还是勤快的方式来度过我的大学。歌曲也是一个朋友在他的博客上推荐的，他说，没想到一首广告曲都能做的那么好听。第一次听就喜欢上了这首歌。
-
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/04/04/about-music/Yesterday.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 第一次听就喜欢上的歌曲很少，第一次听就喜欢上而且长时间一直喜欢的歌曲更少，其中一首是这个《yesterday》。不知道为什么会第一次听就喜欢，我想原因大概是这首音乐的旋律是很久以前听过的或者是听过相似的歌曲。听多了之后，你就会放弃对原来觉得类似的旋律的探索。
 

@@ -19,7 +19,7 @@ more_tags:
   name: 视频
 ---
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/08/02/give-back-my-nose/kids-nose.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/08/02/give-back-my-nose/kids-nose.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

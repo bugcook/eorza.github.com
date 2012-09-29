@@ -19,7 +19,7 @@ more_tags:
   name: 视频
 ---
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2010/07/31/when-youre-gone/When-Youre-Gone.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2010/07/31/when-youre-gone/When-Youre-Gone.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

@@ -3,10 +3,12 @@ layout: post
 title: 祝我生日快乐
 slug: happy-birthday-to-me
 date: 2010-09-18 20:12:39 +0800
+bgsound: 2010/09/18/happy-birthday-to-me/xian4.mp3
 excerpt: 今天过生日，昨天晚上还一直提醒着要自己出去吃点好吃的，但是还是忘记了。当在公司吃饭劣质晚餐之后，我突然想起来。想起来我就赶紧看手机，一看，更难过了，就是上午的时候一个很久不见的女孩发了一条祝福的短信，什么朋友啊、兄弟啊、亲人们啊，通通的忘记了，就连我妈也是，更气愤的是，她竟然前天打电话祝我生日快乐，我说是后天，她还说是提前。
 categories:
 - university
 tags:
+- bgsound
 - college
 - heart
 - leave
@@ -14,6 +16,7 @@ more_categories:
 - slug: university
   name: 我的大学
 more_tags:
+- bgsound
 - slug: college
   name: 大学
 - slug: heart
@@ -25,12 +28,6 @@ more_tags:
 今天过生日，昨天晚上还一直提醒着要自己出去吃点好吃的，但是还是忘记了。当在公司吃饭劣质晚餐之后，我突然想起来。想起来我就赶紧看手机，一看，更难过了，就是上午的时候一个很久不见的女孩发了一条祝福的短信，什么朋友啊、兄弟啊、亲人们啊，通通的忘记了，就连我妈也是，更气愤的是，她竟然前天打电话祝我生日快乐，我说是后天，她还说是提前。
 
 今天在公司里面抉择了一天网站要不要重构。因为自己觉得十个完美主义者，所以对别人做的设计总是不那么放心，虽然很漂亮，但是我还是想自己来重新切图，但是那要好几天的时间，但是我好像又太懒了。所以抉择了一天。终于决定还是要趁自己空闲的时候重新切一下。
-
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/09/18/happy-birthday-to-me/xian4.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 朱哥去他媳妇家了，加上中秋和十一，一共请了半个多月的假期，羡煞我们了，然后今天佳龙又请假了，办公室就剩我一个人，诺大的办公室空空荡荡的很是孤寂，于是我也抽起了烟草。抽的办公室缭绕缭绕的，每个进去的人都要说声操，这么大烟啊，然后我自足的一笑：是哥制造的。
 

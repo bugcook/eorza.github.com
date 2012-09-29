@@ -23,7 +23,7 @@ more_tags:
 
 我知道我的观点错了，因为也有好多俊美的人唱的好歌，也有春哥曾哥，所以什么事情都不是绝对的，但是我想，在娱乐这个方面，如果一个长相一般的人出名了，那么他一定付出了很多的努力，就一定有他的闪光点。
 
-<video width="480" height="360" controls="controls">
+<video controls="controls">
 	<source src="{{ site.path.uploads }}2011/07/12/jar-of-love/jar-of-love.webm" type="video/webm" />
 	<source src="{{ site.path.uploads }}2011/07/12/jar-of-love/jar-of-love.mp4" type="video/mp4" />
 	Your browser does not support the video tag.

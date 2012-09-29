@@ -15,6 +15,7 @@ more_categories:
 - slug: material
   name: 学习资料
 more_tags:
+- video
 - slug: html
   name: html
 ---
@@ -32,7 +33,6 @@ HTML5想必大家都很熟悉了，因为太多的媒体在讨论这一技术。
 在HTML5中，上面那种声明方式将失效。下面是HTML5中的声明方式：
 
 	<!DOCTYPE html>
-
 
 ## 2.脚本和链接无需type  (No More Types for Scripts and Links)
 
@@ -101,7 +101,6 @@ HTML5想必大家都很熟悉了，因为太多的媒体在讨论这一技术。
 		</figcaption>
 	</figure>
 
-
 ## 7.重新定义small (Small Element redefined)
 
 在HTML4或XHTML中，small元素已经存在。然而，却没有如何正确使用这一元素的完整说明。在HTML5中，small被用来定义小字。试想下你网站底部的版权状态，根据对此元素新的HTML5定义，small可以正确地诠释这些信息。
@@ -117,7 +116,6 @@ HTML5中的新属性“required”指定了某一输入是否必需。有两种�
 
 	<input type="text" name="someInput" required>
 	<input type="text" name="someInput" required="required">
-
 
 当文本框被指定必需时，如果空白的话表格就不能提交。下面是一个如何使用的例子。
 

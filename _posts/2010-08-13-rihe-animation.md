@@ -30,7 +30,6 @@ more_tags:
 	Your browser does not support the video tag.
 </video>
 
-
 二、日和动漫之世界末日
 
 <video controls="controls">
@@ -54,5 +53,4 @@ more_tags:
 	<source src="{{ site.path.uploads }}2010/08/13/rihe-animation/destination-of-travel.mp4" type="video/mp4" />
 	Your browser does not support the video tag.
 </video>
-
 

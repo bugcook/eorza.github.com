@@ -3,23 +3,21 @@ layout: post
 title: I will survive
 slug: i-will-survive
 date: 2010-07-30 17:11:00 +0800
+bgsound: 2010/07/30/i-will-survive/gloria-gaynor-i-will-survive.mp3
 excerpt: 1978年 春天Gloria Gaynor在欧洲登台时不小心跌落舞台，使得Gloria Gaynor 脊髓受损并卧病在床达9个月之久，加上复健期间母亲又去世，这许多的打击几乎让她崩溃。出院後，她写下这首 I Will Survive 证明自己战胜了怯懦。
 categories:
 - love
 tags:
+- bgsound
 - song
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: song
   name: 歌曲
 ---
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2010/07/30/i-will-survive/gloria-gaynor-i-will-survive.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 偶然听到一首歌，被雷到了，这是上世纪七十年代有Queen of Disco之称的Gloria Gaynor一首最出彩的歌曲，是70年代Disco必备歌曲，法国世界杯足球队开赛歌选用此曲，最重要的是，此曲也被滚石评为100首最伟大的作品之一。我选的是这首歌的一个现场版本，自我感觉是现场版的非常非常的棒，尤其是这首歌的最后有4分钟左右的全场配乐大合唱，相当的震撼。当你听到这首歌相信也会有同感，也有似曾相识的感觉，记住，最精彩的在后半段,而且一定要听完。当然这首歌中有一句歌词很喜欢
 
@@ -94,5 +92,4 @@ ps：歌词
 > 希望我有空见你
 > Now I'm saving all my loving for someone who's loving me
 > 如今，我已把全部的爱都留给那个爱我的人
-
 

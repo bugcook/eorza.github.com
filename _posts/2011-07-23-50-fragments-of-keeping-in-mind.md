@@ -3,16 +3,19 @@ layout: post
 title: 铭记在心的50个片段
 slug: 50-fragments-of-keeping-in-mind
 date: 2011-07-23 08:28:22 +0800
+bgsound: 2011/07/23/50-fragments-of-keeping-in-mind/If-You-Want-Me.mp3
 excerpt: 故事能够唤起我们感受幸福的心情，也能让我们感到悲伤，左右我们的感情。它能帮助我们对现状产生疑问，产制造出深入思考与内省的瞬间，让我们作为不同的个体进化成长。
 categories:
 - love
 tags:
+- bgsound
 - moving
 - bad
 more_categories:
 - slug: love
   name: 喜欢的
 more_tags:
+- bgsound
 - slug: moving
   name: 感动
 - slug: bad
@@ -20,7 +23,6 @@ more_tags:
 ---
 
 故事能够唤起我们感受幸福的心情，也能让我们感到悲伤，左右我们的感情。它能帮助我们对现状产生疑问，产制造出深入思考与内省的瞬间，让我们作为不同的个体进化成长。
-
 
 1.我是一名消防员，今天结束72小时值勤工作后，我顺便去食品店买东西，有位女士向朝跑过来，突然抱住了我。我惊讶极了，这位女士解释道：“2001年9月11日，是你从世贸中心把我救了出来。”她流着喜悦的泪水，微笑着对我说。
 
@@ -75,11 +77,6 @@ more_tags:
 26.父亲在一家小医院过世时，我亲吻了他的额头。5秒之后，我才察觉这是我第一次吻我的父亲。
 
 27.我今天在金考（Kinko’s）遇到了1位因为下个月将在非洲迎来91岁生日，而来拍摄身份证照片的90岁老太太。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/07/23/50-fragments-of-keeping-in-mind/If-You-Want-Me.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 28.8岁的女儿用可爱的声音拜托我快开始废物再利用。我笑着问她：“为什么呢？”她回答：“这样我就能帮忙守护地球了。”我又笑了，问：“为什么要守护地球呢？”她说：“这样我就能守护所有属于我的东西了。”
 

@@ -3,11 +3,13 @@ layout: post
 title: 9月中旬
 slug: middle-of-september
 date: 2011-09-15 11:55:36 +0800
+bgsound: 2011/09/15/middle-of-september/Song-for-the-Lord.mp3
 excerpt: 9月中旬，刚写了一点东西，累了，就写个记录吧，最近烦心事挺多的。我仔细想了想，其实也没什么烦心的事情，只是想想未来，想想出路，就觉得有点迷茫，好在总有个目标，不管自己喜欢不喜欢，总是要努力去做的。
 categories:
 - note
 - lost
 tags:
+- bgsound
 - emacs
 - talk
 more_categories:
@@ -16,6 +18,7 @@ more_categories:
 - slug: lost
   name: 往事追忆
 more_tags:
+- bgsound
 - slug: emacs
   name: emacs
 - slug: talk
@@ -57,11 +60,6 @@ more_tags:
 4.诸事由心。问心无愧，管他人说甚。这句话是龙幽说的，要做到这样真的很难很难，难过你得了癌症然后恢复。
 
 总结了这么多。按照我自己的经验，几年之后再看看这些，会觉得好笑。
-
-<audio controls="controls">
-	<source src="{{ site.path.uploads }}2011/09/15/middle-of-september/Song-for-the-Lord.mp3" type="audio/mpeg" />
-	Your browser does not support the audio element.
-</audio>
 
 最后放一首歌。其实博客里面有好多的音乐，都是自己很喜欢的，如果你不幸来到了这里，那么请接受我的音乐观的洗礼。
 
