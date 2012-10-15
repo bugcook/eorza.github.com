@@ -31,17 +31,12 @@ more_tags:
 	</figcaption>
 </figure>
 
-应该是下午的时候，快傍晚了，太有感觉了。
-
-
 <figure>
 	<img src="{{ site.path.uploads }}2010/08/08/bagong-moutain-of-huainan/mimi.jpg" alt="哦哦哦" />
 	<figcaption>
 		寺庙吧，你看那个时候的身材，你看你看，印象中里面好像没人的。
 	</figcaption>
 </figure>
-
-寺庙吧，你看那个时候的身材，你看你看，印象中里面好像没人的。
 
 <figure>
 	<img src="{{ site.path.uploads }}2010/08/08/bagong-moutain-of-huainan/we4.jpg" alt="我们4个（1）" />
@@ -50,8 +45,6 @@ more_tags:
 	</figcaption>
 </figure>
 
-我，于比，马跃，gay，很快乐，很高兴，现在大家都各奔东西了。
-
 <figure>
 	<img src="{{ site.path.uploads }}2010/08/08/bagong-moutain-of-huainan/wefuck.jpg" alt="我们4个（2）" />
 	<figcaption>
@@ -59,5 +52,4 @@ more_tags:
 	</figcaption>
 </figure>
 
-去了马跃，加了小鸡。这张也很有感觉吧。
 
