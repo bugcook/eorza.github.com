@@ -134,6 +134,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .page-content h2 {
 	border-bottom: 1px solid #ddd;
+	padding-bottom: 5px;
 }
 
 .page-content audio {
@@ -191,8 +192,10 @@ h1, h2, h3, h4, h5, h6 {
 
 /* footer */
 .page-footer {
-	padding: 0 20px 20px 20px;
+	padding: 10px 20px;
 	color: #777;
+	border-top: 1px solid #eee;
+	background: #fafafa;
 }
 
 /* =Page
@@ -206,11 +209,12 @@ h1, h2, h3, h4, h5, h6 {
 .tag-box li {
 	float: left;
 	list-style: none;
-	line-height: 28px;
 }
 .tag-box a {
-	padding: 3px 6px;
-	margin: 2px;
+	display: block;
+	padding: 0 8px;
+	margin: 3px;
+	line-height: 18px;
 	background: #EEE;
 	color: #005F6B;
 	border-radius: 3px;
@@ -219,14 +223,6 @@ h1, h2, h3, h4, h5, h6 {
 .tag-box a span {
 	vertical-align: super;
 	font-size: 0.8em;
-}
-
-/* =Comment
--------------------------------------------------------------- */
-#comments {
-	padding: 20px;
-	border-top: 1px solid #eee;
-	background: #fafafa;
 }
 
 
@@ -249,3 +245,4 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 12px;
 	border: 1px solid #eee;
 }
+
