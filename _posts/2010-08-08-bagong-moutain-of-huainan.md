@@ -22,7 +22,7 @@ more_tags:
   name: 难过
 ---
 
-<span style="color: #99cc00;">我们去淮南八公山玩的，回来之后，我就玩了仙剑奇侠传4，后来才明白，原来八公山这么有名啊，原来“风声鹤唳，草木皆兵”就是说的这里啊。</span>
+我们去淮南八公山玩的，回来之后，我就玩了仙剑奇侠传4，后来才明白，原来八公山这么有名啊，原来“风声鹤唳，草木皆兵”就是说的这里啊。
 
 <figure>
 	<img src="{{ site.path.uploads }}2010/08/08/bagong-moutain-of-huainan/feel.jpg" alt="很有感觉吧" />

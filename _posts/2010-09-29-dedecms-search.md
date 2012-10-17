@@ -25,12 +25,11 @@ more_tags:
 
 当然是打开list.php了（如果你不知道这个，好吧，我告诉你，联动搜索是用这个文件的，位置是plus/list.php），大家可以看到有一个if判断结构
 
-	if($tinfos['issystem']==-1){
+	if ($tinfos['issystem']==-1) {
 		//others;
 		include(DEDEINC."/arc.sglistview.class.php");
 		$lv = new SgListView($tid,$cArr);
-	}
-	else {
+	} else {
 		include(DEDEINC."/arc.listview.class.php");
 		$lv = new ListView($tid);
 		//others
@@ -71,7 +70,7 @@ more_tags:
 
 通过这几句，我们增加了一个判断条件$dobila，具体我就不说明了。
 
-讲$dobila加入到查询字符串就OK了，位置在，饿，不好说，这样吧，在if(ereg('hot|click|lastpost',$orderby))这个条件判断语句中，我把整段代码复制过来，大家看看在哪就ok了。
+讲$dobila加入到查询字符串就OK了，位置在，饿，不好说，这样吧，在`if(ereg('hot|click|lastpost',$orderby)`这个条件判断语句中，我把整段代码复制过来，大家看看在哪就ok了。
 
 	if(ereg('hot|click|lastpost',$orderby)) { //如果不用默认的sortrank或id排序，使用联合查询（数据量大时非常缓慢）
 		$query = "Select arc.*,tp.typedir,tp.typename,tp.isdefault,tp.defaultname,
