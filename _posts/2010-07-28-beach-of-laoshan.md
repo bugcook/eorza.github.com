@@ -3,6 +3,7 @@ layout: post
 title: 崂山的海边
 slug: beach-of-laoshan
 date: 2010-07-28 11:48:37 +0800
+bgheader: 2010/07/28/beach-of-laoshan/howto.jpg
 excerpt: 第一次去海边玩，虽然来青岛好长时间了，总感觉一个人不想出去，或许是太懒了吧。
 categories:
 - qingdao

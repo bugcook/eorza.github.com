@@ -27,10 +27,10 @@ module.exports是require返回真正的东东。exports.xxx只是一种helper，
 
 	var to_exports = {};
 	to_exports.name = function() {
-	console.log('My name is Hass');
+		console.log('My name is Hass');
 	};
 	to_exports.age = function() {
-	console.log('I\'m 18 years old');
+		console.log('I\'m 18 years old');
 	};
 	module.exports = to_exports;
 

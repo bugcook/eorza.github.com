@@ -9,12 +9,12 @@ Description: Basicly this is my first css.
 img {
 	vertical-align: bottom;
 }
-blockquote {
-    margin: 1em 0;
+ol {
+	list-style: inside decimal;
+	padding: 0;
 }
 ul {
-    padding: 1em;
-    list-style:inside circle;
+    list-style: inside circle;
 }
 
 /* =Basic structure
@@ -38,8 +38,12 @@ body {
 }
 
 .site-footer {
-	padding: 10px;
+	line-height: 38px;
 	text-align: center;
+	color: #aaa;
+}
+.site-footer a {
+	color: #aaa;
 }
 
 
@@ -58,7 +62,7 @@ code {
 	font: 12px Consolas, Monaco, Andale Mono, Courier New, monospace;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue", Helvetica, 'Microsoft YaHei', Arial, sans-serif;
 }
 
 
@@ -132,7 +136,11 @@ h1, h2, h3, h4, h5, h6 {
 .page-content p,
 .page-content video,
 .page-content audio,
-.page-content figure {
+.page-content figure,
+.page-content blockquote,
+.page-content ol,
+.page-content dl,
+.page-content ul {
     margin: 1em 0;
 }
 .page-content h2 {
@@ -154,8 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 .page-content video {
 	display: block;
 	max-width: 100%;
-    margin: 1em auto;
-}
+ }
 .page-content audio {
 	display: block;
 }
