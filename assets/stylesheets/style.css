@@ -236,6 +236,19 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 0.8em;
 }
 
+/* =Home
+-------------------------------------------------------------- */
+.home-page {
+	padding: 20px;
+}
+.home-page p {
+	line-height: 22px;
+	color: #333;
+}
+.home-page .site-description {
+	border-top: 1px solid #eee;
+	margin-top: 20px;
+}
 
 /* =Besides
 -------------------------------------------------------------- */
