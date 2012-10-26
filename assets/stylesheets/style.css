@@ -238,14 +238,12 @@ h1, h2, h3, h4, h5, h6 {
 
 /* =Home
 -------------------------------------------------------------- */
-.home-page {
-	padding: 20px;
+#home_pic {
+	padding: 5px;
+	border: 1px solid #eee;
+	margin: 20px 0;
 }
-.home-page p {
-	line-height: 22px;
-	color: #333;
-}
-.home-page .site-description {
+.site-description {
 	border-top: 1px solid #eee;
 	margin-top: 20px;
 }
