@@ -10,11 +10,11 @@ img {
 	vertical-align: bottom;
 }
 ol {
-	list-style: inside decimal;
-	padding: 0;
+	padding-left: 20px;
+    list-style-type: circle;
 }
 ul {
-    list-style: inside circle;
+    list-style-type: circle;
 }
 
 /* =Basic structure
