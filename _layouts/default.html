@@ -64,7 +64,7 @@
 		<div id="besides">
 		{% if page.bgsound %}
 			<div class="bgsound">
-				<button id="bgsound-button" class="play-pause">Pause</button>
+				<button id="bgsound-button">Pause</button>
 			</div>
 			<script>
 				var bgsound_audio = new Audio();
@@ -82,8 +82,16 @@
 						bgsound_button.innerText = 'Play';
 					}
 				};
-
 			</script>
+		{% endif %}
+
+		{% if page.mplayer %}
+			<div class="bgsound">
+				<button id="previous-button">Prev</button>
+				<button id="bgsound-button">Play</button>
+				<button id="next-button">Next</button>
+			</div>
+			<script src="{{ site.path.resources }}access.php?type=hrm&pbtn=previous-button&bbtn=bgsound-button&nbtn=next-button"></script>
 		{% endif %}
 		</div>
 	</body>

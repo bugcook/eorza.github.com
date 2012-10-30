@@ -246,24 +246,36 @@ h1, h2, h3, h4, h5, h6 {
 
 /* =Besides
 -------------------------------------------------------------- */
-.play-pause {
+.bgsound {
 	position: fixed;
 	left: 5px;
 	bottom: 3px;
-	padding: 2px 5px 3px;
-	color: white;
 	font-weight: bold;
 	background-color: #999;
 	text-decoration: none;
 	border-radius: 3px;
 	box-shadow: 0 0 3px rgba(0,0,0,0.5);
-	text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
-	float: right;
-	cursor: pointer;
 	font-size: 12px;
 	border: 1px solid #eee;
 }
-
+.bgsound button {
+	background-color: #999;
+	border: 1px solid #999;
+	color: white;
+	text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.25);
+	cursor: pointer;
+	margin: 0;
+	padding: 2px 5px;
+}
+.bgsound button:hover {
+	color: #eee;
+	background: #777;
+}
+.bgsound button:disabled {
+	color: white;
+	background: #999;
+	cursor: not-allowed;
+}
 
 /* =Highlight.js hack
 -------------------------------------------------------------- */
