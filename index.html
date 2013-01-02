@@ -1,11 +1,13 @@
 ---
-layout: page
-title: 我会沿着电车的铁轨走回来的
+layout: default
+title: Dobila
 mplayer: false
 
 ---
 
 <p>没什么好说的，这里只是我一个人的地方吧，没有人会来看，我可以写写我自己的心情，我可以收藏一些我喜欢的资料。如果有人来到了这里，细心的你可能发现，建站是建是2010年7月份，但是好多文章的时间是2008年，2009年，你可能知道，这里是我重新开始的地方，但是有些回忆我还是拿过来了，我不想忘记。</p>
+
+<p>我会沿着电车的铁轨走回来的</p>
 
 <section id="home_pic"></section>
 <script src="{{ site.path.resources }}access.php?type=hrp&wrp=home_pic"></script>
@@ -13,3 +15,20 @@ mplayer: false
 <p>我会努力生活的。如果需求帮助，发邮件：<a href="mailto:hass.tian@gmail.com">hass.tian@gmail.com</a>，或者skype：hass.tian。</p>
 
 <p>有些事情只适合收藏，而有些事情只能收藏。</p>
+
+<nav>
+	<ul>
+		<li {% if '/archive.html' == page.url %}class="active"{% endif %}>
+			<a href="/archive.html">Archive</a>
+		</li>
+		<li {% if '/categories.html' == page.url %}class="active"{% endif %}>
+			<a href="/categories.html">Categories</a>
+		</li>
+		<li {% if '/tags.html' == page.url %}class="active"{% endif %}>
+			<a href="/tags.html">Tags</a>
+		</li>
+		<li {% if '/blogroll.html' == page.url %}class="active"{% endif %}>
+			<a href="/blogroll.html">Blogroll</a>
+		</li>
+	</ul>
+</nav>
