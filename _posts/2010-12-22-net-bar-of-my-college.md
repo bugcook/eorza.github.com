@@ -3,8 +3,7 @@ layout: post
 title: 我的大学之网吧
 slug: net-bar-of-my-college
 date: 2010-12-22 14:57:44 +0800
-bgsound: 2010/12/22/net-bar-of-my-college/love-me-or-him.mp3
-excerpt: 我一直认为上大学只是一段回忆，只是确定人生之中有这段经历，当同别人谈起来会说我也上过大学，我跟随了我那个年代的潮流，即使没有学到什么东西，即使整天睡觉上网，我也不后悔。即使现在很多人都说大学生怎么怎么着，不管现在的人再怎么鄙视大学生，最起码的是我上过大学，我又有一段回忆。这段纯属题外话。
+bgsound: 2010/12/22/net-bar-of-my-college/love-me-or-him.webm
 categories:
 - university
 tags:
@@ -12,17 +11,7 @@ tags:
 - memory
 - college
 - ibar
-more_categories:
-- slug: university
-  name: 我的大学
-more_tags:
-- bgsound
-- slug: memory
-  name: 回忆
-- slug: college
-  name: 大学
-- slug: ibar
-  name: 网吧
+- photo
 ---
 
 写下这个题目我很是高兴，因为我终于没有只写一篇，我在写《我的大学之香辣虾》的时候就担心只会一时兴起写一篇，以后就懒得写了。所以现在我即将记下我的回忆篇之我的大学，权作纪念我那荒废而又有意义的大学。
@@ -33,12 +22,9 @@ more_tags:
 
 然后找到了一家叫阳光的网吧，我一直想为什么把里面烟雾缭绕基本上没有阳光进来照明基本上靠灯的网吧为什么叫阳光网吧，那个网吧的显示器基本上是纯平的，独立显卡基本上是没有的，内存基本上是512M的，但是我在里面学会了玩魔兽争霸，我在里面喜欢上了一个女孩，我在里面知道了JS而且我想不明白为什么会JS也会找到好工作。嗯，那个女孩的名字叫周陇芳，很平凡的一个女孩子，我也很平凡的喜欢着她，我跟她在外面住了一个月，后来过完劳动节，我回学校准备java考试，她离开了我去找她男人去了。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/12/22/net-bar-of-my-college/wefour.jpg" alt="517寝室" />
-	<figcaption>
-		从左到右：领导，徐鸡，我，gay。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/12/22/net-bar-of-my-college/wefour.jpg" alt="517寝室" />
+
+从左到右：领导，徐鸡，我，gay。
 
 第二家网吧叫超人网吧，超人网吧就在阳光网吧的附近，而且离学校更近，而且电脑全是液晶宽屏19英寸，独立显卡。即使价格比阳光贵5毛钱（阳光网吧一块钱一个小时），阳光网吧依然被冷淡了，而且几乎是一夜间被冷淡了，人流稀疏的可以在里面打羽毛球。我们经常在超人包夜，记得又一次，包夜过后起来去澡堂洗澡，一进去我就差点晕倒在澡堂里面，现在想想就后怕，现在想想也觉得那个时候体力也真旺盛，整天包夜。
 

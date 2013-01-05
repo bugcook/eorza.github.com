@@ -3,23 +3,12 @@ layout: post
 title: 我用流年，乱了心扉
 slug: googbye-time
 date: 2010-10-11 09:48:26 +0800
-excerpt: 你若是求得是风雨同舟，求得是心心相印，求得是秉烛夜谈，求得是夫唱妇随，求得是恩爱夫妻共白首，就不要以为爱是一见钟情门当户对就可以天长地久的事情。
 categories:
 - love
 tags:
 - moving
 - truelove
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: truelove
-  name: 爱情
-- slug: classic
-  name: 经典
 ---
 
 得到闺蜜开始谈婚论嫁的消息。她要跟那个男人结婚了。
@@ -32,9 +21,7 @@ more_tags:
 
 有很多次，委屈的她刚流过眼泪，喝完粥，听见他来楼下接她，就微笑着说，我原谅他了。我走了。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/top.jpg" alt="得之我幸，失之我命" />
-</figure>
+<img src="{{ site.path.uploads }}2010/10/11/googbye-time/top.jpg" alt="得之我幸，失之我命" />
 
 她就那样轻轻地原谅了他，恍若什么事情也不曾发生过。留下我们愤愤，她却一如既往。
 
@@ -66,9 +53,7 @@ more_tags:
 
 是他静静地说的那句：我不会在一开始，就莫名其妙地对一个女人好。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/middle.jpg" alt="我拿流年，乱了浮生" />
-</figure>
+<img src="{{ site.path.uploads }}2010/10/11/googbye-time/middle.jpg" alt="我拿流年，乱了浮生" />
 
 其实我们早该明白，这年头，在谈恋爱这件事面前，谁都不是善男信女。
 
@@ -156,9 +141,7 @@ more_tags:
 
 选老婆，选老公，不是选PSP，好看立马拎回家，结果发现摔不得划不得吼不得，最后觉得不好玩了马上换一个，型号过时了再买一个。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/10/11/googbye-time/bottom.jpg" alt="再见时光" />
-</figure>
+<img src="{{ site.path.uploads }}2010/10/11/googbye-time/bottom.jpg" alt="再见时光" />
 
 过日子的那个人是冰箱，宁可逛得久一点，要选经久耐用几十年不坏的那一个。
 
@@ -175,5 +158,4 @@ more_tags:
 你若是求得是风雨同舟，求得是心心相印，求得是秉烛夜谈，求得是夫唱妇随，求得是恩爱夫妻共白首，就不要以为爱是一见钟情门当户对就可以天长地久的事情。
 
 如不曾经历千回百转，你不会懂得，中途那般多的枝枝蔓蔓，需要的，是你与他留在时光里的披荆斩棘与披星戴月。
-
 

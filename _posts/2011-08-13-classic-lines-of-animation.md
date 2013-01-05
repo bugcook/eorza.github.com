@@ -3,23 +3,13 @@ layout: post
 title: 动漫经典台词
 slug: classic-lines-of-animation
 date: 2011-08-13 21:47:12 +0800
-bgsound: 2011/08/13/classic-lines-of-animation/sunset.mp3
-excerpt: 看了很多的动漫，很多的感动，其中不乏有很多的感人语句，让我摘录下来，供大家分享，谢谢。
+bgsound: 2011/08/13/classic-lines-of-animation/sunset.webm
 categories:
 - love
 tags:
 - bgsound
 - animation
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: animation
-  name: 动漫
-- slug: classic
-  name: 经典
 ---
 
 看了很多的动漫，很多的感动，其中不乏有很多的感人语句，让我摘录下来，供大家分享，谢谢。
@@ -32,9 +22,7 @@ more_tags:
 
 4、我在人生道路上迷失了方向。  ——旗木卡卡西《火影忍者》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/all.jpg" alt="好多" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/all.jpg" alt="好多" />
 
 5、花开了，然后凋零。星星是璀璨的，可那光芒也会消失。这个地球、太阳、银河系甚至连这个宇宙也会有死亡的时候，人的一生和这些东西相比，简直就像刹那间的事情，在这样的一瞬间，人降生了，笑着、哭着、憎恨、喜悦、悲伤、爱， 一切只是刹那间的邂逅，而最后都要归入死的永眠。——沙加《圣斗士星矢》
 
@@ -68,9 +56,7 @@ more_tags:
 
 20、我认为你很幸福，因为你可以选择爱或不爱我。而我只能选择爱或更爱你。—— 西野司《草莓100%》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/glgs.jpg" alt="灌篮高手" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/glgs.jpg" alt="灌篮高手" />
 
 21、虚伪的眼泪，会伤害别人，虚伪的笑容，会伤害自己。——《反叛的鲁鲁修》
 
@@ -92,9 +78,7 @@ more_tags:
 
 30、就这点程度，还不足以折断我的灵魂。 ——坂田银时《银魂》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/hzw.jpg" alt="海贼王" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/hzw.jpg" alt="海贼王" />
 
 31、过分的神圣，往往比恶魔更加恶质。 ——塞巴斯蒂安·米卡艾利斯 《黑执事》
 
@@ -106,9 +90,7 @@ more_tags:
 
 35、因为某事、总把自己当成悲剧的主人公一样不断流泪，就说的过去了么？你呀，看上去就像个白痴一样哭个没完呢，爱哭的可怜虫！  ——鸣人《火影忍者》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/jianhun.jpg" alt="剑魂" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/jianhun.jpg" alt="剑魂" />
 
 36、虽然，现在的我内心所受的伤是那么的深，虽然，这段痛苦的回忆只会带给我伤痛与悲哀。但是……我宁愿把这段记忆永远的保留起来，让它伴随我成长。 尽管我也曾想把它忘掉，但是我相信， 如果不去逃避它，一直把它带到生命的终点，总有一天，我会战胜那些往事，让自己变得更强…… 在这个世界上，一定会有一些无论怎样都忘却不掉的事情……所以，我想要敞开自己的胸怀，试着让自己去接受，去相信。——《吸血鬼骑士》
 
@@ -120,9 +102,7 @@ more_tags:
 
 40、你安心地睡吧，就算你将遗忘一切，我也会永远记得。我将为你而生、为你而死。——史提尔《魔法禁书目录》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/sds.jpg" alt="圣斗士" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/sds.jpg" alt="圣斗士" />
 
 41、并不是我想当主角，我就是主角。 ——上条当麻《魔法禁书目录》
 
@@ -142,9 +122,7 @@ more_tags:
 
 49、我本来想过着随便当个忍者，随便赚点钱……然后和不美又不丑的女人结婚生两个小孩，第一个是女孩，第二个是男孩……等女儿结婚，儿子也能够独挡一面的时候，就从忍者的工作退休……之后，每天过着下将棋或围棋的悠闲隐居生活……然后比自己的老婆还要早老死……我就是想过这种生活……  ——鹿丸《火影忍者》
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/huoying.jpg" alt="火影忍者" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/13/classic-lines-of-animation/huoying.jpg" alt="火影忍者" />
 
 50、听着……乔巴，男子汉，即……即使……遇……到可能会杀死自己的强敌……也，也不能倒下。就算对方是……死也赢不了的敌人……男人……有时候是绝对不能逃避……战斗的……！尤其……尤其是当……伙伴的梦想……被人嘲笑的时候！！ ——乌索普《海贼王》
 

@@ -9,6 +9,7 @@ path:
   archive: /archive.html
   categories: /categories.html
   tags: /tags.html
-  uploads: http://202.136.62.195:9099/uploads/
-  resources: http://202.136.62.195:9099/
-  #resources: http://localhost/eorza.github.com/_resources/
+  #uploads: http://202.136.62.195:9099/uploads/
+  #resources: http://202.136.62.195:9099/
+  uploads: http://dobila.bugcook.com/uploads/
+  resources: http://dobila.bugcook.com/

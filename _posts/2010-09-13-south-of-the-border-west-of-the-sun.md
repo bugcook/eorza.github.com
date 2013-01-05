@@ -3,7 +3,7 @@ layout: post
 title: 国境以南，太阳以西
 slug: south-of-the-border-west-of-the-sun
 date: 2010-09-13 14:42:56 +0800
-bgsound: 2010/09/13/south-of-the-border-west-of-the-sun/city-of-time.mp3
+bgsound: 2010/09/13/south-of-the-border-west-of-the-sun/city-of-time.webm
 excerpt: 昨天看了一遍村上的《国境以南，太阳以西》，看完之后感叹了好几次，一叹这么好的小说我竟然没有看过，二叹村上不愧是诺贝尔文学奖得主。感叹完之后又俗气的想怎么就突然就结束了，竟然没有交代岛本究竟有什么样痛苦的生活，竟然可以使人不能回头。想了很久，觉得村上写的小说应该是他自己内心的想法吧，那些不能被大多数人理解的想法，他竟然能拿出来写到小说里面，其实我自己也有很多不被大多数人理解的想法，但是总是放在心里，或许，我也可以像村上一样，把它们写成一些文字。
 categories:
 - lost

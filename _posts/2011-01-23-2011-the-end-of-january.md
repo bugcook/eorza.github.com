@@ -3,7 +3,6 @@ layout: post
 title: 2011年1月底
 slug: 2011-the-end-of-january
 date: 2011-01-23 13:48:42 +0800
-excerpt: 先上个自己喜欢的图，好多人都会觉得，哇，这不非主流吗？我想说的是TMD的你能告诉我你们这些自称非主流的SB们，谁给你们用非主流这个三个字做自己的标称的，谁规定TMD一首蛮好听的歌都要标榜成非主流音乐，谁规定我觉得一很有感觉的图片就是非主流的图片。总结我老师说的话就是：做作。90后的那一小部分自称非主流的SB们，你们就是太做作了。
 categories:
 - lost
 - entry
@@ -11,24 +10,11 @@ tags:
 - video
 - memory
 - photo
-more_categories:
-- slug: lost
-  name: 往事追忆
-- slug: entry
-  name: 日志
-more_tags:
-- video
-- slug: memory
-  name: 回忆
-- slug: photo
-  name: 图片
 ---
 
 做个总结，算是2010年的总结，或者是对2011年的展望，或者什么都不是，纯粹算一个吟唱。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/01/23/2011-the-end-of-january/incere.jpg" alt="incere" />
-</figure>
+<img src="{{ site.path.uploads }}2011/01/23/2011-the-end-of-january/incere.jpg" alt="incere" />
 
 先上个自己喜欢的图，好多人都会觉得，哇，这不非主流吗？我想说的是TMD的你能告诉我你们这些自称非主流的SB们，谁给你们用非主流这个三个字做自己的标称的，谁规定TMD一首蛮好听的歌都要标榜成非主流音乐，谁规定我觉得一很有感觉的图片就是非主流的图片。总结我老师说的话就是：## 做作。90后的那一小部分自称非主流的SB们，你们就是太做作了。
 

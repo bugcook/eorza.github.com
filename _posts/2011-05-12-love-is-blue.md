@@ -3,7 +3,7 @@ layout: post
 title: 爱是蓝色的
 slug: love-is-blue
 date: 2011-05-12 10:18:03 +0800
-bgsound: 2011/05/12/love-is-blue/love-is-blue.mp3
+bgsound: 2011/05/12/love-is-blue/love-is-blue.webm
 excerpt: 对了，关于最近互联网上市热潮，必定会产生泡沫，原因不知道是什么，但是感觉泡沫一定会破灭的，或许这次公司用的网络访问国外网站开始变的不稳定只是我们的DANG们为了尽量阻止人们访问国外的优秀的网站来防止泡沫破灭。国内的网站广告实在太让人受不了了，你看看人人网，打眼一看，花花绿绿的全是广告，是人就应该受不了。
 categories:
 - note

@@ -3,7 +3,7 @@ layout: post
 title: I will survive
 slug: i-will-survive
 date: 2010-07-30 17:11:00 +0800
-bgsound: 2010/07/30/i-will-survive/gloria-gaynor-i-will-survive.mp3
+bgsound: 2010/07/30/i-will-survive/gloria-gaynor-i-will-survive.webm
 excerpt: 1978年 春天Gloria Gaynor在欧洲登台时不小心跌落舞台，使得Gloria Gaynor 脊髓受损并卧病在床达9个月之久，加上复健期间母亲又去世，这许多的打击几乎让她崩溃。出院後，她写下这首 I Will Survive 证明自己战胜了怯懦。
 categories:
 - love

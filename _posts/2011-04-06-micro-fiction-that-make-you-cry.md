@@ -3,7 +3,7 @@ layout: post
 title: 让人流泪的微型小说
 slug: micro-fiction-that-make-you-cry
 date: 2011-04-06 17:11:16 +0800
-bgsound: 2011/04/06/micro-fiction-that-make-you-cry/water-lily.mp3
+bgsound: 2011/04/06/micro-fiction-that-make-you-cry/water-lily.webm
 excerpt: 电话里面This is a wrong number.Please check up and take the telephone number again…….；电话外面孩子，你为什么每天都说外语，妈听不懂，但是妈想你……..
 categories:
 - love
@@ -11,15 +11,6 @@ tags:
 - bgsound
 - moving
 - bad
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: moving
-  name: 感动
-- slug: bad
-  name: 难过
 ---
 
 1.电话里面“This is a wrong number.Please check up and take the telephone number again…….”；电话外面“孩子，你为什么每天都说外语，妈听不懂，但是妈想你……..”
@@ -28,9 +19,7 @@ more_tags:
 
 3.她招手拦了出租车，上车后发现开车的是他！！十年前，他们是亲密的恋人，她在父母的压力下选择了分手，从此在同一个城市从未相见。“你好吗？”“我很好，你呢？”“我也好。”她看到了他手上依然戴着她送的手表；他在她下车时，听到了她背包上那个小铃铛清脆悦耳的声音，那是他送给她的……
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/04/06/micro-fiction-that-make-you-cry/201103241909211354.jpg" alt="201103241909211354" />
-</figure>
+<img src="{{ site.path.uploads }}2011/04/06/micro-fiction-that-make-you-cry/201103241909211354.jpg" alt="201103241909211354" />
 
 4.外婆离开人世的那个黄昏，外公在病房里陪伴着她走完了她生命的最后一段旅程。外婆临去前对外公说‘放学了’。一直假装平静的外公听完这句话后像个孩子似的大哭起来。葬礼结束后我问起外公这三个字的含义，外公告诉我说这是从前他和外婆还在上小学时外婆常说的一句话：放学了，我们一起回家吧。
 

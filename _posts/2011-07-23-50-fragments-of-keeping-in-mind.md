@@ -3,7 +3,7 @@ layout: post
 title: 铭记在心的50个片段
 slug: 50-fragments-of-keeping-in-mind
 date: 2011-07-23 08:28:22 +0800
-bgsound: 2011/07/23/50-fragments-of-keeping-in-mind/If-You-Want-Me.mp3
+bgsound: 2011/07/23/50-fragments-of-keeping-in-mind/If-You-Want-Me.webm
 excerpt: 故事能够唤起我们感受幸福的心情，也能让我们感到悲伤，左右我们的感情。它能帮助我们对现状产生疑问，产制造出深入思考与内省的瞬间，让我们作为不同的个体进化成长。
 categories:
 - love

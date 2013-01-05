@@ -3,7 +3,7 @@ layout: post
 title: 如幻的月光
 slug: dreamin-moonlight
 date: 2010-10-21 13:58:34 +0800
-bgsound: 2010/10/21/dreamin-moonlight/songs-from-a-secret-garden.mp3
+bgsound: 2010/10/21/dreamin-moonlight/songs-from-a-secret-garden.webm
 excerpt: 初升的月亮把阴影拉长了，林间小径好像一条银灰色的蛇躺着睡觉，矮橡丛弯弯曲曲的阴影成了蛇身的纹彩。路旁一块斑驳的花岗岩刚经雨淋湿，光亮得如同抽打磨过的青铜块。松林矗立山顶，饱受风霜与岁月的侵凌。松枝迎风摇曳，像是在抚摸月亮的脸，想抹掉那遮掩清光的灰色皱纹。
 categories:
 - love

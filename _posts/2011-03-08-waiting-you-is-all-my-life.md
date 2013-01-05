@@ -3,26 +3,16 @@ layout: post
 title: 等待雨，是伞一生的宿命
 slug: waiting-you-is-all-my-life
 date: 2011-03-08 09:54:30 +0800
-excerpt: 如果我是你的一颗泪珠，我会落到你的唇间，长驻你的心里；如果你是我的一颗泪珠，我一辈子也不会哭，因为我怕失去你……再过好多年，在白云悬碧空的秋日，在夕阳恋红叶的午后，当我重新翻开你的那一页时，依然会感受到潮湿的印痕……
 categories:
 - entry
 tags:
 - memory
 - heart
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- slug: memory
-  name: 回忆
-- slug: heart
-  name: 心情
 ---
 
 爱情是场梦，可有些人却总睡过了头～
 
 你为了一个美丽的未来，放弃了我们温暖的现在……
-
 
 都说牛郎和织女是最痛苦的，一年只会一天。
 
@@ -36,9 +26,7 @@ more_tags:
 
 于是，每当天空想大地的时候，就会下起倾盆大雨……
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/08/waiting-you-is-all-my-life/girl.jpg" alt="小女孩" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/08/waiting-you-is-all-my-life/girl.jpg" alt="小女孩" />
 
 偷偷地看你，偷偷地想你，偷偷地爱你——最后，偷偷地哭了……
 

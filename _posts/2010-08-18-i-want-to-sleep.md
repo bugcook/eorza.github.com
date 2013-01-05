@@ -3,7 +3,7 @@ layout: post
 title: 好困一个
 slug: i-want-to-sleep
 date: 2010-08-18 15:56:48 +0800
-bgsound: 2010/08/18/i-want-to-sleep/Radical-Face-A-Little-Hell.mp3
+bgsound: 2010/08/18/i-want-to-sleep/Radical-Face-A-Little-Hell.webm
 excerpt: 公司新买了一台超牛逼的服务器，我正在配置，放弃了我擅长的linux，我装上了freebsd，装上之后，感觉一般，操作起来没跟linux没什么大的区别，现在正在更新ports tree，奶奶的公司网速太慢，要半个小时，趁着这点时间，就更新一下日志吧。
 categories:
 - lost

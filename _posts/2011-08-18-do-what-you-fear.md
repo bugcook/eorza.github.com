@@ -3,32 +3,20 @@ layout: post
 title: 做你畏惧的事
 slug: do-what-you-fear
 date: 2011-08-18 09:05:29 +0800
-bgsound: 2011/08/18/do-what-you-fear/girl-singing-in-the-wreckage.mp3
-excerpt: 当你觉得你无法完成一件事或者将会搞砸一件事的时候，恐惧感就会产生。但是，假如你去尝试，就会意识到那种恐惧其实是毫无依据的，尽管你当时害怕得要死。如果你对你自己说不管发生什么事我就是要那样做，恐惧感就会消失得无影无踪。许多情况下，你会觉得死亡是最件糟糕的事，但是你必须要认识到的是你有点夸大其词了。
+bgsound: 2011/08/18/do-what-you-fear/girl-singing-in-the-wreckage.webm
 categories:
 - love
 tags:
 - bgsound
 - bbarticle
 - talk
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: bbarticle
-  name: 美文
-- slug: talk
-  name: 语录
 ---
 
 你必须要去做你认为自己无法做到的事。这个东西我倒是没有尝试过，不过这是对的，做你不愿意做和恐怖的事情，对一个人是很有意义的。
 
 你有无能为力的时候吗？你甘于在每一件事前感到恐惧吗？下面给你给出了解决问题的办法。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/18/do-what-you-fear/guitar.jpg" alt="guitar" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/18/do-what-you-fear/guitar.jpg" alt="guitar" />
 
 当你觉得你无法完成一件事或者将会搞砸一件事的时候，恐惧感就会产生。但是，假如你去尝试，就会意识到那种恐惧其实是毫无依据的，尽管你当时害怕得要死。如果你对你自己说不管发生什么事我就是要那样做，恐惧感就会消失得无影无踪。许多情况下，你会觉得死亡是最件糟糕的事，但是你必须要认识到的是你有点夸大其词了。
 

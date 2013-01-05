@@ -3,7 +3,7 @@ layout: post
 title: 天地不仁
 slug: heartless-world
 date: 2011-06-10 20:08:33 +0800
-bgsound: 2011/06/10/heartless-world/Das.mp3
+bgsound: 2011/06/10/heartless-world/Das.webm
 excerpt: 最近好久没有关注最新信息了，时间有点紧凑，今天早上提醒自己一定要记住开着NBA的视频或者文字直播，好关注一下，结果到了12点，还是失败了，竟然忘记了。说起NBA，我是很怀念的，那是一个早上，你懂得，完事之后正好小旅馆里面正在直播湖人跟忘记哪个队的一场比赛了。反正是我是兴致勃勃的看完了，虽然忘记了比赛结果。那些过去的日子令我怀念，如今该生的生该结的结，都随风而去了。
 categories:
 - lost

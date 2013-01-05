@@ -3,20 +3,12 @@ layout: post
 title: 通过这些细节看人
 slug: look-through-someone-by-details
 date: 2010-12-07 09:23:13 +0800
-excerpt: 耸肩摊手：这种动作是表示自己无所谓。这类人大都为人热情，而且诚恳，富有想象力，会创造生活，也会享受生活，他们追求的最大幸福是生活在和睦、舒畅的环境中。
 categories:
 - love
 tags:
 - photo
 - bbarticle
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: photo
-  name: 图片
-- slug: bbarticle
-  name: 美文
+- photo
 ---
 
 条件反射喜欢去关门，拉窗帘，尤其在说一些私密的话的时候的人，以前曾经有偷窥别人的经历
@@ -34,9 +26,7 @@ more_tags:
 
 折磨别人的人最恐惧的是，别人用自己折磨别人的方式折磨自己，其实当一个人以一种方式折磨别人的话，那么他心里其实是最恐惧的
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/12/07/look-through-someone-by-details/details.jpg" alt="details" />
-</figure>
+<img src="{{ site.path.uploads }}2010/12/07/look-through-someone-by-details/details.jpg" alt="details" />
 
 越寂寞的人越喜欢逛黑夜，不信你可以试试
 

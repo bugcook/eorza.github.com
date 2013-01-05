@@ -3,7 +3,7 @@ layout: post
 title: 每天说再见
 slug: say-goodbye-everyday
 date: 2010-10-15 16:53:11 +0800
-bgsound: 2010/10/15/say-goodbye-everyday/Surrender.mp3
+bgsound: 2010/10/15/say-goodbye-everyday/Surrender.webm
 excerpt: 每天都在跟过去说再见，但是每天都失败。想起一个朋友的签名，晚上想想千条路，早上起来走原路。确实挺无奈的，无奈的事情太多了，只好默认了。生活就像被QJ，如果不能反抗就只好躺下来享受，但当我躺下来的时候生活就泻了。任何事情都是与自己的意念有那么一点的反向的，你想往左，生活总有拉你向右的动向。
 categories:
 - lost

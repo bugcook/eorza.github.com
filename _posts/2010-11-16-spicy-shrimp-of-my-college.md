@@ -3,7 +3,7 @@ layout: post
 title: 我的大学之香辣虾
 slug: spicy-shrimp-of-my-college
 date: 2010-11-16 17:35:13 +0800
-bgsound: 2010/11/16/spicy-shrimp-of-my-college/Princess-Of-The-Moon.mp3
+bgsound: 2010/11/16/spicy-shrimp-of-my-college/Princess-Of-The-Moon.webm
 excerpt: 不知道香辣虾发源于哪个地方，我在合肥跟青岛都没有见过，所以很有可能就是淮南有。大学毕业后，在外面吃饭吃多了，才发现，其实那个东西就是火锅，差别就在于你吃火锅之前的锅底是有一些虾子的，很油很辣很好吃。上学的时候钱少的可怜，我家里才给我600快，加上自己这弄点那弄点，一个月差不多能花的钱也就800来块，所以很少在外面吃饭的。在外面吃饭对于我来说最奢侈最好吃的东西就是这些虾子了。
 categories:
 - lost

@@ -3,7 +3,7 @@ layout: post
 title: 意外的看不开
 slug: can-not-convince-myself-by-accident
 date: 2011-03-01 14:05:14 +0800
-bgsound: 2011/03/01/can-not-convince-myself-by-accident/Cocoon-Chupee.mp3
+bgsound: 2011/03/01/can-not-convince-myself-by-accident/Cocoon-Chupee.webm
 excerpt: 相遇的时候如果是个意外，离别的时候意外的看不开。虽然是曾哥的歌，但是阻挡不了我对这句话的喜爱。我曾经喜欢过很多的东西，比如我喜欢几米、小王子、when youre gone等等很多，一时想不起来了。真后悔没有早点开博客，记录自己喜欢的东西。现在的好多东西都已经忘记了。
 categories:
 - entry

@@ -3,17 +3,10 @@ layout: post
 title: 十大悬疑电影
 slug: ten-suspense-film
 date: 2011-03-28 17:38:19 +0800
-excerpt: 以下入选的十部电影被称为史上智商最高的电影、最看不明白的电影，来挑战一下自己的智商、一口气过足悬疑瘾吧！看完其中的几部，感觉《盗梦空间》在剧情逻辑上真是太小儿科了。当然，大部人都喜欢的是逻辑简单一点的电影。
 categories:
 - love
 tags:
 - film
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: film
-  name: 电影
 ---
 
 以下入选的十部电影被称为“史上智商最高的电影”、“最看不明白的电影”，来挑战一下自己的智商、一口气过足悬疑瘾吧！看完其中的几部，感觉《盗梦空间》在剧情逻辑上真是太小儿科了。当然，大部人都喜欢的是逻辑简单一点的电影。
@@ -22,9 +15,7 @@ more_tags:
 
 《穆赫兰道》被称为史上最难看懂的电影。据说大部分人都需要靠影评辅助才能真正明白导演想表达的意思，你想不想挑战一下自己呢？
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Mulholland-Drive.jpg" alt="Mulholland Drive" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Mulholland-Drive.jpg" alt="Mulholland Drive" />
 
 【剧情简介】
 
@@ -34,14 +25,11 @@ After a car wreck on the winding Mulholland Drive renders a woman amnesic, she a
 
 这些看似松散的事件，就像一个迷宫，引向一个让人猜不透的世界……
 
-
 ## 2.生死停留 Stay
 
 《生死停留》在影片前120分钟都只是一个有点离奇的平铺直叙的故事而已，但最后十分钟却有大反转、颠覆整个影片的视角。不过至于看到最后你能不能明白，就是个人造化了。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Stay.jpg" alt="Stay" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Stay.jpg" alt="Stay" />
 
 【剧情简介】
 
@@ -55,9 +43,7 @@ This movie focuses on the attempts of a psychiatrist to prevent one of his patie
 
 The first rule of Fight Club is, you do not talk about Fight Club. The second rule of Fight Club is, you DO NOT talk about Fight Club...
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Fight-Club.jpg" alt="Fight Club" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Fight-Club.jpg" alt="Fight Club" />
 
 【剧情简介】
 
@@ -73,9 +59,7 @@ An office employee and a soap salesman build a global organization to help vent 
 
 当记忆支离破碎后，你该怎样面对生活？本片的主人公就遭遇了这样的事情。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Memento.jpg" alt="Memento" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Memento.jpg" alt="Memento" />
 
 【剧情简介】
 
@@ -91,9 +75,7 @@ A man, suffering from short-term memory loss, uses notes and tattoos to hunt for
 
 榜单进行到《蝴蝶效应》终于开始跳脱“最后大反转”的悬疑片叙事模式，但这并没有减低《蝴蝶效应》的悬疑成分。该片之所以能成为经典，是因为它给出了一种全新的假设，让人欲罢不能。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Butterfly-Effect.jpg" alt="The Butterfly Effect" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Butterfly-Effect.jpg" alt="The Butterfly Effect" />
 
 【剧情简介】
 
@@ -105,9 +87,7 @@ A young man blocks out harmful memories of significant events of his life. As he
 
 这部今年早些时候公映的悬疑片同样是里昂那多的作品，大叔近年来似乎特别钟情此类题材的电影。禁闭岛也是部好电影，甚至有人认为它的叙事结构比《盗梦空间》更严谨。是否真的如此看官你就要自己判断啦。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Shuttle-Island.jpg" alt="Shuttle Island" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Shuttle-Island.jpg" alt="Shuttle Island" />
 
 【剧情简介】
 
@@ -119,9 +99,7 @@ Drama set in 1954, U.S. Marshal Teddy Daniels is investigating the disappearance
 
 ## 7.致命ID Identity
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/ID-Identity.jpg" alt="ID Identity" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/ID-Identity.jpg" alt="ID Identity" />
 
 【剧情简介】
 
@@ -133,9 +111,7 @@ Stranded at a desolate Nevada motel during a nasty rainstorm, ten strangers beco
 
 ## 8.死亡幻觉 Donnie Darko
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Donnie-Darko.jpg" alt="Donnie Darko" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/Donnie-Darko.jpg" alt="Donnie Darko" />
 
 【剧情简介】
 
@@ -149,9 +125,7 @@ A troubled teenager is plagued by visions of a large bunny rabbit that manipulat
 
 ## 9.万能钥匙 The Skeleton Key
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Skeleton-Key.jpg" alt="The Skeleton Key" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Skeleton-Key.jpg" alt="The Skeleton Key" />
 
 【剧情简介】
 
@@ -161,9 +135,7 @@ A hospice nurse working at a spooky New Orleans plantation home finds herself en
 
 ## 10.致命魔术 The Prestige
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Prestige.jpg" alt="The Prestige" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/28/ten-suspense-film/The-Prestige.jpg" alt="The Prestige" />
 
 【剧情简介】
 

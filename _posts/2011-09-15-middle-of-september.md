@@ -3,7 +3,7 @@ layout: post
 title: 9月中旬
 slug: middle-of-september
 date: 2011-09-15 11:55:36 +0800
-bgsound: 2011/09/15/middle-of-september/Song-for-the-Lord.mp3
+bgsound: 2011/09/15/middle-of-september/Song-for-the-Lord.webm
 excerpt: 9月中旬，刚写了一点东西，累了，就写个记录吧，最近烦心事挺多的。我仔细想了想，其实也没什么烦心的事情，只是想想未来，想想出路，就觉得有点迷茫，好在总有个目标，不管自己喜欢不喜欢，总是要努力去做的。
 categories:
 - note

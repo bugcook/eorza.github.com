@@ -3,7 +3,7 @@ layout: post
 title: vim7.3任意字体
 slug: vim-73-any-fonts
 date: 2011-05-27 15:14:25 +0800
-bgsound: 2011/05/27/vim-73-any-fonts/noname.mp3
+bgsound: 2011/05/27/vim-73-any-fonts/noname.webm
 excerpt: 这里提供的vim不光是任意字体，而且还取消了windows窗口的阴影边框（有的人叫3D边框），个人觉得那个边框好厚重一个，不美观，所以就去掉了，然后加了可以支持任意字体的东西。
 categories:
 - note

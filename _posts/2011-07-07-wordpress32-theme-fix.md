@@ -3,7 +3,7 @@ layout: post
 title: wordpress3.2主题修改
 slug: wordpress32-theme-fix
 date: 2011-07-07 10:48:13 +0800
-bgsound: 2011/07/07/wordpress32-theme-fix/Chansondetoile.mp3
+bgsound: 2011/07/07/wordpress32-theme-fix/Chansondetoile.webm
 excerpt: 记得刚开始接触wordpress的时候，我崇尚的是速度，追求所有的东西都要无插件实现，不过后来，我发现，改了一些东西之后我开始记不住我改在哪里了，我已经对它失去控制了，我想如果我升级的话，我有要改很多东西，于是我喜欢上了插件，于是我喜欢上了自己写插件。
 categories:
 - entry

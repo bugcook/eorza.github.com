@@ -9,14 +9,6 @@ categories:
 tags:
 - computer
 - program
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: computer
-  name: 电脑
-- slug: program
-  name: 编程
 ---
 
 可能除了哲学家以外，笔者认为程序员是最懒的一群人。他们的职业看起来又似乎有一定的劳动强度。
@@ -33,9 +25,7 @@ more_tags:
 
 程序员的生活就是致力于消除重复的工作。
 
-<figure>
-	<img src="{{ site.path.uploads }}2012/04/16/lazy-programer/coding.jpg" alt="coding" />
-</figure>
+<img src="{{ site.path.uploads }}2012/04/16/lazy-programer/coding.jpg" alt="coding" />
 
 将琐碎地任务从我们的工作流程中剔除，这能让每个人生活得更轻松。这里有一个经典的笑话，说一个程序员情愿用一周的时间来写一个拷贝脚本，也不愿意将相同的文件复制粘贴两次，尽管复制粘贴可能只需要两分钟。
 
@@ -44,7 +34,6 @@ more_tags:
 这当然会导致很多问题。
 
 一般的软件项目充满了在顶层抽象类上构建的抽象类，你慢慢地会不清楚这些顶层抽象类将如何工作。甚至你完全不知道其代码在做什么。”Dizzying but invisible depth“，涉及到这个问题时，你真的应该读读这篇短文。
-
 
 另一方面，懒惰本身已经证明了历史上许多科学和工程发展所带来的背后推动力。用有轮子的拖车运东西比人工搬运要轻松；用船在水中前行比游泳来得容易；甚至如果你他妈的想炸掉一座城市，你投掷一颗原子弹也比投掷几千个小炸弹来的容易。
 

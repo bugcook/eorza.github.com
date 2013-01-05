@@ -3,7 +3,7 @@ layout: post
 title: 这些年
 slug: these-years
 date: 2012-02-17 17:39:53 +0800
-bgsound: 2012/02/17/these-years/All-Good-Things.mp3
+bgsound: 2012/02/17/these-years/All-Good-Things.webm
 excerpt: 想起刚建立这个博客的时候，交了很多的朋友，大家每天都在更新文章，大家每天都互踩，即使留言只是一句飘过，但是仍然能感到一阵的小幸福。那时，几乎所有我感兴趣的东西都往这个地方放。不过马上大家都开始忙了起来，博客由每天一更变成每月一更，更有的几乎变成年博了，联系不到了。再后来，我的友情连接慢慢的由一大长条变成只有几个，虽然大家好像都是月经博。
 categories:
 - entry

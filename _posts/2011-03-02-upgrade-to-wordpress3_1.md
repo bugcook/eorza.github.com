@@ -3,7 +3,7 @@ layout: post
 title: 升级至Wordprss3.1
 slug: upgrade-to-wordpress3_1
 date: 2011-03-02 18:28:54 +0800
-bgsound: 2011/03/02/upgrade-to-wordpress3_1/CopaCabana.mp3
+bgsound: 2011/03/02/upgrade-to-wordpress3_1/CopaCabana.webm
 excerpt: 前两天wordpress升级到了3.1版本，我也追逐一下潮流，把我的博客也升级了，本来想把我所有的东西做成一个插件，以便以后升级的时候会方便，但是想想还是算掉了，因为本人打算以后有重大升级的时候才考虑升级，而且即使做成插件，升级的时候也会因为调用函数改变之后要重写，还不若这样直接该来的爽快来的潇洒。
 categories:
 - note

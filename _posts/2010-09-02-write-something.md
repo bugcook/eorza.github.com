@@ -3,7 +3,7 @@ layout: post
 title: 写点什么
 slug: write-something
 date: 2010-09-02 21:05:03 +0800
-bgsound: 2010/09/02/write-something/thh.mp3
+bgsound: 2010/09/02/write-something/thh.webm
 excerpt: 跟同学聊天，大家都很没有方向，不知道自己在做什么，都感觉没有目标，我也是，真的不知道自己喜欢做什么。我想花一年的时间，在青岛这个地方好好想清楚自己要做点什么，自己想做什么。现在已经过去三分之二的时间了，还是没想清楚，也或者是世界上根本没有人去做真正喜欢做的事情，也或者是只有很少人能去追逐自己的梦想，更或者是大部分人心中的理想就是赚钱升官。
 categories:
 - lost

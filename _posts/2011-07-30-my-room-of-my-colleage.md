@@ -3,8 +3,7 @@ layout: post
 title: 我的大学之四人寝室
 slug: my-room-of-my-colleage
 date: 2011-07-30 13:47:36 +0800
-bgsound: 2011/07/30/my-room-of-my-colleage/our-memory.mp3
-excerpt: 一般的学校宿舍都是四个人一个房间，我们学校也不例外。我的宿舍，很普通，普通的无法用言语来表达了，但是对于我，对于gay，领导，小鸡都是很重要很重要的东西，那些可以值得称为回忆的东西。
+bgsound: 2011/07/30/my-room-of-my-colleage/our-memory.webm
 categories:
 - university
 - entry
@@ -14,21 +13,7 @@ tags:
 - memory
 - college
 - leave
-more_categories:
-- slug: university
-  name: 我的大学
-- slug: entry
-  name: 日志
-- slug: alumn
-  name: 相册
-more_tags:
-- bgsound
-- slug: memory
-  name: 回忆
-- slug: college
-  name: 大学
-- slug: leave
-  name: 散伙
+- photo
 ---
 
 一般的学校宿舍都是四个人一个房间，我们学校也不例外。我的宿舍，很普通，普通的无法用言语来表达了，但是对于我，对于gay，领导，小鸡都是很重要很重要的东西，那些可以值得称为回忆的东西。

@@ -3,7 +3,7 @@ layout: post
 title: Feed Your Mind
 slug: feed-your-mind
 date: 2011-04-18 15:17:47 +0800
-bgsound: 2011/04/18/feed-your-mind/Feed-Your-Mind.mp3
+bgsound: 2011/04/18/feed-your-mind/Feed-Your-Mind.webm
 excerpt: 分享几篇英文读音文章阅读，喜欢的英文的朋友可以听一听，看一看，背一背。听别人说学习英语就要背诵，我想也是。高中时候的英文还算可以，考试也过120分了，不过好几年不学了，已经忘记很多了。
 categories:
 - entry

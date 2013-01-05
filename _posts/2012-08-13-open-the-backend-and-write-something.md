@@ -3,7 +3,7 @@ layout: post
 title: 打开后台写点东西
 slug: open-the-backend-and-write-something
 date: 2012-08-13 08:28:07 +0800
-bgsound: 2012/08/13/open-the-backend-and-write-something/stonefile.mp3
+bgsound: 2012/08/13/open-the-backend-and-write-something/stonefile.webm
 excerpt: 最近懒得不行，总是不想做东西，睡的我腰酸背疼，也没有时间思考人生跟现实了。我想这是不是一种退化，或者平淡之前的象征。我都打算找份安分点的工作来做，或者努力的去考个公务员。我忽然觉得这些东西太美好了，中午喝点啤酒下午睡觉。
 categories:
 - qingdao

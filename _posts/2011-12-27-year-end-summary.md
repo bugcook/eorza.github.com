@@ -3,7 +3,7 @@ layout: post
 title: 年终总结
 slug: year-end-summary
 date: 2011-12-27 12:15:00 +0800
-bgsound: 2011/12/27/year-end-summary/Our-Sun-II.mp3
+bgsound: 2011/12/27/year-end-summary/Our-Sun-II.webm
 excerpt: 不过高兴的是，过了春节会有很多的事情发生，比如windows8 beta，比如暗黑3，比如webrtc终于要集成在chrome中，比如android4 rom的发出等等，对我都是很高兴的事情。前一阵子突然的低沉，不知道自己想要什么，不知道应该做什么，搞的自己也快精神病了。后来我终于又一次想通了，又一次用了我一直用的方法来劝慰自己：如果不知道应该做什么，就努力的去赚钱吧，既然大家都在努力的赚钱，那么有了钱就一定有他的好处。
 categories:
 - qingdao

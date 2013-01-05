@@ -3,7 +3,7 @@ layout: post
 title: 秋天已经过去
 slug: autumn-have-gone
 date: 2010-11-10 19:46:43 +0800
-bgsound: 2010/11/10/autumn-have-gone/tears.mp3
+bgsound: 2010/11/10/autumn-have-gone/tears.webm
 excerpt: 或许某天我会出去走走，感受一下冰凉的气息，或许我应该去海边一趟，还没有在冬天到海边玩过，冬天的海风是什么样的味道。夏天的海边，我躺在宾馆里面读完了海边的卡夫卡，冬天我或许还要去读本书。我已经想好了，2012年我要出去走走，不管到哪里，哪里都无所谓，我要出去走走，一个人出去走走。
 categories:
 - lost

@@ -3,7 +3,6 @@ layout: post
 title: if you want me
 slug: if-you-want-me
 date: 2010-10-26 16:51:18 +0800
-excerpt: 一个网友在他的博客中推荐了一部电影，名字是《once》，先是听了里面的女主角唱的那首《if you want me》，然后小感动了一下。看完了电影，心里又狠狠的感动了一小下，自己想了想为什么要感动，想不出来，其实很多事情都是没有原因的，只是感动。后来我想，很多让我们感动而又不知道为什么的事情是发生在我们上辈子的事情吧，只是此时被人拿出来而已。
 categories:
 - love
 tags:
@@ -11,24 +10,12 @@ tags:
 - moving
 - song
 - truelove
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- video
-- slug: moving
-  name: 感动
-- slug: song
-  name: 歌曲
-- slug: truelove
-  name: 爱情
+- photo
 ---
 
 一个网友在他的博客中推荐了一部电影，名字是《once》，先是听了里面的女主角唱的那首《if you want me》，然后小感动了一下。看完了电影，心里又狠狠的感动了一小下，自己想了想为什么要感动，想不出来，其实很多事情都是没有原因的，只是感动。后来我想，很多让我们感动而又不知道为什么的事情是发生在我们上辈子的事情吧，只是此时被人拿出来而已。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/10/26/if-you-want-me/once1.jpg" alt="once" />
-</figure>
+<img src="{{ site.path.uploads }}2010/10/26/if-you-want-me/once1.jpg" alt="once" />
 
 那种茫茫人海中偶然遇到的温暖和亲切，那种情到深处带来的孤独，那种不愿草率的眼神和微笑，那种内心伤痛曲折的表达，那种从别人身上看到自己延绵的寂寞和闪烁的梦想——都是那么似曾相识。这是影评里面的一句话，确实，茫茫人海相遇确实让人心动，让人温暖。下面的视频是自己截取的，可以看一看。
 
@@ -135,4 +122,5 @@ more_tags:
 
 > 就满足我
 > Satisfy me
+
 

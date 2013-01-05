@@ -3,7 +3,7 @@ layout: post
 title: 那多花
 slug: we-still-do-not-know-the-name-of-the-flower-that-day-we-see
 date: 2011-06-20 17:20:40 +0800
-bgsound: 2011/06/20/we-still-do-not-know-the-name-of-the-flower-that-day-we-see/nico.mp3
+bgsound: 2011/06/20/we-still-do-not-know-the-name-of-the-flower-that-day-we-see/nico.webm
 excerpt: wordpress3.2还没有出来，也不急着更新了。最近中国互联网们被马云害的不浅，对这事咱不去评论，毕竟资格不够。我想说的是那些评论家们，我真的很费解，他们竟然拿那个东西吃饭，而且好像只是批评家，不管什么事情，自己懂也好不懂也好，一番批评。大哥们，你们最起码先去学学电脑怎么开机，你才去评论比尔盖茨啊。
 categories:
 - entry

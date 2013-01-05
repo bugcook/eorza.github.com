@@ -3,7 +3,7 @@ layout: post
 title: 最后悔的5件事
 slug: the-most-5-regret-things
 date: 2011-06-15 08:03:43 +0800
-bgsound: 2011/06/15/the-most-5-regret-things/Yellow.mp3
+bgsound: 2011/06/15/the-most-5-regret-things/Yellow.webm
 excerpt: 心理学上有个理论，较之那些我们做过的事，人们后悔的往往是那些没做的事。所以当人们在生命尽头往回看时，往往会发现有好多梦想应该实现，却没有实现。你的生活方式、你的工作、你的感情、你的伴侣，其实我们多少人过着的是别人希望你过的生活，而不是自己真正想要的生活——又可能，一直以来你把别人希望你过的生活当作是你想要的生活。
 categories:
 - love

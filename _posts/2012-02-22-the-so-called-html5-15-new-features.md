@@ -139,11 +139,11 @@ HTML5中的新属性“required”指定了某一输入是否必需。有两种�
 
 	<audio autoplay="autoplay" controls="controls">
 		<source src="file.ogg" />
-		<source src="file.mp3" />
+		<source src="file.webm" />
 		Download this file.
 	</audio>
 
-当使用`<audio>`元素时请记得包含两种音频格式。FireFox想要.ogg格式的文件，而Webkit浏览器则需要.mp3格式的。和往常一样，IE是不支持的，且Opera 10及以下版本只支持.wav格式。
+当使用`<audio>`元素时请记得包含两种音频格式。FireFox想要.ogg格式的文件，而Webkit浏览器则需要.webm格式的。和往常一样，IE是不支持的，且Opera 10及以下版本只支持.wav格式。
 
 ## 12.Video 支持 (Video Support)
 

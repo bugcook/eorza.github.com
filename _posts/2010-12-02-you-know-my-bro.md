@@ -3,17 +3,11 @@ layout: post
 title: 兄弟，你懂得
 slug: you-know-my-bro
 date: 2010-12-02 16:54:10 +0800
-excerpt: 兰兰逛商场，碰巧看见Sony公司正在推销一种新玩偶——嗯一声它就能动左腿，啊一声它就会动右腿，她觉得挺好玩，于是买了一个回去。结果当天夜晚，那个木偶就离家出走！
 categories:
 - funny
 tags:
 - haha
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
+- photo
 ---
 
 
@@ -142,9 +136,7 @@ more_tags:
 
 25. 一个外星人被中国人抓住。北京人说送中科院研究研究吧，上海人说送到动物园展览卖高价票吧，广东人眼睛一亮说杀了生吃吧。这时，科大某系一男生看见大吼一声……
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/12/02/you-know-my-bro/youknow.jpg" alt="youknow" />
-</figure>
+<img src="{{ site.path.uploads }}2010/12/02/you-know-my-bro/youknow.jpg" alt="youknow" />
 
 26. 一只小鸟穿着防弹衣在一棵大树上快乐地跳舞。这时，来了一个猎人，“砰”一抢打死了这只小鸟，子弹正中小鸟的心脏。
 

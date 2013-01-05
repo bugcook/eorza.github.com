@@ -3,29 +3,15 @@ layout: post
 title: 呃，好久不见
 slug: its-too-long
 date: 2010-09-24 20:32:34 +0800
-bgsound: 2010/09/24/its-too-long/dont-they-know.mp3
-excerpt: 今天早上的起来的时候爬山的时候照的，我跟朋友沿着盘山公路走了一会儿，我问他，走到尽头要多久，他说要两个小时，我就停下来了，你看，走到尽头只要两个小时我都不愿意走到。可是是不愿意还是害怕呢？
+bgsound: 2010/09/24/its-too-long/dont-they-know.webm
 categories:
 - qingdao
 - lost
 tags:
 - bgsound
-- song
 - talk
 - qd
-more_categories:
-- slug: qingdao
-  name: 在青岛
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: song
-  name: 歌曲
-- slug: talk
-  name: 语录
-- slug: qd
-  name: 青岛
+- photo
 ---
 
 呃，好久不见，原来你已不在。
@@ -38,48 +24,23 @@ more_tags:
 
 这两天去海边玩了，傍晚的时候到的，太阳还没有落山，照了几张照片。其实说起来更新这篇日志就是为了这个，其他纯属瞎扯的。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/09/24/its-too-long/light.jpg" alt="light" />
-	<figcaption>
-		路灯，虽然太阳还是没有完全熄灭，但是路灯已经亮起来了。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/09/24/its-too-long/light.jpg" alt="light" />
 
 路灯，虽然太阳还是没有完全熄灭，但是路灯已经亮起来了。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/09/24/its-too-long/linefuck.jpg" alt="linefuck" />
-	<figcaption>
-		很喜欢这种感觉，只是这可恶的电线杆，和电线。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/09/24/its-too-long/linefuck.jpg" alt="linefuck" />
 
 很喜欢这种感觉，只是这可恶的电线杆，和电线。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/09/24/its-too-long/meme.jpg" alt="meme" />
-	<figcaption>
-		这种模糊的感觉，很模糊很模糊，让人禁不住想起小的时候。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/09/24/its-too-long/meme.jpg" alt="meme" />
 
 这种模糊的感觉，很模糊很模糊，让人禁不住想起小的时候。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/09/24/its-too-long/white.jpg" alt="white" />
-	<figcaption>
-		那个，那个，不知道是什么原因，手机一下子曝光了，就成这个样子了，不过，这个样子也挺好的。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/09/24/its-too-long/white.jpg" alt="white" />
 
 那个，那个，不知道是什么原因，手机一下子曝光了，就成这个样子了，不过，这个样子也挺好的。
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/09/24/its-too-long/seatree.jpg" alt="seatree" />
-	<figcaption>
-		今天早上的起来的时候爬山的时候照的，我跟朋友沿着盘山公路走了一会儿，我问他，走到尽头要多久，他说要两个小时，我就停下来了，你看，走到尽头只要两个小时我都不愿意走到。可是是不愿意还是害怕呢？
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2010/09/24/its-too-long/seatree.jpg" alt="seatree" />
 
 今天早上的起来的时候爬山的时候照的，我跟朋友沿着盘山公路走了一会儿，我问他，走到尽头要多久，他说要两个小时，我就停下来了，你看，走到尽头只要两个小时我都不愿意走到。可是是不愿意还是害怕呢？
 

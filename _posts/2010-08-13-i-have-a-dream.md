@@ -3,7 +3,7 @@ layout: post
 title: I Have A Dream
 slug: i-have-a-dream
 date: 2010-08-13 10:30:09 +0800
-bgsound: 2010/08/13/i-have-a-dream/Ihaveadream.mp3
+bgsound: 2010/08/13/i-have-a-dream/Ihaveadream.webm
 excerpt: 在美国，曾经有这样一个黑人，他是一个奴隶的后代，他把毕生的精力都投入到为了黑人的平等和自由而进行的民权运动中。在他风华正茂的时候，却在砰的一声枪响中结束了年轻的生命。他的鲜血在地上画出了一个大大的惊叹号！后来，美国人为了纪念他，用他的生日命名了一个节日。今天，他的著名的演说：I HAVE A DREAM仍旧被人们广泛地传颂着。他，就是美国著名的民权运动的领导人—— 马丁·路德·金。
 categories:
 - love

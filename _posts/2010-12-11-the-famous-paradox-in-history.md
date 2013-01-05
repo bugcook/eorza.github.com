@@ -3,17 +3,10 @@ layout: post
 title: 历史上著名的悖论
 slug: the-famous-paradox-in-history
 date: 2010-12-11 12:15:24 +0800
-excerpt: 在中国古代《墨经》中，也有一句十分相似的话：以言为尽悖，悖，说在其言。意思是：以为所有的话都是错的，这是错的，因为这本身就是一句话。
 categories:
 - love
 tags:
 - philosophy
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: philosophy
-  name: 哲学
 ---
 
 ## NO.1 说谎者悖论(1iar paradox or Epimenides’ paradox)
@@ -46,9 +39,7 @@ more_tags:
 
 如果另外一个人来给他刮脸，那他就是不自己刮脸的人。但是，他的招牌说他要给所有这类人刮脸。因此其他任何人也不能给他刮脸。看来，没有任何人能给这位理发师刮脸了！
 
-<figure>
-	<img src="{{ site.path.uploads }}2010/12/11/the-famous-paradox-in-history/paradox.jpg" alt="paradox" />
-</figure>
+<img src="{{ site.path.uploads }}2010/12/11/the-famous-paradox-in-history/paradox.jpg" alt="paradox" />
 
 ## NO.4 唐·吉诃德悖论
 
@@ -68,6 +59,5 @@ M：这时，卫兵也和鳄鱼一样慌了神，如果他们不把这人绞死�
 ## NO.5 墨经悖论
 
 在中国古代《墨经》中，也有一句十分相似的话：“以言为尽悖，悖，说在其言。”意思是：以为所有的话都是错的，这是错的，因为这本身就是一句话。
-
 
 

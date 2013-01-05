@@ -3,20 +3,11 @@ layout: post
 title: 房子跟梦想
 slug: house-and-dream
 date: 2011-03-22 09:19:28 +0800
-excerpt: 但是安全感真的可以来自于一套房子吗？这是我们要拆掉的思维之墙。在这个房价、股票日益动荡的社会，在这个跌跌碰碰从国有体制加速进入信息时代的社会，我们的安全感真的可以来自于一件物品吗？即使说房子真的可以换回来安全感，那么出卖梦想来换，真的值吗？
 categories:
 - other
 tags:
 - 80-decade
 - house
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: 80-decade
-  name: 80后
-- slug: house
-  name: 房子
 ---
 
 从职业发展来看，一套房子消灭一个梦想。我们尝试翻阅国内大部分创业者的成功档案，发现他们都在最适合开始创业的年代，选择创业而不是买房。
@@ -28,9 +19,7 @@ more_tags:
 
 与他们持类似观点的还有国内房产业大佬王石。2008年初，国内楼市初现调整之时，王石抛出了惊人之语：“对于那些事业没有最后定型，还有抱负、有理想的年轻人来说，40岁之前租房为好。”
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/03/22/house-and-dream/red.jpg" alt="要买房子吗？" />
-</figure>
+<img src="{{ site.path.uploads }}2011/03/22/house-and-dream/red.jpg" alt="要买房子吗？" />
 
 在我看来，以今天的房价，排除那些富二代不说，普通人买房卖梦想只有两种情况：一种是双方父母出钱资助，这种人基本上前途和发展被父母控股。第二种人是牺牲了太多的发展机会，典当梦想来成就一套房子。
 

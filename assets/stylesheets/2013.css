@@ -20,6 +20,12 @@ p {
 ul {
 	list-style-type: circle;
 }
+img {
+	border: 1px solid #eee;
+	padding: 5px;
+	max-width: 100%;
+	box-sizing: border-box;
+}
 
 /* layout */
 #page {
@@ -33,12 +39,6 @@ ul {
 }
 
 /* main */
-#home_pic img {
-	border: 1px solid #eee;
-	padding: 5px;
-	max-width: 100%;
-	box-sizing: border-box;
-}
 #tag-box {
 	list-style: none;
 	padding-left: 0;
@@ -68,6 +68,13 @@ ul {
 	text-align: right;
 	line-height: 28px;
 	color: #333;
+}
+
+/* beside */
+.bgsound {
+	position: fixed;
+	left: 5px;
+	bottom: 5px;
 }
 ::-webkit-scrollbar { height: 16px; overflow: visible; width: 16px; }
 ::-webkit-scrollbar-button { height: 0; width: 0; }

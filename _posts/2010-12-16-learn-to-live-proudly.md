@@ -3,20 +3,12 @@ layout: post
 title: 学会高傲的活着
 slug: learn-to-live-proudly
 date: 2010-12-16 16:54:49 +0800
-excerpt: 如果一个人开始怠慢你，请你离开他。不懂得珍惜你的人不要为之不舍，更不必继续付出你的友情或爱情，到头来受伤的是自己他人不会为之难过。
 categories:
 - love
 tags:
 - speech
 - bbarticle
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: speech
-  name: 演讲
-- slug: bbarticle
-  name: 美文
+- photo
 ---
 
 1. 如果发短信息给一个人，他一直不回，不要再发了。没有这么卑微的等待。
@@ -37,9 +29,7 @@ more_tags:
 
 9. 记住你喜欢的人的生日，包括你的家人，当然，还有自己。生日没有人送礼物也无所谓，你可以买精美的礼物，送给妈妈和爸爸。
 
-<figure>
 	<img src="{{ site.path.uploads }}2010/12/16/learn-to-live-proudly/live.jpg" alt="live" />
-</figure>
 
 10. 闲下来的时候,放一段柔情音乐，翻阅几页好书，然后睡个懒觉，快哉。心情不好的时候,也可以睡一觉。
 

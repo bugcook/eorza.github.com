@@ -3,7 +3,7 @@ layout: post
 title: 田横岛的故事
 slug: the-story-of-tianheng-island
 date: 2011-08-09 23:03:04 +0800
-bgsound: 2011/08/09/the-story-of-tianheng-island/mer-maid-song.mp3
+bgsound: 2011/08/09/the-story-of-tianheng-island/mer-maid-song.webm
 excerpt: 据史书记载，秦末汉初，群雄并起，逐鹿中原，刘邦手下大将韩信带兵攻打齐国，齐王田广被杀，齐相田横率五百将士退踞此岛。刘邦称帝后，遣使诏田横降，田横不从，称死不下鞍，于赴洛阳途中自刎。岛上五百将士闻此噩耗，集体挥刀殉节。世人惊感田横五百将士之忠烈，遂命名此岛为田横岛。
 categories:
 - qingdao
@@ -11,15 +11,6 @@ tags:
 - bgsound
 - photo
 - qd
-more_categories:
-- slug: qingdao
-  name: 在青岛
-more_tags:
-- bgsound
-- slug: photo
-  name: 图片
-- slug: qd
-  name: 青岛
 ---
 
 去年去玩的时候，这个博客已经早开启了，然后写了一篇文章，我看看，我们去的临沂大峡谷，因为这正式上算起来应该是第一次跟公司一起去玩，然后觉得比较新奇，比较刺激，比较想有些特殊的事情发生，比如说艳遇什么的，可是什么也没有发生。
@@ -64,73 +55,42 @@ more_tags:
 >
 > 上面就是田横和他的弟兄们的故事了，下面再贴一张令人无语的照片，他表明了我们5000年的文化实在是不堪一击。
 
-
-
 照了好多照片，贴上来，每张都要品论一下，因为从写作文，我最爱的就是看图说话。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/heye.jpg" alt="荷叶" />
-	<figcaption>
-		其实荷叶很常见，但是我看到这里的荷叶之后，我忽然发现我真的不常见荷叶，我一直觉得的常见好像在课本中常见，是不是呢？
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/heye.jpg" alt="荷叶" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/nothing.jpg" alt="没有意思的图片" />
-	<figcaption>
-		真的觉得什么都没有，只是人类的背影，但是仍然非常喜欢这张。就像喜欢一些事一些人一样，其实想想没什么好的，但是就是喜欢，就是对眼了，就是想拥有，就是想得到。那如果得到了好不好呢？对自己好不好呢？对别人好不好呢？对于大部分人来说，别人的看法想法好不好呢？
-	</figcaption>
-</figure>
+其实荷叶很常见，但是我看到这里的荷叶之后，我忽然发现我真的不常见荷叶，我一直觉得的常见好像在课本中常见，是不是呢？
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/diaoxiang.jpg" alt="一堆雕像" />
-	<figcaption>
-		这应该是那500个壮士之中的几十个吧。仔细想来，大部分的人都自杀的没人知道。你们从那个时代消失了，这是您们想要的吗？忠义，你选择对了吗？
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/nothing.jpg" alt="没有意思的图片" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/zibao.jpg" alt="嗯，不错" />
-	<figcaption>
-		嗯，不错，不知道这个人是谁？两边都不知道，你说你说。
-	</figcaption>
-</figure>
+真的觉得什么都没有，只是人类的背影，但是仍然非常喜欢这张。就像喜欢一些事一些人一样，其实想想没什么好的，但是就是喜欢，就是对眼了，就是想拥有，就是想得到。那如果得到了好不好呢？对自己好不好呢？对别人好不好呢？对于大部分人来说，别人的看法想法好不好呢？
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/feeling.jpg" alt="感觉照片" />
-	<figcaption>
-		一个人的感觉就是这个人的全部，去他的唯物主义，去他的XX哲学，对于一个人来说，他只需要知道自己的感觉，所有的人都是跟着自己的感觉走的，没有例外。有的人的感觉照做就是好人，就能赚钱，就能成名，而有些人的不是。仅此区别。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/diaoxiang.jpg" alt="一堆雕像" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianjie.jpg" alt="田解" />
-</figure>
+这应该是那500个壮士之中的几十个吧。仔细想来，大部分的人都自杀的没人知道。你们从那个时代消失了，这是您们想要的吗？忠义，你选择对了吗？
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianshi.jpg" alt="田市" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/zibao.jpg" alt="嗯，不错" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianrong.jpg" alt="田荣" />
-</figure>
+嗯，不错，不知道这个人是谁？两边都不知道，你说你说。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianheng.jpg" alt="田横" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/feeling.jpg" alt="感觉照片" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianguang.jpg" alt="田广" />
-</figure>
+一个人的感觉就是这个人的全部，去他的唯物主义，去他的XX哲学，对于一个人来说，他只需要知道自己的感觉，所有的人都是跟着自己的感觉走的，没有例外。有的人的感觉照做就是好人，就能赚钱，就能成名，而有些人的不是。仅此区别。
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianzhan.jpg" alt="田儋" />
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianjie.jpg" alt="田解" />
 
-<figure>
-	<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/phone.jpg" alt="电话" />
-	<figcaption>
-		岛上的ip电话基本上被摧毁了，我想，是不是手机的兴起而导致这样的结果，还是有别的原因。
-	</figcaption>
-</figure>
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianshi.jpg" alt="田市" />
+
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianrong.jpg" alt="田荣" />
+
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianheng.jpg" alt="田横" />
+
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianguang.jpg" alt="田广" />
+
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/tianzhan.jpg" alt="田儋" />
+
+<img src="{{ site.path.uploads }}2011/08/09/the-story-of-tianheng-island/phone.jpg" alt="电话" />
+
+岛上的ip电话基本上被摧毁了，我想，是不是手机的兴起而导致这样的结果，还是有别的原因。
+
 
