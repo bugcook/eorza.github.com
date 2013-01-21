@@ -78,3 +78,48 @@ img {
 }
 
 
+/* highlight.js */ 
+pre .keyword,
+pre .id,
+pre .phpdoc,
+pre .title,
+pre .built_in,
+pre .aggregate,
+pre .css .tag,
+pre .javadoctag,
+pre .phpdoc,
+pre .yardoctag,
+pre .smalltalk .class,
+pre .winutils,
+pre .bash .variable,
+pre .apache .tag,
+pre .go .typename,
+pre .tex .command,
+pre .markdown .strong,
+pre .request,
+pre .status {
+	font-weight: normal;
+}
+
+/* scrollbar */
+::-webkit-scrollbar-track-piece {
+	background-color: #eeeeee;
+	-webkit-border-radius: 0;
+}
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+::-webkit-scrollbar-thumb {
+	height: 50px;
+	background-color: #afafaf;
+	-webkit-border-radius: 5px;
+	outline: 2px solid #eeeeee;
+	outline-offset: -2px;
+	border: 2px solid #eee;
+}
+::-webkit-scrollbar-thumb:hover {
+	height: 50px;
+	background-color: #999;
+	-webkit-border-radius: 5px;
+}
