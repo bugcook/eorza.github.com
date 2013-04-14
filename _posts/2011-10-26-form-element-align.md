@@ -23,9 +23,9 @@ html中的表单元素大概用的最多的就是按钮、输入框和下拉菜�
 本人觉得这不是在搞学问，所以就没有严格测试，而且这里用的雅黑的12号字体，所以如果是宋体的话可能会不实用。还有一点就是我这里的的元素高度是20来像素高吧，如果你想更高一点，那么你可以等差增加（注意不是等比）。
 
 	input, select, button {
-	font-family: "Microsoft YaHei";
-	font-size: 12px;
-	border: 1px solid #555;
+		font-family: "Microsoft YaHei";
+		font-size: 12px;
+		border: 1px solid #555;
 	}
 
 为了方便查看，我分别显示，首先是输入框，然后是按钮，最后是输入框。
@@ -33,80 +33,80 @@ html中的表单元素大概用的最多的就是按钮、输入框和下拉菜�
 	input[type="text"],
 	input[type="password"],
 	input[type="search"] {
-	padding-top: 2px;
-	padding-bottom: 2px;
+		padding-top: 2px;
+		padding-bottom: 2px;
 	}
 
 
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"] {
-	padding-top: 1px;
-	padding-bottom: 1px;
-	line-height: 19px;
+		padding-top: 1px;
+		padding-bottom: 1px;
+		line-height: 19px;
 	}
 	button {
-	line-height: 19px;
+		line-height: 19px;
 	}
 
 
 	select {
-	padding: 1px;
-	height: 23px;
+		padding: 1px;
+		height: 23px;
 	}
 
 说到这里，我自己都开始有点糊涂了，那么就直接写个全的吧。
 
 	<!doctype html>
 	<html>
-	<head>
-	<meta charset="UTF-8" />
-	<title>Dobila | 我会沿着电车的铁轨走回来的</title>
-	<link rel='index' title='Dobila' href='http://dobila.info' />
-	<style type="text/css">
-	* {
-	font-family: "Microsoft YaHei";
-	font-size: 12px;
-	}
-	input, select, button {
-	font-family: "Microsoft YaHei";
-	font-size: 12px;
-	border: 1px solid #aaa;
-	outline: none;
-	}
-	input[type="text"],
-	input[type="password"],
-	input[type="search"] {
-	padding-top: 2px;
-	padding-bottom: 2px;
-	}
-	input[type="submit"],
-	input[type="reset"],
-	input[type="button"]  {
-	padding-top: 1px;
-	padding-bottom: 1px;
-	line-height: 19px;
-	}
-	button {
-	line-height: 19px;
-	}
-	select {
-	padding: 1px;
-	height: 23px;
-	}
-	</style>
-	</head>
-	<body>
-	账号：
-	<input type="text" />
-	选择：
-	<select>
-	<option>你好吗</option>
-	<option>dobila.info</option>
-	<option>黄璜</option>
-	</select>
-	<input type="submit" value="确定" />
-	<button>哈哈</button>
-	</body>
+		<head>
+			<meta charset="UTF-8" />
+			<title>Dobila | 我会沿着电车的铁轨走回来的</title>
+			<link rel='index' title='Dobila' href='http://dobila.info' />
+			<style type="text/css">
+				* {
+					font-family: "Microsoft YaHei";
+					font-size: 12px;
+				}
+				input, select, button {
+					font-family: "Microsoft YaHei";
+					font-size: 12px;
+					border: 1px solid #aaa;
+					outline: none;
+				}
+				input[type="text"],
+				input[type="password"],
+				input[type="search"] {
+					padding-top: 2px;
+					padding-bottom: 2px;
+				}
+				input[type="submit"],
+				input[type="reset"],
+				input[type="button"]  {
+					padding-top: 1px;
+					padding-bottom: 1px;
+					line-height: 19px;
+				}
+				button {
+					line-height: 19px;
+				}
+				select {
+					padding: 1px;
+					height: 23px;
+				}
+			</style>
+		</head>
+		<body>
+			账号：
+			<input type="text" />
+			选择：
+			<select>
+				<option>你好吗</option>
+				<option>dobila.info</option>
+				<option>黄璜</option>
+			</select>
+			<input type="submit" value="确定" />
+			<button>哈哈</button>
+		</body>
 	</html>
 

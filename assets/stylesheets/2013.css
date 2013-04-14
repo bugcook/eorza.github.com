@@ -1,6 +1,13 @@
 body {
 	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
+h1,
+h2,
+h3,
+h4,
+h5 {
+	margin-top: 1.5em;
+}
 
 a {
 	color: #111;
@@ -31,6 +38,10 @@ img {
 #page {
 	max-width: 780px;
 	margin: auto;
+}
+#page h2 {
+	border-bottom: 1px solid #ddd;
+	padding-bottom: .2em;
 }
 
 /* header */
