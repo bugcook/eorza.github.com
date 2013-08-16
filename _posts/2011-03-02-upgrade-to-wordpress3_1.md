@@ -11,14 +11,6 @@ tags:
 - video
 - bgsound
 - wordpress
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- video
-- bgsound
-- slug: wordpress
-  name: wordpress
 ---
 
 前两天wordpress升级到了3.1版本，我也追逐一下潮流，把我的博客也升级了，本来想把我所有的东西做成一个插件，以便以后升级的时候会方便，但是想想还是算掉了，因为本人打算以后有重大升级的时候才考虑升级，而且即使做成插件，升级的时候也会因为调用函数改变之后要重写，还不若这样直接该来的爽快来的潇洒。

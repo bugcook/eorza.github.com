@@ -14,21 +14,6 @@ tags:
 - heart
 - video
 - bad
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: sts
-  name: 史铁生
-- slug: care
-  name: 在乎
-- slug: heart
-  name: 心情
-- slug: video
-  name: 视频
-- slug: bad
-  name: 难过
 ---
 
 好久没有自己写点什么东西了，因为是没有心情？没有时间？还是没有思想？我也不知道。记得很久以前，我特别喜欢写一些自己看着比较伤感忧郁的东西，后来自己看的时候一阵恶心，就再也不写了。

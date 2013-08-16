@@ -10,16 +10,6 @@ tags:
 - flash
 - thumb-theater
 - haha
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: flash
-  name: flash
-- slug: thumb-theater
-  name: 拇指剧场
-- slug: haha
-  name: 搞笑
 ---
 
 ## 怎样去富家小姐 

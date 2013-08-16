@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - venture
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: venture
-  name: 创业
 ---
 
 从去年一脚踏入科技创业媒体，看过的创业项目没有一千也有五百。得到一些感触包括：

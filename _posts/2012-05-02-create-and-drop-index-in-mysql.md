@@ -9,14 +9,6 @@ categories:
 - other
 tags:
 - mysql
-more_categories:
-- slug: material
-  name: 学习资料
-- slug: other
-  name: 转载
-more_tags:
-- slug: mysql
-  name: mysql
 ---
 
 索引的创建可以在CREATE TABLE语句中进行，也可以单独用CREATE INDEX或ALTER TABLE来给表增加索引。删除索引可以利用ALTER TABLE或DROP INDEX语句来实现。

@@ -8,12 +8,6 @@ categories:
 - material
 tags:
 - wordpress
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: wordpress
-  name: wordpress
 ---
 
 刚才看了一下google阅读器，看到wordpress3.1出了beta1测试。wordpress好长时间没有更新了，可能是最近搞space空间迁移的问题忙的吧，不过好像又被和谐了，对此我只能长叹一声，唉~~~。对此更新，我表示了高兴与烦恼，因为博客好多的东西都被我更改了，包括源代码，现在一更新，什么都没有了，又要花好长时间来更改，不过这次我决定把自己所有的更改都做成一个插件，防止下次更新的时候再出现问题。因为wordpres更新的时候是不会去更新你的插件的，不过好多地方不能用插件实现，因为没有钩子 。

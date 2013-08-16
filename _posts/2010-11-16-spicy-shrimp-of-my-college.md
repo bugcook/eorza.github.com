@@ -12,17 +12,6 @@ tags:
 - bgsound
 - college
 - heart
-more_categories:
-- slug: lost
-  name: 往事追忆
-- slug: university
-  name: 我的大学
-more_tags:
-- bgsound
-- slug: college
-  name: 大学
-- slug: heart
-  name: 心情
 ---
 
 这是第一篇回忆，虽然很有可能就是最后一篇，但是有个起头总是好的，好多事情总要去做一下，即使一开始就马上放弃，总是有个借口，这事我做不了，或者是我懒得做不了了。我一直以为很多东西弄不好就忘记了，尤其是像我这种很喜欢忘记的人来说，还是记下来的比较好，老的时候还有个回忆。

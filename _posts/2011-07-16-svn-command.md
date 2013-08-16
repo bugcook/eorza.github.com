@@ -9,14 +9,6 @@ categories:
 tags:
 - svn
 - ubuntu
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: svn
-  name: svn
-- slug: ubuntu
-  name: ubuntu
 ---
 
 最进用了几个svn的客户端，我靠，一点不好用，比那个windows下面的小乌龟差多了，所以只好用命令行了，因为老忘记命令，所以记录下来。其实有可能不是不好用，而是我用的少，不知道他们强大的命令吧。不管怎样，现这样。

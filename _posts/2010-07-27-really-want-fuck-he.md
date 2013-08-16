@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - hackhe
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: hackhe
-  name: 砍死他
 ---
 
 1. 伊是隔壁班的美女。上大课的时候要到的手机号（我手机好像解不了电话了，帮忙打下看看）某次约出来了，晚秋，夜晚，小树林边。美女说：我冷。俺说：咱一起跑跑， 跑跑就暖和了。

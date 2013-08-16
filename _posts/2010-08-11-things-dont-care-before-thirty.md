@@ -10,16 +10,6 @@ tags:
 - care
 - simple
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: care
-  name: 在乎
-- slug: simple
-  name: 纯真
-- slug: classic
-  name: 经典
 ---
 
 1、漂泊

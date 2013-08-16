@@ -9,14 +9,6 @@ categories:
 tags:
 - moving
 - video
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: video
-  name: 视频
 ---
 
 风靡万千少女心、英俊潇洒、风流倜傥，没错，这些可都是放在艾力克斯·佛莱契（休·格兰特）身上最贴切的形容词。不过，好时光一去不复返，身为80 年代的流行歌手，如今的艾力克斯只能贴上一个标签--过气！除了偶尔在乡村音乐会和游乐园露露老脸，来点怀旧巡回演唱，他基本处于半隐退状态。

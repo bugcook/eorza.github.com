@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - f4player
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: f4player
-  name: f4player
 ---
 
 找了一上午，终于找到一个自己觉得稍微满意的flash播放器，之前在思途老兄的一篇文章中介绍了一个法国的flash播放器，但是用了一段时间后，发现那个控制条一直存在，挡住了一部分画面，尤其是当视频有文字的时候，更让人无法容忍了。后来，我就找了一个叫f4player的，感觉还不错。

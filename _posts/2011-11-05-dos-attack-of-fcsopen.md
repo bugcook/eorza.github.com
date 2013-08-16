@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - apache
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
 ---
 
 2006年的秋天，当我看到满屏幕的熊猫，我知道我的电脑也可以中毒了。今天，我的服务器成肉鸡了。我想，原来那么多我自以为不会降临到我身上的事情都降临到我身上了。看来我要居安思危了。

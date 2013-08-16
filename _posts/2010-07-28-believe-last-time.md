@@ -9,14 +9,6 @@ categories:
 tags:
 - moving
 - truelove
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: truelove
-  name: 爱情
 ---
 
 从前有两只小猪，整天过着无忧无虑的生活，他们互相相爱着，每天主人送来吃的时候，公猪总是先让母猪吃，等她吃饱了再上去吃母猪吃剩下的东西。

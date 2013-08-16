@@ -9,14 +9,6 @@ categories:
 tags:
 - linux
 - ubuntu
-more_categories:
-- slug: uncategorized
-  name: 默认目录
-more_tags:
-- slug: linux
-  name: linux
-- slug: ubuntu
-  name: ubuntu
 ---
 
 主要讲述在Linux 系统中用户(user)和用户组(group)管理相应的概念；用户(user)和用户组(group)相关命令的列举；其中也对单用户多任务，多用户多任务也做以解说。

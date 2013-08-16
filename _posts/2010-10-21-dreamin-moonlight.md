@@ -11,15 +11,6 @@ tags:
 - bgsound
 - heart
 - bbarticle
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: heart
-  name: 心情
-- slug: bbarticle
-  name: 美文
 ---
 
 不知哪里的一只猫头鹰在啼叫；蝙蝠掠过夜空；东方的许多小星星在闪烁着；山肩浮现淡淡的白光。每逢月圆之夜，我都不会安然就寝；吸引潮涨的力量也将我诱出户外，沐浴在那清凉而神秘的光辉之中。

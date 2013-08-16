@@ -8,12 +8,6 @@ categories:
 - love
 tags:
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: classic
-  name: 经典
 ---
 
 <span style="color: #800000;">假如你知道10条以上 你就是渊博的人了... </span>

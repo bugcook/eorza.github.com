@@ -9,14 +9,6 @@ categories:
 tags:
 - ibar
 - highschool
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- slug: ibar
-  name: 网吧
-- slug: highschool
-  name: 高中
 ---
 
 好久没没去网吧了...

@@ -9,14 +9,6 @@ categories:
 tags:
 - linux
 - ubuntu
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
-- slug: ubuntu
-  name: ubuntu
 ---
 
 完美的感觉又来了，下午叨叨了一会在linux下开发web程序文件的属性问题。

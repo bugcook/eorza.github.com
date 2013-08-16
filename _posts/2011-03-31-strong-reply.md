@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - bad
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: bad
-  name: 难过
 ---
 
 兰州（楼主）：我女朋友有口臭…好恶心…以下是网友们的暴强回复：

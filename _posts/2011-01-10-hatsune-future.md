@@ -10,16 +10,6 @@ tags:
 - haha
 - song
 - video
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: song
-  name: 歌曲
-- slug: video
-  name: 视频
 ---
 
 初音未来是世界上第一个使用全息投影技术举办演唱会的虚拟偶像。迄今为止，初音共举行过两次全息投影演唱会，分别为初音未来Fes'09（夏）和初音未来日的感谢祭。

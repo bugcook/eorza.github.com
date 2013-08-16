@@ -9,14 +9,6 @@ categories:
 tags:
 - jquery
 - rails
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: jquery
-  name: jquery
-- slug: rails
-  name: rails
 ---
 
 话说rails3.1中默认的js库已经是jquery了，这让我显得很高兴，因为我对jquery是比较熟悉的。原来看了一段时间prototype，发现这个库太大了，可能prototype比较稳定吧，不知道，反正个人感觉挺好的。

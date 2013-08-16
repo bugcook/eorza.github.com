@@ -10,16 +10,6 @@ tags:
 - bug
 - jquery
 - js
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: bug
-  name: bug
-- slug: jquery
-  name: jquery
-- slug: js
-  name: JS
 ---
 
 这个bug的局限性有多大我不知道，因为懒得去查找，自己并不是一个很热心的人，也许是热心而没有时间，或者是太懒了。

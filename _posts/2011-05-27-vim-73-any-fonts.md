@@ -10,13 +10,6 @@ categories:
 tags:
 - bgsound
 - vim
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- bgsound
-- slug: vim
-  name: vim
 ---
 
 这个又是一个完美控的结果。突然想起来昨天中午跟公司的老总一起吃饭的时候，他说他是个完美主义者，眼中总容不下别人的缺点。不过我觉得不是容不下别人的缺点，是容不下别人，因为他相信只有自己才能做完美的事情，他不相信别人。

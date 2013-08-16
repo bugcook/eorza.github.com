@@ -9,14 +9,6 @@ categories:
 tags:
 - the-scranberries
 - video
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: the-scranberries
-  name: 小红莓
-- slug: video
-  name: 视频
 ---
 
 <video controls="controls">

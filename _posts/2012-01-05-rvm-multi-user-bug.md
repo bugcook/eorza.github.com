@@ -9,14 +9,6 @@ categories:
 tags:
 - ruby
 - rvm
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: ruby
-  name: ruby
-- slug: rvm
-  name: rvm
 ---
 
 刚才更新了一下rvm的版本，更新到了latest(1.10.0)，感觉不错。但是有一个令人崩溃的问题，就是当你用Multi-User模式安装rvm，然后切换默认ruby版本的时候会出现：

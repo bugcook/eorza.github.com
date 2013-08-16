@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - html
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: html
-  name: html
 ---
 
 一两年前，HTML5似乎还是一个模糊的概念，只有少数几个互联网的书呆子才会关心。而现在，却感觉仿佛HTML5无所不在了。感谢Mozilla和 Chrome的快速发布，以及微软IE9的部署（IE 10现在也处于“技术预览”状态了），数量有限（或者说比有限要更好些）的支持HTML 5的浏览器已将近人人皆可享受。

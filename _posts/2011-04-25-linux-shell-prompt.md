@@ -9,14 +9,6 @@ categories:
 tags:
 - linux
 - shell
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
-- slug: shell
-  name: shell
 ---
 
 如果您很容易使 shell 提示行变得色彩绚烂斓且带有更多信息，为什么还要坚持用单调的标准 shell 提示行呢？在这篇技巧中，Daniel Robbins 将说明如何获得符合您的意愿的 shell 提示行，并会说明如何动态更新 X 终端的标题栏。

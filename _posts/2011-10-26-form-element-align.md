@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - html
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: html
-  name: html
 ---
 
 html中的表单元素大概用的最多的就是按钮、输入框和下拉菜单了，而这三个元素往往不是那么完美的对齐，我指的是横向的对齐，而且我说的完美的对齐，就是说你放大100倍之后你用标尺量一下，他们仍然是对齐的。

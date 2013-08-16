@@ -9,14 +9,6 @@ categories:
 tags:
 - computer
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: computer
-  name: 电脑
-- slug: classic
-  name: 经典
 ---
 
 按照以下步骤操作，你就可以判断你的电脑是个美腔大叔呢还是小萝莉。

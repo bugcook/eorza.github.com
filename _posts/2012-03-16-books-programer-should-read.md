@@ -9,14 +9,6 @@ categories:
 tags:
 - book
 - software
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: book
-  name: book
-- slug: software
-  name: 计算机软件
 ---
 
 “如果能时光倒流，回到过去，作为一个开发人员，你可以告诉自己在职业生涯初期应该读一本，你会选择哪本书呢？我希望这个书单列表内容丰富，可以涵盖很多东西。”

@@ -9,14 +9,6 @@ categories:
 tags:
 - jokes
 - game
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: jokes
-  name: 恶搞
-- slug: game
-  name: 游戏
 ---
 
 1.找一个朋友，让他先说3遍“老鼠”，然后再说3遍“鼠老”，待他说完“老鼠，老鼠，老鼠，鼠老，鼠老，鼠老”之后，立即问他“猫最怕什么”，几乎可以保证他会答“老鼠”，本人试过多次，屡试不爽。

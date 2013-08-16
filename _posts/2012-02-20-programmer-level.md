@@ -8,12 +8,6 @@ categories:
 - uncategorized
 tags:
 - computer
-more_categories:
-- slug: uncategorized
-  name: 默认目录
-more_tags:
-- slug: computer
-  name: 电脑
 ---
 
 随着技术发展，编程悄然融入了我们的生活。我们已然离不开那些程序和编程语言。很多人都在不同程度地谈论着如何编程，也诞生出很多编程语言排行，那么程序员到底应该如何分级呢？

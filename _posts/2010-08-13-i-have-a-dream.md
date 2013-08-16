@@ -12,17 +12,6 @@ tags:
 - speech
 - bbarticle
 - english
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: speech
-  name: 演讲
-- slug: bbarticle
-  name: 美文
-- slug: english
-  name: 英语
 ---
 
 在美国，曾经有这样一个黑人，他是一个奴隶的后代，他把毕生的精力都投入到为了黑人的平等和自由而进行的民权运动中。在他风华正茂的时候，却在“砰”的一声枪响中结束了年轻的生命。他的鲜血在地上画出了一个大大的惊叹号！后来，美国人为了纪念他，用他的生日命名了一个节日。今天，他的著名的演说《I HAVE A DREAM》仍旧被人们广泛地传颂着。他，就是美国著名的民权运动的领导人—— <span style="color: #ff6600;">马丁·路德·金</span>。

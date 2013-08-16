@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - vim
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: vim
-  name: vim
 ---
 
 1、添加edit with vim选项，每个文件打开一个新窗口。新建reg文件，代码如下：

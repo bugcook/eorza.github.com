@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - freebsd
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: freebsd
-  name: FreeBSD
 ---
 
 1.mysql启动和关闭：

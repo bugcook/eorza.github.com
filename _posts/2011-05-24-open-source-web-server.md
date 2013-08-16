@@ -9,14 +9,6 @@ categories:
 tags:
 - apache
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
-- slug: linux
-  name: linux
 ---
 
 开源产品的出现不仅获得了个人用户的喜爱，众多知名企业也青睐于它。虽然开源产品数不胜数，但并不是每一个开源产品都能被广泛应用并得到大众的好评。在众多成功的开源产品中，只有少数领头羊，而其它产品只能望其项背。本文汇总了五款开源Web服务器，来看看有没有你需要的吧！文章摘抄下来，以备以后使用。

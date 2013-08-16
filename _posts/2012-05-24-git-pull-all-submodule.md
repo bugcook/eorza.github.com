@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - git
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: git
-  name: git
 ---
 
 前几天akismet突然好用了，搞得我心花怒放，一直想找个原因，可是总是没有时间去弄。所有凑合着吧。

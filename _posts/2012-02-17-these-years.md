@@ -11,15 +11,6 @@ tags:
 - bgsound
 - memory
 - qd
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: memory
-  name: 回忆
-- slug: qd
-  name: 青岛
 ---
 
 这些年，过得一直不是很好。从开始担心考试到开始攀比工作。愤怒，悔恨，嫉妒，难过，悲伤，所有的消极都在围绕着我，我一直在小心翼翼的压抑着。

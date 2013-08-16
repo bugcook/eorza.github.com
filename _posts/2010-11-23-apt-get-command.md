@@ -8,12 +8,6 @@ categories:
 - material
 tags:
 - ubuntu
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: ubuntu
-  name: ubuntu
 ---
 
 常用的APT命令参数。其中要注意的有：SUDO的表示需要管理员特权、在UBUNTU中命令后面参数为短参数是用“-”引出，长参数用“--”引出、命令帮助信息可用man、命令的方式查看或者命令-H（--help）方式查看、在MAN命令中需要退出命令帮助请按“q”键！！

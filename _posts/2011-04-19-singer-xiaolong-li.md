@@ -11,15 +11,6 @@ tags:
 - bgsound
 - xiaolong-li
 - song
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: xiaolong-li
-  name: 李小龙
-- slug: song
-  name: 歌曲
 ---
 
 大概2年之前，我还在合肥的时候，听到了朴树的一首歌曲《卓越2000年》，说起来是朴树跟别人合唱的。从网上查的时候发现合唱的人中有个叫李小龙的，进一步了解之后才发现此李小龙不是那个李小龙。我想，或许是这个名字导致了歌手李小龙不被大部分人所熟知，大家对那个李小龙不是一般的感到自豪和热爱，大家都觉得世界上只有一个李小龙。

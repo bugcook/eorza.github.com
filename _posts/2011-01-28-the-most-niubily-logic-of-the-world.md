@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - classic
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: classic
-  name: 经典
 ---
 
 > 大兔子病了,二兔子瞧,三兔子买药,四兔子熬,五兔子死了,六兔子抬,七兔子挖坑,八兔子埋,九兔子坐在地上哭泣来,十兔子问他为什么哭?九兔子说,五兔子一去不回来!

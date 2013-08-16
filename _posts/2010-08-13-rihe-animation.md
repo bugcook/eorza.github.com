@@ -10,16 +10,6 @@ tags:
 - animation
 - haha
 - video
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: animation
-  name: 动漫
-- slug: haha
-  name: 搞笑
-- slug: video
-  name: 视频
 ---
 
 一、日和动漫之平田的世界

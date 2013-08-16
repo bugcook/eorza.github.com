@@ -9,14 +9,6 @@ categories:
 tags:
 - apache
 - mysql
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
-- slug: mysql
-  name: mysql
 ---
 
 今天重新做了一个虚拟机，然后配置了一下lamp，结果出现问题了，就是mysql远程连接的问题，默认的root用户是不支持远程连接的，因为root用户在mysql的msyql数据库中的user表的host只有127.0.0.1、localhost、本机名，所以当你以远程的ip去连接msyql服务器的时候，就会出现问题，问题就是连接不上了，哈哈。

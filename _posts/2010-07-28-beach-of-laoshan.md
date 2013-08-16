@@ -10,14 +10,6 @@ categories:
 tags:
 - seaside
 - qd
-more_categories:
-- slug: qingdao
-  name: 在青岛
-more_tags:
-- slug: seaside
-  name: 海边
-- slug: qd
-  name: 青岛
 ---
 
 第一次去海边玩，虽然来青岛好长时间了，总感觉一个人不想出去，或许是太懒了吧。

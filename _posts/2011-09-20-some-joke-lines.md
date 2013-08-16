@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: classic
-  name: 经典
 ---
 
 1. 表哥三十了还单身。一次我问他：“表哥，你们单位那么多美女，为何到现在你还不找个女朋友？”

@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - software
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: software
-  name: 计算机软件
 ---
 
 <span style="color: #3366ff;">终于下定决心写点自己对计算机科学的认识了，或许（是有很大的可能），你看到这里，笑了，觉得很幼稚，那请你指出不足之处，我也不会觉得丢脸，因为是自己思考的结果，错了可以改。</span>

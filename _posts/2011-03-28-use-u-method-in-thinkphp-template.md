@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - thinkphp
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: thinkphp
-  name: thinkphp
 ---
 
 这两天看了一下thinkphp的东东，发现缺陷实在不少（或许是我功力不够，那些缺陷可以用更方便的方法解决）。想想国内的东西，貌似很少有好的作品。实在是失望透顶。

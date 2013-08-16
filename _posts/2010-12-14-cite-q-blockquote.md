@@ -9,14 +9,6 @@ categories:
 tags:
 - css
 - html
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: css
-  name: css
-- slug: html
-  name: html
 ---
 
 `cite`,`q`与`blockquote`这三个标签都是用来表示引用的，但这三者之间确是有着比较明显的区别的。

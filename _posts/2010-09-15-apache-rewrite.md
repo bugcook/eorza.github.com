@@ -8,12 +8,6 @@ categories:
 - material
 tags:
 - apache
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: apache
-  name: Apache
 ---
 
 ## 一：目的

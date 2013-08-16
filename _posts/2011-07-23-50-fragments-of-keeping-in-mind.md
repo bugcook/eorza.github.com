@@ -11,15 +11,6 @@ tags:
 - bgsound
 - moving
 - bad
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: moving
-  name: 感动
-- slug: bad
-  name: 难过
 ---
 
 故事能够唤起我们感受幸福的心情，也能让我们感到悲伤，左右我们的感情。它能帮助我们对现状产生疑问，产制造出深入思考与内省的瞬间，让我们作为不同的个体进化成长。

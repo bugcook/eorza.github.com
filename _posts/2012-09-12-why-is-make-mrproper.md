@@ -8,12 +8,6 @@ categories:
 - material
 tags:
 - linux
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: linux
-  name: linux
 ---
 
 无意中闲逛，看到有人解释在清理内核源代码的时候用的是make mrproper，这个mrproper是设么意思呢？

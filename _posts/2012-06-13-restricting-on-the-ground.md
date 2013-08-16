@@ -8,12 +8,6 @@ categories:
 - love
 tags:
 - video
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: video
-  name: 视频
 ---
 
 突然看到todo list上有这么一个，要把这个视频传到博客上去。最近总是很容易被感动，原来觉得很无聊的东西现在也能感动，是因为年龄的关心，还是自己已经走向了那个方向。

@@ -9,14 +9,6 @@ categories:
 tags:
 - lfs
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: lfs
-  name: lfs
-- slug: linux
-  name: linux
 ---
 
 LFS，又一次搞了起来，因为gnome3前两天发布了，因为对C/C++突然感兴趣了，还有很多其他原因，下面的是在虚拟机上的第一步，LFS书上没写这个，所有就记录下来。

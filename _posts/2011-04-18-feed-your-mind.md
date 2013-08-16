@@ -11,15 +11,6 @@ tags:
 - bgsound
 - bbarticle
 - english
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: bbarticle
-  name: 美文
-- slug: english
-  name: 英语
 ---
 
 分享几篇英文读音文章阅读，喜欢的英文的朋友可以听一听，看一看，背一背。听别人说学习英语就要背诵，我想也是。高中时候的英文还算可以，考试也过120分了，不过好几年不学了，已经忘记很多了。

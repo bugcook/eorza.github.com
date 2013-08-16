@@ -9,14 +9,6 @@ categories:
 tags:
 - apache
 - ssl
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
-- slug: ssl
-  name: ssl
 ---
 
 这两天要准备一下公司邮件服务器的问题，就学习了一下关于ssl的东西，东西很简单，就是脑子得转几个弯，哈哈，一时半会接受不了。发现现在接受一些新东西的时候都要推翻以前的概念或者要重新理解以前的概念，比如这次，我就要重新理解一下这个认证跟加密的区别。真是头疼啊。

@@ -11,15 +11,6 @@ tags:
 - bgsound
 - talk
 - bad
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: talk
-  name: 语录
-- slug: bad
-  name: 难过
 ---
 
 相遇的时候如果是个意外，离别的时候意外的看不开。虽然是曾哥的歌，但是阻挡不了我对这句话的喜爱。我曾经喜欢过很多的东西，比如我喜欢几米、小王子、when you're gone等等很多，一时想不起来了。真后悔没有早点开博客，记录自己喜欢的东西。现在的好多东西都已经忘记了。

@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - emacs
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: emacs
-  name: emacs
 ---
 
 在perl中，如果你选中一段代码，然后align，emacs会把等号对齐，但是在php中不会这样，如果在php中你也想这样的话，那么你会用到：

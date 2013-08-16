@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - emacs
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: emacs
-  name: emacs
 ---
 
 马上就回去了，趁着这段时间把我昨天的emacs的配置文件保存一下，以备以后使用。嗯，昨天研究了一天，发现vim真的时候追求速度的人用，有的人说emacs块，那是你没有用熟，vim才叫运指如飞，emacs只能叫一般，但是emacs的强大之处是他的稳重，是他的lisp，是他的严谨，是他的我也不知道的东西，反正我是决定放弃用vim，因为vim我的指头已经超过大脑的运转了，我只想留点时间思考，从我的指头中间。

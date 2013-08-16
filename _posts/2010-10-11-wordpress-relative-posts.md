@@ -9,14 +9,6 @@ categories:
 tags:
 - wordpress
 - computer
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: wordpress
-  name: wordpress
-- slug: computer
-  name: 电脑
 ---
 
 当然，这里说的是非插件实现，插件大家到网上一搜一大堆，其实非插件实现的也是一大堆，这里之所以写这个，是因为自己用的时候，我喜欢把随机文章放到相关文章的上面（个人爱好），网上的代码用的query_post，这样很容易的就扰乱了原来的loop，使post->ID得不到当前文章的值。

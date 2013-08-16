@@ -12,17 +12,6 @@ tags:
 - heart
 - song
 - bad
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: heart
-  name: 心情
-- slug: song
-  name: 歌曲
-- slug: bad
-  name: 难过
 ---
 
 跟朋友去买手机，在一个小店了听到这首歌，感觉特别的熟悉，回家后到网上查了一下，才发现，原来我两部最喜欢的电影都是以它作为插曲的。《阿甘正传》，《重庆森林》。

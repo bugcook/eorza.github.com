@@ -9,14 +9,6 @@ categories:
 tags:
 - apache
 - ubuntu
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
-- slug: ubuntu
-  name: ubuntu
 ---
 
 上午搞东西的时候，发现一个我的apache的一个很烦人的问题，当我在浏览器中输入localhost/javascript的时候，总是出现403 forbidden的东西，搞的我很上火，看了看apache的日志，发现这么一条错误：

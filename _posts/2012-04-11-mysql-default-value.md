@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - mysql
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: mysql
-  name: mysql
 ---
 
 mysql列的默认属性必须是个常数，不能是函数或者表达式。有一个例外就是 CURRENT_TIMESTAMP。

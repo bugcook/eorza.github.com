@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
 ---
 
 很多LINUX初学者分不清楚linux和X之间，X和Xfree86之间，X和KDE，GNOME等之间是什么关系。其实我也常常混淆概念，我想以比较易，于理解的方式说明一下X，X11，XFREE，WM，KDE，GNOME等之间的关系。由于本人水平有限可能存在错误，请高手指正。

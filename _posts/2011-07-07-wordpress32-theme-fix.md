@@ -11,15 +11,6 @@ tags:
 - bgsound
 - wordpress
 - heart
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: wordpress
-  name: wordpress
-- slug: heart
-  name: 心情
 ---
 
 因为时间比较紧张，很多功能就舍弃了，比如ajax评论，比如邮件回复，这些东西都可以用插件实现，所以不再做重复的功能。好多事情就这样舍弃了。

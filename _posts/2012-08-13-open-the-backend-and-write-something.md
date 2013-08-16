@@ -10,13 +10,6 @@ categories:
 tags:
 - bgsound
 - heart
-more_categories:
-- slug: qingdao
-  name: 在青岛
-more_tags:
-- bgsound
-- slug: heart
-  name: 心情
 ---
 
 已经很长时间了，很长时间没有关注这里。昨天查了一下pr，从3降到2了。虽然我对这些东西不怎么感冒，但是还是有一点点不爽的，于是就写篇文章，以后更新的东西多一点，不然就掉到1了。

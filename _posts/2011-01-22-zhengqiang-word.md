@@ -10,16 +10,6 @@ tags:
 - speech
 - classic
 - talk
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: speech
-  name: 演讲
-- slug: classic
-  name: 经典
-- slug: talk
-  name: 语录
 ---
 
 1.日本人宁愿喜欢黑人，也不喜欢我们，因为现在的中国人没有了精神。

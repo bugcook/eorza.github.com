@@ -10,16 +10,6 @@ tags:
 - php
 - python
 - ruby
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- slug: php
-  name: php
-- slug: python
-  name: python
-- slug: ruby
-  name: ruby
 ---
 
 离早会还有10分钟，我要计划一下本博客的修改计划，因为觉得好多自己喜欢的功能还没有实现，有好多东西还不能用。搞的我很上火的是我的akismet竟然不能用，看了一下不是服务器连接的问题而是服务器的问题。

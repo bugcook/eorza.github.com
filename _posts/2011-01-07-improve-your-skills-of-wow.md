@@ -9,14 +9,6 @@ categories:
 tags:
 - wow
 - game
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: wow
-  name: wow
-- slug: game
-  name: 游戏
 ---
 
 wow的操作，说简单是简单，里面也有一些小窍门。你是不是经常看到录像里面那些高手们行动走路，前瞻后顾十分得意，感慨自己为啥就举动笨拙，反映迟钝。其实这里面，有个很要紧的因素，经常为大家所忽略。那就是你的wow设置，其中关键是键盘设置。小弟在这里抛砖引玉，将自己的一些心得分享给大家。

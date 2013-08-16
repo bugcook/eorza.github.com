@@ -8,12 +8,6 @@ categories:
 - funny
 tags:
 - haha
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
 ---
 
 高考完后又是中考，考题千奇百怪，答卷也五花八门。真佩服现在的学生啊，思维跳脱，天马行空！看一组语文试卷中的填空题吧！

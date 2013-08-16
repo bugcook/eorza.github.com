@@ -9,15 +9,6 @@ categories:
 - material
 tags:
 - html
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: material
-  name: 学习资料
-more_tags:
-- video
-- slug: html
-  name: html
 ---
 
 下面是我摘抄的一篇文章，觉得有必要记载到这里。我复制的时候大体浏览了一下，发现重复的内容很多，比如新的标签header、footer和hgroup其实是一个系列的，比如audio和video还有那个什么video重载都可以放到多媒体这一块里面的，唉，可恨的人们啊。

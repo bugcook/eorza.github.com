@@ -9,21 +9,11 @@ categories:
 tags:
 - heart
 - drunb
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- slug: heart
-  name: 心情
-- slug: drunb
-  name: 装逼
 ---
 
 忘了谁写的一首诗了，很奇怪能记住。有天晚上回家，经过一条小胡同的时候，竟然听到有人在拉二胡。很悠远。我站在那里听了好一会，想着想着就想到生死的问题上了。赶紧打住，这不是我这个年纪应该想的问题。
 
-<figure>
-	<img src="{{ site.path.uploads }}2007/03/15/the-initial-point-of-departure/memory.jpg" alt="memory" />
-</figure>
+<img src="{{ site.path.uploads }}2007/03/15/the-initial-point-of-departure/memory.jpg" alt="memory" />
 
 刚上大学那会，总是想着离开了家里的约束该是多么令人振奋的一件事情，想着没有晚自习，想着一周少的可怜的那几节课。那时晚上睡觉的时候都是笑着的。后来有一天，下了课，突然想起：是从什么时候变的这么无聊了呢？是什么让这个世界变的不再可爱？
 
@@ -67,4 +57,3 @@ more_tags:
 > 这不是真的,不是真的
 > 青春的背影正穿过呼唤的密林
 > 走向遗忘
-

@@ -10,16 +10,6 @@ categories:
 tags:
 - webrtc
 - computer
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: entry
-  name: 日志
-more_tags:
-- slug: webrtc
-  name: webrtc
-- slug: computer
-  name: 电脑
 ---
 
 在几个月焦急的等待中，在我要回家过年的这一天，webrtc可以在chrome dev分支中使用了。本来想好好的做个东西出来，看来是要延迟了。我讨厌落后别人的感觉，因为估计我不能是世界第一。

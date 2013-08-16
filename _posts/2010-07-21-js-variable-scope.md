@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - js
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: js
-  name: JS
 ---
 
 今天搞死我了，因为js变量的作用域问题折腾了一天，就是死活找不出错误在哪。

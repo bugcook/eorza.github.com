@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - css
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: css
-  name: css
 ---
 
 研究了一晚上float，结果失败，没研究出个结果。但是还是有些收获的，就是关于overflow的一些奇怪的现象。

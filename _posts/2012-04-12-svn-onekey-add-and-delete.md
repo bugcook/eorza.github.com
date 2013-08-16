@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - svn
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: svn
-  name: svn
 ---
 
 其实两键，两条命令。在你做了很多操作，很多删除很多添加的时候，很有用。我记得是在博客里面有来着，但是找不到了。

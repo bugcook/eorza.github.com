@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - talk
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: talk
-  name: 语录
 ---
 
 1、天才就是99％的汗水+1％的灵感

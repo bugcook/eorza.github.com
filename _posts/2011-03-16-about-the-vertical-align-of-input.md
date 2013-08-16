@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - css
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: css
-  name: css
 ---
 
 完美控，对所有的东西都追求完美。虽然知道不可能，但是最起码更接近完美一些，那就很幸福了。

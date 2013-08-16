@@ -10,16 +10,6 @@ tags:
 - heart
 - bbarticle
 - bad
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- slug: heart
-  name: 心情
-- slug: bbarticle
-  name: 美文
-- slug: bad
-  name: 难过
 ---
 
 也是N久没有来看看我的blog了。
@@ -35,9 +25,7 @@ more_tags:
 
 他们说，你这样的人不应该有爱情的，我只是一个劲的点头，是，是。我就不应该有爱情。可是我心里想的还是，会有那么一个人吗?在我打游戏的时候发短信给我，我不会烦，每天晚上打电话都是一件特幸福的事情，我会自己舍不得花钱，而舍得给她买她喜欢的衣服吗?会有那么一个人吗?
 
-<figure>
-	<img src="{{ site.path.uploads }}2007/03/17/will-it-goes/dance.jpg" alt="dance" />
-</figure>
+<img src="{{ site.path.uploads }}2007/03/17/will-it-goes/dance.jpg" alt="dance" />
 
 第一次暑假没回家，在别人的家乡，听着不一样的口音，我想，真的是一种成长吧，我学会了自己一个人住，学会了跟陌生的人开玩笑，学会了坦然面对生死。学会了习惯。就象住我隔壁那个搞色情事业的女的，我问她，会辛苦吗?她说其实习惯了也没什么了，她还说人们都战战兢兢的维护着自己那少的可怜的尊严。
 
@@ -50,4 +38,3 @@ more_tags:
 <span style="color: #808000;">谢谢你们一路默默陪伴我</span>
 
 <span style="color: #808000;">让我拥有好故事可以说。。。。。。</span>
-

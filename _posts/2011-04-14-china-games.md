@@ -8,12 +8,6 @@ categories:
 - entry
 tags:
 - game
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- slug: game
-  name: 游戏
 ---
 
 国产游戏厂商们，宣传的时候能不能不找美女，能不能？找美女也没关系啊，能不能不找这种门的女主人公，能不能？找各种门的女人也没问题啊，能不能不找凤姐之流的女生，能不能？

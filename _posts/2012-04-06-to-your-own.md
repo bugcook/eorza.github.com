@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - hanhan
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: hanhan
-  name: 韩寒
 ---
 
 首先，本文第一段是个介绍，不是原文。从第二段开始是摘自韩寒的博客上的一篇文章。我不知道是不是违反了什么规矩，如果有人在意的话，请告诉我，我会马上删除。总结了这篇日志的观念，主题就是：谁没SB过？好的，下面正文开始。

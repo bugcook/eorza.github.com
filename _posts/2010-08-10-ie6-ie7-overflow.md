@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - js
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: js
-  name: JS
 ---
 
 如果父对象有overflow：hidden属性，子对象中的position属性是relative或者absolute，那么在ie6和ie7下父对象的overflow会失效，解决办法是给父对象加relative属性。

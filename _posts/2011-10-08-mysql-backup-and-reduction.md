@@ -9,14 +9,6 @@ categories:
 - material
 tags:
 - mysql
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: mysql
-  name: mysql
 ---
 
 本博客使命之mysql数据库的备份还原。其实写这些东西怪丢人的，很多人会说你连这个都记不住吗？我只好一句话不说，我确实记不住。

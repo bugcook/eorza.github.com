@@ -9,14 +9,6 @@ categories:
 tags:
 - ruby
 - rvm
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: ruby
-  name: ruby
-- slug: rvm
-  name: rvm
 ---
 
 rvm还是不错的，当然是开发环境，如果你的服务器需要经常更换ruby版本的话，你真是太可怜了，哈哈。

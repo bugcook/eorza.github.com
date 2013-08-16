@@ -8,12 +8,6 @@ categories:
 - lost
 tags:
 - memory
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- slug: memory
-  name: 回忆
 ---
 
 闪然回首，十一月份已过。那些曾经一起走过的人，都已经到家了。我还是在努力的走着。我已经很累了，我想我应该也快到要到家。

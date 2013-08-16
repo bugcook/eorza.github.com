@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
 ---
 
 Linux下文件的类型是不依赖于其后缀名的，但一般来讲：

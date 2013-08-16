@@ -12,17 +12,6 @@ tags:
 - bgsound
 - emacs
 - talk
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: emacs
-  name: emacs
-- slug: talk
-  name: 语录
 ---
 
 9月中旬，刚写了一点东西，累了，就写个记录吧，最近烦心事挺多的。我仔细想了想，其实也没什么烦心的事情，只是想想未来，想想出路，就觉得有点迷茫，好在总有个目标，不管自己喜欢不喜欢，总是要努力去做的。

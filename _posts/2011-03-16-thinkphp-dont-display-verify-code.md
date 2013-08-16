@@ -9,14 +9,6 @@ categories:
 tags:
 - thinkphp
 - wordpress
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: thinkphp
-  name: thinkphp
-- slug: wordpress
-  name: wordpress
 ---
 
 thinkphp不显示验证码，官方出了一列解决问题，我也是按照官方的解决方案解决的，原来以为是分组的问题，高了2个多小时以后才发现果然是BOM的问题，问题简单了，如果你跟我一样用的VIM，你直接set nobomb就可以了，呵呵。如果你用其他的编辑器，那么上网搜索怎样去掉BOM吧。

@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - apache
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
 ---
 
 本来想直接睡觉的，结果厕所里有人，在等厕所的时间看了一下apache的虚拟机的配置，对本来有点模糊的虚拟机配置有个稍微清楚的理解。说是理解，其实只是自己实验出来的，不过应该没问题。

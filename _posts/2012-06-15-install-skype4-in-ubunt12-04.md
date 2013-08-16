@@ -9,14 +9,6 @@ categories:
 tags:
 - skype
 - ubuntu
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- slug: skype
-  name: skype
-- slug: ubuntu
-  name: ubuntu
 ---
 
 昨天，wordpress3.4发布了，没发现什么新的功能，好像是在后台更好的定制主题了。不过这个功能对我来说相当于没有。更新玩，打开插件，发现没有冲突，那我就放在一边了。

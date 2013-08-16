@@ -8,13 +8,6 @@ categories:
 - other
 tags:
 - haha
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: haha
-  name: 搞笑
-
 ---
 
 1. 皇帝对身旁的小李子说：你用一个字来形容朕。 小李子回答：喳！然后小李子就被砍了。。。

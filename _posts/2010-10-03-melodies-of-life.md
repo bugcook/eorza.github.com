@@ -9,14 +9,6 @@ categories:
 tags:
 - moving
 - video
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: video
-  name: 视频
 ---
 
 <video controls="controls">

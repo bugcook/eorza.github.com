@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: classic
-  name: 经典
 ---
 
 1. 女孩说：我怀孕了。男人继续低头吃饭，说：我早结扎了。 女孩楞了一会：我和你开玩笑呢。男人抬起头看了她一眼，喝了口水说：我也是。

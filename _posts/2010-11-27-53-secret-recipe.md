@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - health
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: health
-  name: 养生
 ---
 
 从网上转载的，没有试过，看起来挺不错的，收藏一下，以后有时间了实验一下。据说是老中医写的。好多东西看起来很实际，也有好多东西看起来很假，你说如果这么容易就把病治好了，谁还去医院看病啊？是不是？

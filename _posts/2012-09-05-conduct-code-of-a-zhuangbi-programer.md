@@ -10,16 +10,6 @@ categories:
 tags:
 - haha
 - software
-more_categories:
-- slug: love
-  name: 喜欢的
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: software
-  name: 计算机软件
 ---
 
 ## 准备工作，工欲善其事必先利其器。

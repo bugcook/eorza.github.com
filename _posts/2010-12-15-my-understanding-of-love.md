@@ -9,14 +9,6 @@ categories:
 tags:
 - truelove
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: truelove
-  name: 爱情
-- slug: classic
-  name: 经典
 ---
 
 这篇文章出自北大以为出家的才子，看了之后感受颇深，在这里记录下来，一表尊敬。

@@ -8,13 +8,6 @@ categories:
 - funny
 tags:
 - haha
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-  
 ---
 
 

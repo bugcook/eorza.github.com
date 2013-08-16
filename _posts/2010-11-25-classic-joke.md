@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: classic
-  name: 经典
 ---
 
 1. 爷孙三人去钓鱼，爷爷拿着鱼杆发呆，孙子看到后对爸爸说：瞧瞧，你爹在那发呆，跟傻B似的。爸爸打了儿子一耳光生气的喊道：你爹才傻B呢！

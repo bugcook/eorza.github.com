@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: classic
-  name: 经典
 ---
 
 1. 有一次坐公交拿了IC卡排队上车，前面一个人是扔硬币的，我大脑短路跟着把IC卡扔进去了……

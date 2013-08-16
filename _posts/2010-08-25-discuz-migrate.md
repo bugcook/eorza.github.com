@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - discuz
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: discuz
-  name: discuz
 ---
 
 公司网站马上要迁空间了，老板问我discuz数据能迁移不，当时想都没想就说可以，虽然没有接触过discuz论坛，但是我想应该很简单吧，今天马上就自己做了一下实验，结果觉得没想象的那么简单，成功了，就在这记录一下。

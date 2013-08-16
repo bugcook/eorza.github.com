@@ -9,14 +9,6 @@ categories:
 tags:
 - moving
 - bbarticle
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: bbarticle
-  name: 美文
 ---
 
 你不觉得晚霞很美吗? 我只有看着这个，才能每天坚持向西走下去。

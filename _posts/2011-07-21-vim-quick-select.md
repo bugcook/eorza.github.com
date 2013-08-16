@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - vim
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: vim
-  name: vim
 ---
 
 话说在一个月前，我决定用emacs来代替vim了，结果，可想而知，一时半会转变过来，后来心想，对我来说，emacs还缺少我需要的杀手级应用。所以先用着vim吧，后来用着用着，就觉得vim不是一般的高深，不是一般的那个，所以就先用着，哈哈。

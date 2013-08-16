@@ -12,17 +12,6 @@ tags:
 - bgsound
 - jquery
 - bad
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: jquery
-  name: jquery
-- slug: bad
-  name: 难过
 ---
 
 正在听的一首歌，《love is blue》，翻译过来应该是爱是蓝色的，忽然觉得挺好的，就拿过来当作标题。好久没有更新了，理由就是忙，忙着好多事情，忙的不可开交，但是仔细想想又没有做很多事情，看来是瞎忙。

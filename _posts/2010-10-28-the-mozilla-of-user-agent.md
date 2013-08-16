@@ -9,14 +9,6 @@ categories:
 tags:
 - apache
 - php
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: apache
-  name: Apache
-- slug: php
-  name: php
 ---
 
 今天突然发现好像所有的浏览器的字符串里面都有个Mozilla这个东东，这个Mozilla不是火狐Mozilla Firefox吗？上网查找了原因，才知道原来是这么一回事。下面复制过来，因为文章不知道转了多少回了，所以原作者也不知道了，就不写转自哪里了。

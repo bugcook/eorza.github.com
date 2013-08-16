@@ -10,16 +10,6 @@ tags:
 - 360
 - qq
 - haha
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: 360
-  name: 360
-- slug: qq
-  name: QQ
-- slug: haha
-  name: 搞笑
 ---
 
 qq刚才发了致我们广大QQ用户和360用户一体的网民一封信，在装有360的电脑上将禁止运行QQ。然后写了好多理由。作为用户，我很难抉择，不过我觉得自己会放弃360，因为QQ上好友比较多，好多人需要通过QQ联系，虽然比价痛恨腾讯，但是我也不是一个疾恶如仇的人。

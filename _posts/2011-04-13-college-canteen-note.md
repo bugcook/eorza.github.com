@@ -9,15 +9,6 @@ categories:
 tags:
 - college
 - haha
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: college
-  name: 大学
-- slug: haha
-  name: 搞笑
-
 ---
 
 1. 请问那位卖胡辣汤的女孩叫什么名字？

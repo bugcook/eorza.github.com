@@ -11,15 +11,6 @@ tags:
 - bgsound
 - sts
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: sts
-  name: 史铁生
-- slug: classic
-  name: 经典
 ---
 
 一

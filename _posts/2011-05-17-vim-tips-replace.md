@@ -9,14 +9,6 @@ categories:
 - material
 tags:
 - vim
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: vim
-  name: vim
 ---
 
 vim是无比强大的，这里提供大家一个技巧，就是批量获得图片地址的方法，当然这里的vim技巧不止批量获取地址，还有好大用处，但是这里我就是用来批量获取地址的。好的，开始吧。

@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - mysql
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: mysql
-  name: mysql
 ---
 
 mysql的数据库编码从lantian1转换到utf8。找了好多资料，然后才发现，下面这个比较惯用，你懂得。

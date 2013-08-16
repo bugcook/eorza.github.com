@@ -9,14 +9,6 @@ categories:
 tags:
 - linux
 - ubuntu
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
-- slug: ubuntu
-  name: ubuntu
 ---
 
 就在上篇文章中，我尝试的时候改了我用户组，结果除了一大堆问题，问题之一就是无法sudo了。

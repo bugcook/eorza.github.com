@@ -9,14 +9,6 @@ categories:
 tags:
 - php
 - ubuntu
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: php
-  name: php
-- slug: ubuntu
-  name: ubuntu
 ---
 
 今天碰到一个小问题，本着研究到底的精神。这个问题被我研究了一下，当然到底时不可能的，什么事情到底了就会总结出哲学的那几个问题上，比如人为什么活着等问题。

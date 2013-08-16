@@ -12,17 +12,6 @@ tags:
 - html
 - prototype
 - memory
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: html
-  name: html
-- slug: prototype
-  name: prototype
-- slug: memory
-  name: 回忆
 ---
 
 应该是我的博客上最长的一篇文章了。名字是也抄的别人的，一部日本的动漫，名字就是这个。动漫的内容大概是：若我们再次遇见，已各自生活在各个领域的大家又能否像以往般的要好？

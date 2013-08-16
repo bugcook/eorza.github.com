@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - emacs
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: emacs
-  name: emacs
 ---
 
 六一了。想起自己的童年，不仅一阵黯然神伤。虽然自己的童年也不错，但是毕竟已经远去，那些无忧无虑的日子已经永远逝去，只是存在记忆中。

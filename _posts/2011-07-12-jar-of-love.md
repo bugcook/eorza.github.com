@@ -9,14 +9,6 @@ categories:
 tags:
 - love-2
 - video
-more_categories:
-- slug: entry
-  name: 日志
-more_tags:
-- slug: love-2
-  name: love
-- slug: video
-  name: 视频
 ---
 
 哦，曲婉婷，歌挺好的，或许是我觉得她长的很一般，于是就觉得她的歌值得听，或许是个人原因吧。我总是对外表俊美的东西有种排斥感，总觉得华而不实，总觉得里面是棉絮，没什么价值，不值得去关注。

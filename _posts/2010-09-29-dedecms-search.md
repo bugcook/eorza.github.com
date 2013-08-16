@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - dedecms
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: dedecms
-  name: dedecms
 ---
 
 今天看了一中午的dedecms，改了一个小东西，就是dedecms自动模型的联动搜索。

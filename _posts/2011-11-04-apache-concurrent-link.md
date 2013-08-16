@@ -10,16 +10,6 @@ categories:
 tags:
 - apache
 - ubuntu
-more_categories:
-- slug: note
-  name: 学习笔记
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: apache
-  name: Apache
-- slug: ubuntu
-  name: ubuntu
 ---
 
 突然发现，还有两个月就2012年了，时间过得真实带米内特块啊，最近公司的破网站经常连接不上去，于是找个命令查看apache的并发连接数，发现挺高的，哎。要懂得东西太多了。

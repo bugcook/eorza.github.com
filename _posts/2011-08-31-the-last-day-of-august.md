@@ -13,19 +13,6 @@ tags:
 - heart
 - bad
 - qd
-more_categories:
-- slug: lost
-  name: 往事追忆
-- slug: entry
-  name: 日志
-more_tags:
-- bgsound
-- slug: heart
-  name: 心情
-- slug: bad
-  name: 难过
-- slug: qd
-  name: 青岛
 ---
 
 八月的最后一天，或许是人生的最后一天，谁知道呢。我在想，我永远不知道下一秒会发生什么，虽然有些未来可以预测，而且预测的成功率很高很高，但是总不是百分百。或许，这就是活着的悲哀，或许这就是活着的幸运，谁知道呢。

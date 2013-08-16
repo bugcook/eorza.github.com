@@ -11,15 +11,6 @@ tags:
 - bgsound
 - care
 - heart
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: care
-  name: 在乎
-- slug: heart
-  name: 心情
 ---
 
 这个城市好像没有秋天，记得有一天，天气突然变冷了，我想，秋天应该已经来临了吧，后来温度骤升骤减了一下，冬天来了。印象中秋天好像应该伴随着深蓝的天空，收获的果实，满地的落叶，还有在田野里抓蚂蚱的儿童。原来这是城市，小时候的印象已经不能在这里出现了。

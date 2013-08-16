@@ -10,16 +10,6 @@ tags:
 - novel
 - starcraft
 - game
-more_categories:
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: novel
-  name: 小说
-- slug: starcraft
-  name: 星际争霸
-- slug: game
-  name: 游戏
 ---
 
 ## 小说：

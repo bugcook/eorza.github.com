@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - css
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: css
-  name: css
 ---
 
 从网上找了东西，发现都不适合自己的要求，也有纯css实现的，懒得看，大部分是基于js的，当然我的理念是能不用js就不用（这这是个个人怪癖，其实js也没什么，毕竟现在99%以上的浏览器都支持js了）。于是放慢了自己的脚步，自己研究一下吧。当然这里不是最完美的，至于哪里不完美，最后会给出。这里先给出代码。

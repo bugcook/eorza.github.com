@@ -11,15 +11,6 @@ tags:
 - bgsound
 - leave
 - speech
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- bgsound
-- slug: leave
-  name: 散伙
-- slug: speech
-  name: 演讲
 ---
 
 最近有一篇文章在Facebook, twitter上频频被转，Nurse reveals the top 5 regrets people make on their deathbed，它的原文是一名叫Bronnie Ware的护士写的。Bronnie Ware专门照顾那些临终病人，所以有机会听到很多人临终前说出他们一生里最后悔的事。她作了一个概括，有5件事是大多数人最后悔的。

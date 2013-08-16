@@ -9,14 +9,6 @@ categories:
 tags:
 - moving
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: moving
-  name: 感动
-- slug: classic
-  name: 经典
 ---
 
 我是一个硬盘。

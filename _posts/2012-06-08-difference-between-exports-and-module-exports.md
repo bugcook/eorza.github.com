@@ -9,14 +9,6 @@ categories:
 tags:
 - js
 - node
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: js
-  name: JS
-- slug: node
-  name: node
 ---
 
 在看代码的时候，注意到有很多地方出现了module.exports。当然在你的require的文件里，有很多exports.xxx这样的东西，我就研究了这两者之间的区别。

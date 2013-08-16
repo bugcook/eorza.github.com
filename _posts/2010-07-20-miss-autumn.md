@@ -9,14 +9,6 @@ categories:
 tags:
 - sts
 - classic
-more_categories:
-- slug: love
-  name: 喜欢的
-more_tags:
-- slug: sts
-  name: 史铁生
-- slug: classic
-  name: 经典
 ---
 
 双腿瘫痪后，我的脾气变得暴怒无常。望着望着天上北归的雁阵，我会突然把面前的玻璃砸碎；听着听着李谷一甜美的歌声，我会猛地把手边的东西摔向四周的墙壁。母亲就悄悄地躲出去，在我看不见的地方偷偷地听着我的动静。

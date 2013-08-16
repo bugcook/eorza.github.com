@@ -9,14 +9,6 @@ categories:
 tags:
 - bash
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: bash
-  name: bash
-- slug: linux
-  name: linux
 ---
 
 列出linux下面某一个目录的所有文件夹。一开始我觉得应该是应该不是什么大问题，应该有相应的命令吧，不过一段时间之后我发现找不到，只找到这一条命令，是在是惭愧啊，如果大家谁知道请告诉我哦。

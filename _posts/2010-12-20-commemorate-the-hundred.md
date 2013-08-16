@@ -9,14 +9,6 @@ categories:
 tags:
 - wordpress
 - memory
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- slug: wordpress
-  name: wordpress
-- slug: memory
-  name: 回忆
 ---
 
 本来想写一下我的大学系列，进入后台以后发现已经有99个posts了。这使我的计划得以改变，都说计划赶不上变化，但是我觉得我的变化也忒快了点。我想，我已经无可救药了，who can help me？

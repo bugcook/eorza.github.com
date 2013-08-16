@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - talk
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: talk
-  name: 语录
 ---
 
 1. 一个同学的状态：如今这世界畜生越来越多，肉却是一点也没有便宜。

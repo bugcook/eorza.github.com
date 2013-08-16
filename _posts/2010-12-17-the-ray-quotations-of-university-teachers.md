@@ -9,14 +9,6 @@ categories:
 tags:
 - haha
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: classic
-  name: 经典
 ---
 
 1. 今天心情不错，点个名～～你们发完信息告诉你们的同学来上课了么？发完了，一会再给他发一条说，老师没带点名册

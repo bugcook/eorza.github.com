@@ -11,18 +11,6 @@ tags:
 - 80-decade
 - alone
 - trouble
-more_categories:
-- slug: love
-  name: 喜欢的
-- slug: material
-  name: 学习资料
-more_tags:
-- slug: 80-decade
-  name: 80后
-- slug: alone
-  name: 单身
-- slug: trouble
-  name: 烦恼
 ---
 
 80后的男女青年总是有一些共同的烦恼，他们整天沉溺于网络中，不喜欢与人家交流，甚至连购物都懒得出街，干脆在网上购物。她们与网络越来越密切，参与社会活动越来越少。

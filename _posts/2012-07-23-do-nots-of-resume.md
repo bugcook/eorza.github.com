@@ -8,12 +8,6 @@ categories:
 - other
 tags:
 - jobs
-more_categories:
-- slug: other
-  name: 转载
-more_tags:
-- slug: jobs
-  name: 工作
 ---
 
 当你面临数百人竞争一个工作岗位的情况时，拥有一份至少不会让你在第一轮面试中就面临被淘汰风险的简历。我们已经根据职业专家的建议列出了最糟糕的简历错误，并将这些错误格式化，然后创造了一份虚构的“史上最糟糕的简历”。

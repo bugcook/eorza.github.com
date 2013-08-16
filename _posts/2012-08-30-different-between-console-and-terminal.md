@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - linux
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: linux
-  name: linux
 ---
 
 抽空研究了LFS，自己编个系统玩玩。碰到了一些名词，比如console和terminal等等，搞不懂了，就上网查了查。

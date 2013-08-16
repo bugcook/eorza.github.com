@@ -11,15 +11,6 @@ tags:
 - bgsound
 - heart
 - song
-more_categories:
-- slug: lost
-  name: 往事追忆
-more_tags:
-- bgsound
-- slug: heart
-  name: 心情
-- slug: song
-  name: 歌曲
 ---
 
 昨天晚上喝酒喝多了，今天感觉一点精神都没有。

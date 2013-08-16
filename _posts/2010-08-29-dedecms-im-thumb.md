@@ -8,12 +8,6 @@ categories:
 - note
 tags:
 - dedecms
-more_categories:
-- slug: note
-  name: 学习笔记
-more_tags:
-- slug: dedecms
-  name: dedecms
 ---
 
 要对自己有信心

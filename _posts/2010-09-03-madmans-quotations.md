@@ -10,16 +10,6 @@ tags:
 - haha
 - simple
 - classic
-more_categories:
-- slug: funny
-  name: 搞笑恶搞
-more_tags:
-- slug: haha
-  name: 搞笑
-- slug: simple
-  name: 纯真
-- slug: classic
-  name: 经典
 ---
 
 小时候，老师告诉我：人的体内都有一个勤奋小人和一个懒惰小人当你犹豫不决时他们就会打架。小学时勤奋小人经常把懒惰小人打得落花流水，初中时就打成平手了，到高中时就是懒惰小人经常获胜了。可是到了大学我忽然发现他们不打架了，NND的勤奋小人被打死了~

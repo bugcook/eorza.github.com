@@ -11,15 +11,6 @@ tags:
 - bgsound
 - git
 - qd
-more_categories:
-- slug: qingdao
-  name: 在青岛
-more_tags:
-- bgsound
-- slug: git
-  name: git
-- slug: qd
-  name: 青岛
 ---
 
 马上就2012年了，今年我的博客荒废了不少，原因只有懒惰。我从来不为自己找借口。很多事情连我们自己都不敢面对。比如当你生气的时候，你会承认惹你生气的这件事情其实也有你的过错，你会承认吗？
