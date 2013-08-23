@@ -69,11 +69,20 @@ video {
   border-radius: 3px;
   text-decoration: none;
 }
-#tag-box li a span {
-  vertical-align: super;
-  font-size: 0.8em;
+
+/* archive */
+.date {
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 90%;
+  color: #5b5b5b;
+  text-transform: uppercase;
 }
 
+/* code */
+pre code {
+  font-size: 85%;
+  overflow-x: auto;
+}
 
 /* footer */
 #footer {

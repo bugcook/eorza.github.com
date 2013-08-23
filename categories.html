@@ -7,7 +7,7 @@ title: Categories
 {% for category in site.categories %}
 	<li>
 		<a href="{{ site.path.category }}#{{ category[0] }}-ref">
-			{{ category[0] }} <span>{{ category[1].size }}</span>
+			{{ category[0] }} <sup>{{ category[1].size }}</sup>
 		</a>
 	</li>
 {% endfor %}
