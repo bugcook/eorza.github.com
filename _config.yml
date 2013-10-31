@@ -11,5 +11,5 @@ path:
   tags: /tags.html
   uploads: http://202.136.62.195:9099/uploads/
   resources: http://202.136.62.195:9099/
-  #uploads: http://dobila.bugcook.com/uploads/
-  #resources: http://dobila.bugcook.com/
+  #uploads: http://localhost/_resource/uploads/
+  #resources: http://localhost/_resource/

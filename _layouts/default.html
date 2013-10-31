@@ -1,86 +1,88 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>
-			{% if 'Dobila' != page.title %}
-			{{ page.title }}
-			-
-			{% endif %}
-			Dobila
-		</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>
+      {% if 'Dobila' != page.title %}
+      {{ page.title }}
+      -
+      {% endif %}
+      Dobila
+    </title>
 
-		<link rel="stylesheet" href="http://yandex.st/highlightjs/7.3/styles/default.min.css">
-		<script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
-		<script type="text/javascript">
-			hljs.initHighlightingOnLoad();
-		</script>
+    <link rel="stylesheet" href="http://yandex.st/highlightjs/7.3/styles/default.min.css">
+    <link rel="stylesheet" href="/assets/stylesheets/2013.css" type="text/css" />
 
-		<link rel="stylesheet" href="/assets/stylesheets/2013.css" type="text/css" />
+  </head>
+  <body>
+    <div id="page">
+      <header id="header">
+        {% if 'post' != page.layout %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+      </header>
 
-		<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-35140178-1']);
-			_gaq.push(['_trackPageview']);
+      <div id="main">
+        {{ content }}
+      </div>
 
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		</script>
-	</head>
-	<body>
-		<div id="page">
-			<header id="header">
-				{% if 'post' != page.layout %}
-					<h1>{{ page.title }}</h1>
-				{% endif %}
-			</header>
+      <footer id="footer">
+        © Hass Tian 2013 with help from
+        <a href="https://github.com/mojombo/jekyll" target="_blank">Jekyll</a>
+      </footer>
+    </div>
 
-			<div id="main">
-				{{ content }}
-			</div>
+    <div id="besides">
+      {% if page.bgsound %}
+      <div class="bgsound">
+        <button id="bgsound-button">Pause</button>
+      </div>
+      <script>
+        var bgsound_audio = new Audio();
+        bgsound_audio.src = "{{ site.path.uploads }}{{ page.bgsound  }}";
+        bgsound_audio.autoplay = "autoplay";
+        bgsound_audio.loop = "loop";
 
-			<footer id="footer">
-				© Hass Tian 2013 with help from
-				<a href="https://github.com/mojombo/jekyll" target="_blank">Jekyll</a>
-			</footer>
-		</div>
+        var bgsound_button = document.getElementById('bgsound-button');
+        bgsound_button.onclick = function() {
+          if (bgsound_audio.paused) {
+            bgsound_audio.play();
+            bgsound_button.innerText = 'Pause';
+          } else {
+            bgsound_audio.pause();
+            bgsound_button.innerText = 'Play';
+          }
+        };
+      </script>
+      {% endif %}
 
-		<div id="besides">
-		{% if page.bgsound %}
-			<div class="bgsound">
-				<button id="bgsound-button">Pause</button>
-			</div>
-			<script>
-				var bgsound_audio = new Audio();
-				bgsound_audio.src = "{{ site.path.uploads }}{{ page.bgsound  }}";
-				bgsound_audio.autoplay = "autoplay";
-				bgsound_audio.loop = "loop";
+      {% if page.mplayer %}
+      <div class="bgsound">
+        <button id="previous-button">Prev</button>
+        <button id="bgsound-button">Pause</button>
+        <button id="next-button">Next</button>
+      </div>
+      <script src="{{ site.path.resources }}access.php?type=hrm&pbtn=previous-button&bbtn=bgsound-button&nbtn=next-button&resurl={{ site.path.resources }}"></script>
+      {% endif %}
+    </div>
 
-				var bgsound_button = document.getElementById('bgsound-button');
-				bgsound_button.onclick = function() {
-					if (bgsound_audio.paused) {
-						bgsound_audio.play();
-						bgsound_button.innerText = 'Pause';
-					} else {
-						bgsound_audio.pause();
-						bgsound_button.innerText = 'Play';
-					}
-				};
-			</script>
-		{% endif %}
+    <script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
+    <script type="text/javascript">
+      hljs.initHighlightingOnLoad();
+    </script>
 
-		{% if page.mplayer %}
-			<div class="bgsound">
-				<button id="previous-button">Prev</button>
-				<button id="bgsound-button">Pause</button>
-				<button id="next-button">Next</button>
-			</div>
-			<script src="{{ site.path.resources }}access.php?type=hrm&pbtn=previous-button&bbtn=bgsound-button&nbtn=next-button"></script>
-		{% endif %}
-		</div>
-	</body>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-35140178-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+  </body>
 </html>
