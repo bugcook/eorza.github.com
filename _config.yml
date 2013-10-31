@@ -9,7 +9,9 @@ path:
   archive: /archive.html
   categories: /categories.html
   tags: /tags.html
-  uploads: http://202.136.62.195:9099/uploads/
-  resources: http://202.136.62.195:9099/
+  #uploads: http://202.136.62.195:9099/uploads/
+  #resources: http://202.136.62.195:9099/
+  uploads: http://eorza.com/uploads/
+  resources: http://eorza.com/
   #uploads: http://localhost/_resource/uploads/
   #resources: http://localhost/_resource/
