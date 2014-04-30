@@ -1,11 +1,7 @@
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 13px 'PT Serif', Georgia, Times, 'Times New Roman', serif;
 }
-h1,
-h2,
-h3,
-h4,
-h5 {
+h1, h2, h3, h4, h5 {
   margin-top: 1.5em;
 }
 
@@ -18,9 +14,7 @@ a:hover {
   text-decoration: underline;
 }
 
-ul,
-ol,
-p {
+ul, ol, p {
   line-height: 26px;
 }
 
@@ -133,27 +127,4 @@ pre .markdown .strong,
 pre .request,
 pre .status {
   font-weight: normal;
-}
-
-/* scrollbar */
-::-webkit-scrollbar-track-piece {
-  background-color: #eeeeee;
-  -webkit-border-radius: 0;
-}
-::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-::-webkit-scrollbar-thumb {
-  height: 50px;
-  background-color: #afafaf;
-  -webkit-border-radius: 5px;
-  outline: 2px solid #eeeeee;
-  outline-offset: -2px;
-  border: 2px solid #eee;
-}
-::-webkit-scrollbar-thumb:hover {
-  height: 50px;
-  background-color: #999;
-  -webkit-border-radius: 5px;
 }
